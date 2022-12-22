@@ -1,0 +1,36 @@
+{
+	"validData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"phone":"9604460059",
+		"uid":"12"
+	},
+	"invalidPhoneNo":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"phone":"",
+		"uid":"12"
+	},
+	"invalidOtp":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"phone":"9604460059",
+		"uid":"12"
+	},
+	"existingPhoneNo":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"phone":"7798210418",
+		"uid":"12"
+	},
+	"invalidPhoneDigitCount":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"phone":"73",
+		"uid":"12"
+	}
+	
+	
+	
+		
+}

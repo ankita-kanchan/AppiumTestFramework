@@ -1,0 +1,31 @@
+{
+	"ValidData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"ATestTournament1",
+		"bracket":"AnkitaBracket2"
+	},
+	"BlankData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"ATestTournament1",
+		"bracket":""
+	},
+	"InvalidData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"ATestTournament1",
+		"bracket":"#$%dsfG%^&"
+	},
+	"AlreadyExistingBracket":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"ATestTournament1",
+		"bracket":"TestABracket"
+	}
+	
+	
+	
+	
+		
+}

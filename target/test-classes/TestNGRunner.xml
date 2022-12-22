@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="signup" verbose="1" >
+
+<listeners>
+       <listener class-name="com.qa.listeners.TestListener"/> 
+ </listeners>
+
+  <test name="LoginTests" >  
+    <classes>
+       <class name="com.qa.tests.ChangePhoneTests" />
+    </classes>
+  </test>
+ </suite>

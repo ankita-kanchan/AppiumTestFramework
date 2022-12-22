@@ -1,0 +1,1291 @@
+[logs_null INFO ] 2021-10-01 18:25:15.583 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 18:25:16.521 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 18:25:16.551 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 18:25:39.302 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 18:25:41.568 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 18:25:47.107 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 18:25:48.521 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 18:25:49.826 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 18:25:53.223 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 18:25:54.587 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 18:25:57.531 BaseTest:281 - Date of Birth is 01/08/2001
+[logs_null INFO ] 2021-10-01 18:25:59.987 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 18:26:06.568 BaseTest:122 - video path: videos\null_null\2021-10-01-18-25-15\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 18:26:07.233 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 18:26:41.532 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 18:26:41.560 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 18:26:41.561 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 18:26:51.236 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 18:26:53.411 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 18:26:59.050 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 18:27:00.679 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 18:27:01.994 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 18:27:05.436 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 18:27:06.863 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 18:27:09.523 BaseTest:281 - Date of Birth is 01/08/2001
+[logs_null INFO ] 2021-10-01 18:27:11.364 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 18:27:17.101 BaseTest:122 - video path: videos\null_null\2021-10-01-18-26-41\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 18:27:17.573 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 18:59:01.168 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 18:59:01.186 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 18:59:01.187 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 18:59:14.425 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 18:59:16.731 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 18:59:23.048 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 18:59:25.486 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 18:59:26.879 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 18:59:29.900 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 18:59:31.164 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 18:59:33.686 BaseTest:281 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 18:59:35.404 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 18:59:40.160 BaseTest:122 - video path: videos\null_null\2021-10-01-18-59-00\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 18:59:40.665 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 18:59:56.141 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 18:59:56.160 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 18:59:56.161 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:00:03.413 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:00:05.697 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:00:12.290 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 19:00:13.804 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:00:15.128 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:00:18.162 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:00:19.448 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:00:21.878 BaseTest:281 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:00:23.539 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 19:00:28.514 BaseTest:122 - video path: videos\null_null\2021-10-01-18-59-55\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:00:28.980 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:01:23.596 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:01:23.617 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:01:23.618 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:01:34.030 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:01:36.300 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:01:41.809 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 19:01:43.205 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:01:44.511 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:01:47.868 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:01:49.336 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:01:52.591 BaseTest:281 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:01:54.833 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 19:02:00.633 BaseTest:122 - video path: videos\null_null\2021-10-01-19-01-23\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:02:01.102 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:02:39.892 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:02:39.910 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:02:39.910 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:02:48.906 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:02:51.175 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:02:56.820 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 19:02:58.234 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:02:59.525 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:03:03.120 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:03:04.506 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:03:07.154 BaseTest:281 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:03:08.884 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 19:03:13.847 BaseTest:122 - video path: videos\null_null\2021-10-01-19-02-39\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:03:14.271 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:05:13.174 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:05:13.186 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:05:13.187 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:05:21.234 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:05:23.391 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:05:23.510 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 19:05:29.001 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-10-01 19:05:30.418 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:05:31.760 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:05:35.048 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:05:36.470 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:05:39.110 BaseTest:281 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:05:40.831 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-10-01 19:05:44.192 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-01 19:05:46.787 BaseTest:122 - video path: videos\null_null\2021-10-01-19-05-13\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:05:47.247 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:05:47.593 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:14:50.421 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:14:50.432 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:14:50.433 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:14:58.345 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:15:00.690 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:15:00.801 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 19:15:06.338 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 19:15:07.653 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:15:08.868 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:15:10.584 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:15:12.090 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:15:13.340 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:15:15.947 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:15:17.652 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 19:15:20.896 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-01 19:15:23.417 BaseTest:122 - video path: videos\null_null\2021-10-01-19-14-50\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:15:23.890 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:15:24.098 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:17:08.983 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:17:08.993 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:17:08.994 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:17:18.165 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:17:20.442 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 19:17:20.588 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 19:17:26.062 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 19:17:27.365 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:17:28.585 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:17:30.319 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:17:31.848 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:17:33.141 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:17:33.790 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:17:35.831 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:17:38.348 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 19:17:39.256 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:17:41.397 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-01 19:17:44.016 BaseTest:122 - video path: videos\null_null\2021-10-01-19-17-08\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 19:17:44.510 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:17:44.712 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:19:26.420 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:19:26.440 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:19:26.441 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:19:35.913 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:19:38.205 SignupTests:49 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 19:19:38.478 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 19:19:43.760 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 19:19:45.057 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:19:46.295 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:19:47.998 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:19:49.513 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:19:50.814 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 19:19:51.478 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:19:53.950 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:19:55.792 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 19:19:56.807 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:19:59.978 Log:10 - invalidRecord test is failed.
+[logs_null INFO ] 2021-10-01 19:20:01.814 BaseTest:122 - video path: videos\null_null\2021-10-01-19-19-26\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 19:20:02.282 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:20:02.723 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:20:46.961 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:20:46.974 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:20:46.975 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:20:55.054 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:20:56.843 SignupTests:49 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 19:20:56.962 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 19:21:02.848 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:21:04.138 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:21:06.468 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:21:08.188 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:21:09.984 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 19:21:11.288 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 19:21:11.952 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:21:25.042 Log:10 - invalidRecord test is succeed.
+[logs_null INFO ] 2021-10-01 19:21:27.364 BaseTest:122 - video path: videos\null_null\2021-10-01-19-20-46\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 19:21:27.809 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:21:28.006 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:22:30.734 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:22:30.743 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:22:30.744 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:22:39.834 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:22:42.014 SignupTests:49 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 19:22:42.138 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 19:22:47.630 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:22:48.931 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:22:50.174 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:22:51.846 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:22:53.224 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 19:22:54.478 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 19:22:55.130 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:22:56.398 Log:10 - invalidRecord test is failed.
+[logs_null INFO ] 2021-10-01 19:22:58.428 BaseTest:122 - video path: videos\null_null\2021-10-01-19-22-30\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 19:22:58.837 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:22:59.058 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:23:30.717 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:23:30.726 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:23:30.726 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:23:38.631 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:23:40.891 SignupTests:49 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 19:23:41.027 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 19:23:46.532 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:23:47.828 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:23:49.051 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:23:50.741 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:23:52.210 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 19:23:53.490 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 19:23:54.150 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:23:55.572 Log:10 - invalidRecord test is succeed.
+[logs_null INFO ] 2021-10-01 19:23:57.679 BaseTest:122 - video path: videos\null_null\2021-10-01-19-23-30\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 19:23:58.184 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:23:58.390 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:25:19.370 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:25:19.379 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:25:19.380 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:25:27.522 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:25:29.663 SignupTests:49 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 19:25:29.762 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 19:25:35.311 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 19:25:36.626 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 19:25:37.867 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:25:39.578 BaseTest:274 - Clicked on 
+[logs_null INFO ] 2021-10-01 19:25:41.082 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 19:25:42.378 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:25:43.028 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:25:44.535 Log:10 - BlankData test is failed.
+[logs_null INFO ] 2021-10-01 19:25:46.739 BaseTest:122 - video path: videos\null_null\2021-10-01-19-25-19\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 19:25:47.255 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:25:47.458 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:26:34.217 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:26:34.226 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:26:34.227 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:26:44.127 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:26:46.327 SignupTests:49 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 19:26:46.457 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 19:26:51.976 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 19:26:53.247 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 19:26:54.487 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:26:55.736 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 19:26:56.995 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:26:57.643 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:26:59.133 Log:10 - BlankData test is succeed.
+[logs_null INFO ] 2021-10-01 19:27:01.970 BaseTest:122 - video path: videos\null_null\2021-10-01-19-26-34\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 19:27:02.412 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:27:02.624 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:36:18.493 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:36:18.502 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:36:18.503 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:36:29.068 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:36:31.413 SignupTests:49 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 19:36:31.537 Log:10 - BlankEmailData test is starting.
+[logs_null INFO ] 2021-10-01 19:36:37.024 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 19:36:38.345 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 19:36:39.594 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:36:40.831 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 19:36:42.082 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:36:42.726 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:36:44.173 Log:10 - BlankEmailData test is succeed.
+[logs_null INFO ] 2021-10-01 19:36:46.289 BaseTest:122 - video path: videos\null_null\2021-10-01-19-36-18\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 19:36:46.785 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:36:47.045 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:38:05.586 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:38:05.605 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:38:05.606 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:38:14.756 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:38:17.027 SignupTests:49 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 19:38:22.700 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:38:24.003 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:38:25.262 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:38:26.524 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:38:27.785 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 19:38:28.459 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:38:31.960 BaseTest:122 - video path: videos\null_null\2021-10-01-19-38-05\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 19:38:32.856 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:38:46.671 BaseTest:122 - video path: videos\null_null\2021-10-01-19-38-05\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:38:47.212 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:38:59.392 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:38:59.402 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:38:59.403 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:39:09.134 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:39:11.388 SignupTests:49 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 19:39:11.507 Log:10 - BlankEmailData test is starting.
+[logs_null INFO ] 2021-10-01 19:39:17.010 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:39:18.303 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:39:19.533 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:39:20.784 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:39:22.003 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 19:39:22.670 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:39:24.771 Log:10 - BlankEmailData test is failed.
+[logs_null INFO ] 2021-10-01 19:39:26.953 BaseTest:122 - video path: videos\null_null\2021-10-01-19-38-59\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 19:39:27.857 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:39:27.860 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 19:39:40.206 Log:10 - BlankPasswordData test is succeed.
+[logs_null INFO ] 2021-10-01 19:39:41.694 BaseTest:122 - video path: videos\null_null\2021-10-01-19-38-59\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:39:42.170 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:39:42.368 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:40:36.500 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:40:36.517 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:40:36.518 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:40:45.779 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:40:48.130 SignupTests:49 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 19:40:53.794 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:40:55.100 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:40:56.341 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:40:57.598 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:40:59.658 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 19:41:00.695 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:41:04.323 BaseTest:122 - video path: videos\null_null\2021-10-01-19-40-36\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 19:41:05.185 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:41:19.086 BaseTest:122 - video path: videos\null_null\2021-10-01-19-40-36\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:41:19.519 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:42:01.758 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:42:01.776 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:42:01.776 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:42:09.576 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:42:11.764 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:42:17.381 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:42:18.689 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:42:19.957 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 19:42:21.189 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:42:22.436 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:42:23.091 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:42:26.835 BaseTest:122 - video path: videos\null_null\2021-10-01-19-42-01\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:42:27.297 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:43:23.581 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:43:23.590 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:43:23.591 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:43:31.657 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:43:33.908 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:43:34.023 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 19:43:39.480 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:43:40.791 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:43:42.025 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 19:43:43.830 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:43:45.048 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:43:45.712 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:43:47.176 Log:10 - BlankPasswordData test is failed.
+[logs_null INFO ] 2021-10-01 19:43:49.251 BaseTest:122 - video path: videos\null_null\2021-10-01-19-43-23\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:43:49.735 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:43:49.940 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:44:19.849 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:44:19.861 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:44:19.862 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:44:28.076 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:44:30.284 SignupTests:49 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 19:44:30.376 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 19:44:35.910 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 19:44:37.238 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:44:38.442 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 19:44:39.680 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 19:44:40.939 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 19:44:41.655 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:44:43.100 Log:10 - BlankPasswordData test is succeed.
+[logs_null INFO ] 2021-10-01 19:44:45.291 BaseTest:122 - video path: videos\null_null\2021-10-01-19-44-19\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 19:44:45.737 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:44:45.946 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:45:30.743 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:45:30.761 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:45:30.762 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:45:38.465 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:45:40.767 SignupTests:49 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 19:45:46.313 BaseTest:294 - First Name is Ja,ne
+[logs_null INFO ] 2021-10-01 19:45:47.613 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:45:48.857 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:45:50.511 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:45:51.897 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 19:45:53.155 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 19:45:53.813 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:45:57.571 BaseTest:122 - video path: videos\null_null\2021-10-01-19-45-30\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 19:45:58.015 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:46:38.484 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:46:38.492 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:46:38.493 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:46:47.490 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:46:49.713 SignupTests:49 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 19:46:49.834 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 19:46:55.564 BaseTest:294 - First Name is Ja,ne
+[logs_null INFO ] 2021-10-01 19:46:56.855 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:46:58.511 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:47:00.592 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:47:02.428 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 19:47:03.727 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 19:47:04.362 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:47:06.966 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 19:47:09.389 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 19:47:10.396 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:47:12.474 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 19:47:14.876 BaseTest:122 - video path: videos\null_null\2021-10-01-19-46-38\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 19:47:15.329 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:47:15.541 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:48:04.438 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:48:04.447 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:48:04.448 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:48:13.209 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:48:15.378 SignupTests:49 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 19:48:15.483 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 19:48:21.043 BaseTest:294 - First Name is Ja,ne
+[logs_null INFO ] 2021-10-01 19:48:22.326 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:48:23.573 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:48:25.223 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:48:26.744 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 19:48:27.985 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 19:48:29.074 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:48:31.118 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 19:48:33.075 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 19:48:34.070 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:48:35.237 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 19:48:37.578 BaseTest:122 - video path: videos\null_null\2021-10-01-19-48-04\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 19:48:38.015 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:48:38.230 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:50:02.936 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:50:02.954 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:50:02.955 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:50:12.061 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:50:14.338 SignupTests:49 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 19:50:19.932 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 19:50:21.231 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:50:22.493 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 19:50:24.147 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:50:25.586 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 19:50:26.837 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 19:50:27.488 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:50:29.447 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 19:50:31.177 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 19:50:31.941 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:50:35.366 BaseTest:122 - video path: videos\null_null\2021-10-01-19-50-02\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 19:50:35.825 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 19:54:34.930 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 19:54:34.939 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 19:54:34.940 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 19:54:42.996 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 19:54:45.265 SignupTests:49 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 19:54:45.545 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 19:54:50.855 BaseTest:294 - First Name is Ja,ne
+[logs_null INFO ] 2021-10-01 19:54:52.202 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 19:54:53.452 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 19:54:55.164 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 19:54:56.645 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 19:54:57.922 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 19:54:58.578 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:55:01.317 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 19:55:03.893 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 19:55:04.878 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 19:55:06.043 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 19:55:08.358 BaseTest:122 - video path: videos\null_null\2021-10-01-19-54-34\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 19:55:08.844 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 19:55:09.077 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:01:08.498 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:01:08.590 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:01:08.592 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:01:17.240 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:01:19.467 SignupTests:49 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:01:19.579 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:01:25.073 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:01:26.392 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:01:27.626 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:01:29.363 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:01:30.805 BaseTest:294 - Contact No is 12345
+[logs_null INFO ] 2021-10-01 20:01:32.060 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:01:32.718 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:01:34.637 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:01:36.331 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:01:37.248 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:01:38.501 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:01:40.835 BaseTest:122 - video path: videos\null_null\2021-10-01-20-01-08\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:01:41.309 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 20:01:41.537 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:01:55.964 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:01:55.983 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:01:55.984 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:02:05.317 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:02:07.495 SignupTests:49 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:02:13.122 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:02:14.432 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:02:15.648 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:02:17.303 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:02:18.686 BaseTest:294 - Contact No is 1234
+[logs_null INFO ] 2021-10-01 20:02:19.951 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:02:20.597 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:02:22.553 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:02:24.326 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:02:25.332 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:02:28.830 BaseTest:122 - video path: videos\null_null\2021-10-01-20-01-55\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:02:29.317 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:07:16.557 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:07:16.566 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:07:16.567 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:07:26.498 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:07:28.756 SignupTests:49 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:07:28.859 Log:10 - AlreadyRegisteredEmail test is starting.
+[logs_null INFO ] 2021-10-01 20:07:35.258 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:07:36.584 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:07:37.858 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:07:39.514 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:07:41.059 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:07:42.989 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:07:43.635 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:07:45.541 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:07:47.206 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:07:48.103 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:07:49.313 Log:10 - AlreadyRegisteredEmail test is succeed.
+[logs_null INFO ] 2021-10-01 20:07:51.855 BaseTest:122 - video path: videos\null_null\2021-10-01-20-07-16\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:07:52.785 SignupTests:49 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:07:52.788 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:08:05.421 Log:10 - AlreadyRegisteredPhone test is succeed.
+[logs_null INFO ] 2021-10-01 20:08:06.564 BaseTest:122 - video path: videos\null_null\2021-10-01-20-07-16\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:08:07.427 SignupTests:49 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:08:07.429 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 20:10:23.434 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:10:23.460 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:10:23.461 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:10:33.990 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:10:47.940 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:10:53.311 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:10:55.145 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:10:56.431 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:10:58.200 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:10:59.728 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:11:01.106 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:11:01.765 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:11:04.428 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:11:06.570 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:11:07.646 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:11:11.090 BaseTest:122 - video path: videos\null_null\2021-10-01-20-10-23\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:11:12.027 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:11:25.373 BaseTest:122 - video path: videos\null_null\2021-10-01-20-10-23\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:11:45.162 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:11:45.180 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:11:45.181 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:11:55.807 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:12:09.010 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:12:13.617 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:12:14.945 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:12:16.202 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:12:18.321 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:12:19.955 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:12:21.264 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:12:21.922 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:12:23.971 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:12:25.741 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:12:26.640 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:12:29.997 BaseTest:122 - video path: videos\null_null\2021-10-01-20-11-44\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:12:30.897 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:12:44.251 BaseTest:122 - video path: videos\null_null\2021-10-01-20-11-44\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:12:45.223 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:14:20.209 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:14:20.218 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:14:20.218 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:14:29.346 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:14:31.590 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:14:33.277 Log:10 - AlreadyRegisteredEmail test is starting.
+[logs_null INFO ] 2021-10-01 20:14:39.600 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:14:40.934 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:14:42.183 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:14:43.837 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:14:45.275 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:14:46.552 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:14:47.181 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:14:49.774 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:14:51.448 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:14:52.357 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:14:53.510 Log:10 - AlreadyRegisteredEmail test is succeed.
+[logs_null INFO ] 2021-10-01 20:14:56.011 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:14:56.948 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:14:58.459 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:15:04.711 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:15:06.023 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:15:07.299 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:15:08.969 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:15:10.368 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:15:11.622 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:15:12.261 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:15:14.373 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:15:16.029 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:15:16.907 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:15:17.914 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:15:20.007 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:15:20.922 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:15:22.437 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 20:15:28.668 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 20:15:29.947 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 20:15:31.219 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:15:32.435 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 20:15:33.651 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:15:34.266 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:15:35.636 Log:10 - BlankData test is succeed.
+[logs_null INFO ] 2021-10-01 20:15:37.741 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 20:15:38.719 SignupTests:50 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 20:15:40.253 Log:10 - BlankEmailData test is starting.
+[logs_null INFO ] 2021-10-01 20:15:46.452 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:15:47.749 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:15:49.081 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:15:50.397 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:15:51.723 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:15:52.456 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:15:53.860 Log:10 - BlankEmailData test is succeed.
+[logs_null INFO ] 2021-10-01 20:15:55.915 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 20:15:56.833 SignupTests:50 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 20:15:58.364 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 20:16:04.612 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:16:05.947 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:16:07.234 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:16:08.522 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:16:09.858 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:16:10.617 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:16:12.489 Log:10 - BlankPasswordData test is succeed.
+[logs_null INFO ] 2021-10-01 20:16:15.160 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 20:16:15.895 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:16:17.745 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:16:23.955 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:16:25.195 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:16:26.406 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:16:28.042 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:16:29.481 BaseTest:294 - Contact No is 1234
+[logs_null INFO ] 2021-10-01 20:16:30.700 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:16:31.328 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:16:33.249 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:16:34.977 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:16:35.885 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:16:36.909 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:16:39.279 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:16:40.132 SignupTests:50 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 20:16:41.686 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 20:16:47.864 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:16:49.095 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:16:50.603 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:16:52.219 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:16:53.655 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:16:54.900 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 20:16:55.513 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:16:56.809 Log:10 - invalidRecord test is succeed.
+[logs_null INFO ] 2021-10-01 20:16:58.982 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 20:16:59.892 SignupTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 20:17:01.369 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 20:17:07.569 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 20:17:08.792 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:17:09.981 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:17:11.576 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:17:12.958 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:17:14.209 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 20:17:14.819 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:17:17.301 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 20:17:18.938 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 20:17:19.771 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:17:21.474 Log:10 - validData test is failed.
+[logs_null INFO ] 2021-10-01 20:17:24.551 BaseTest:122 - video path: videos\null_null\2021-10-01-20-14-20\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 20:17:25.196 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 20:17:25.423 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:26:26.460 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:26:26.478 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:26:26.479 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:26:34.853 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:26:37.102 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:26:45.264 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:26:46.585 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:26:47.819 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:26:49.464 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:26:51.022 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:26:52.353 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:26:53.508 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:26:55.510 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:26:57.294 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:26:58.319 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:27:02.748 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:27:03.597 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:27:11.405 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:27:12.682 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:27:13.882 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:27:15.509 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:27:16.926 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:27:18.171 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:27:18.789 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:27:21.344 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:27:23.326 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:27:24.254 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:27:27.602 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:27:28.541 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:27:36.279 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 20:27:37.519 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 20:27:38.721 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:27:39.940 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 20:27:41.174 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:27:41.819 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:27:45.289 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 20:27:46.215 SignupTests:50 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 20:27:53.899 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:27:55.206 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:27:56.427 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:27:57.647 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:27:58.860 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:27:59.497 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:28:03.611 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 20:28:04.498 SignupTests:50 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 20:28:12.247 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:28:13.501 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:28:14.799 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:28:15.988 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:28:17.202 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:28:17.849 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:28:22.055 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 20:28:22.930 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:28:30.605 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:28:31.828 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:28:33.040 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:28:34.650 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:28:36.017 BaseTest:294 - Contact No is 1234
+[logs_null INFO ] 2021-10-01 20:28:37.264 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:28:37.874 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:28:39.724 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:28:41.627 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:28:42.498 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:28:46.101 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:28:46.985 SignupTests:50 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 20:28:54.703 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:28:55.953 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:28:57.161 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:28:58.800 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:29:00.482 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:29:01.708 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 20:29:02.331 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:29:05.786 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 20:29:06.648 SignupTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 20:29:14.286 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 20:29:15.513 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:29:16.719 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:29:18.342 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:29:19.726 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:29:21.522 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 20:29:22.152 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:29:24.026 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 20:29:25.626 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 20:29:27.025 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:29:31.684 BaseTest:122 - video path: videos\null_null\2021-10-01-20-26-26\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 20:29:32.219 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:33:14.052 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:33:14.061 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:33:14.061 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:33:22.065 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:33:24.258 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:33:25.687 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:33:32.065 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:33:33.394 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:33:34.661 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:33:36.316 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:33:37.908 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:33:39.229 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:33:39.877 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:33:41.837 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:33:43.532 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:33:44.451 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:33:45.798 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:33:49.081 BaseTest:122 - video path: videos\null_null\2021-10-01-20-33-14\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:33:49.678 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 20:33:49.893 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:34:23.026 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:34:23.035 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:34:23.036 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:34:32.200 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:34:34.389 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:34:35.830 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:34:42.267 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:34:43.944 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:34:45.360 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:34:47.008 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:34:48.461 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:34:49.754 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:34:50.388 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:34:52.285 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:34:54.556 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:34:55.477 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:34:56.572 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:34:59.894 BaseTest:122 - video path: videos\null_null\2021-10-01-20-34-23\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:35:00.540 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 20:35:00.760 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:43:35.380 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:43:35.402 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:43:35.403 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:43:45.967 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:43:48.396 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:43:56.346 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:43:57.947 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:43:59.175 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:44:00.840 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:44:02.354 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:44:03.612 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:44:04.277 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:44:06.251 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:44:07.957 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:44:08.743 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:44:12.921 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:44:13.792 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:44:21.644 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:44:22.882 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:44:24.124 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:44:25.761 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:44:27.157 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:44:28.389 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:44:29.040 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:44:30.965 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:44:32.654 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:44:34.079 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:44:37.543 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:44:38.366 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:44:46.049 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 20:44:47.303 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 20:44:48.516 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:44:49.737 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 20:44:50.951 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:44:51.569 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:44:55.039 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 20:44:55.799 SignupTests:50 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 20:45:03.468 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:45:04.784 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:45:05.988 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:45:07.211 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:45:08.409 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:45:09.050 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:45:12.756 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 20:45:13.671 SignupTests:50 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 20:45:21.367 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:45:22.640 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:45:23.850 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:45:25.058 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:45:26.271 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:45:26.893 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:45:30.443 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 20:45:31.314 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:45:38.988 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:45:40.278 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:45:41.507 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:45:43.102 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:45:44.469 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:45:45.698 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:45:46.318 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:45:48.218 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:45:49.904 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:45:50.776 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:45:55.428 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:45:56.337 SignupTests:50 - 
+****** starting test:InvalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-01 20:46:04.307 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:46:05.544 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:46:06.767 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:46:08.420 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:46:09.842 BaseTest:294 - Contact No is 12345
+[logs_null INFO ] 2021-10-01 20:46:11.071 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:46:11.685 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:46:13.539 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:46:15.229 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:46:16.103 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:46:19.808 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\InvalidPhoneDigitCount.mp4
+[logs_null INFO ] 2021-10-01 20:46:20.698 SignupTests:50 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 20:46:28.385 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:46:29.634 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:46:30.818 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:46:32.451 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:46:33.830 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:46:35.062 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 20:46:35.674 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:46:39.055 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 20:46:39.884 SignupTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 20:46:47.592 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 20:46:48.833 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:46:50.020 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:46:51.623 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:46:52.981 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:46:54.217 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 20:46:54.830 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:46:56.697 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 20:46:58.661 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 20:46:59.408 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:47:03.599 BaseTest:122 - video path: videos\null_null\2021-10-01-20-43-34\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 20:47:04.207 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:48:35.193 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:48:35.200 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:48:35.202 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:48:45.697 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:48:47.897 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:48:49.299 Log:10 - AlreadyRegisteredEmail test is starting.
+[logs_null INFO ] 2021-10-01 20:48:55.682 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:48:56.990 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:48:58.225 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:48:59.872 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:49:01.779 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:49:03.051 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:49:03.703 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:49:05.687 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:49:07.493 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:49:08.519 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:49:09.709 Log:10 - AlreadyRegisteredEmail test is failed.
+[logs_null INFO ] 2021-10-01 20:49:12.125 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 20:49:13.060 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 20:49:14.541 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:49:20.809 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:49:22.080 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:49:23.274 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:49:24.918 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:49:26.356 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:49:27.922 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 20:49:28.567 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:49:30.504 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:49:32.150 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:49:33.064 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:49:34.147 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:49:36.416 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 20:49:37.348 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 20:49:38.796 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 20:49:45.054 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 20:49:46.312 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 20:49:47.522 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:49:48.762 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 20:49:50.030 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:49:50.663 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:49:52.049 Log:10 - BlankData test is succeed.
+[logs_null INFO ] 2021-10-01 20:49:54.095 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 20:49:55.019 SignupTests:50 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 20:49:56.433 Log:10 - BlankEmailData test is starting.
+[logs_null INFO ] 2021-10-01 20:50:02.683 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:50:03.925 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:50:05.129 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 20:50:06.418 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:50:07.632 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:50:08.270 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:50:09.598 Log:10 - BlankEmailData test is succeed.
+[logs_null INFO ] 2021-10-01 20:50:11.686 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 20:50:12.581 SignupTests:50 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 20:50:13.979 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 20:50:20.223 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:50:21.466 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:50:23.250 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 20:50:24.457 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:50:25.667 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 20:50:26.285 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:50:27.604 Log:10 - BlankPasswordData test is succeed.
+[logs_null INFO ] 2021-10-01 20:50:29.685 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 20:50:30.596 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 20:50:32.080 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 20:50:38.319 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:50:39.619 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:50:40.836 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:50:42.802 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:50:44.273 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:50:45.536 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:50:46.174 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:50:48.064 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:50:49.663 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:50:50.561 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:50:52.458 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 20:50:54.658 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 20:50:55.528 SignupTests:50 - 
+****** starting test:InvalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-01 20:50:57.033 Log:10 - InvalidPhoneDigitCount test is starting.
+[logs_null INFO ] 2021-10-01 20:51:03.205 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:51:04.467 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:51:05.683 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 20:51:07.375 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:51:08.819 BaseTest:294 - Contact No is 12345
+[logs_null INFO ] 2021-10-01 20:51:10.079 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 20:51:10.690 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:51:13.175 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 20:51:14.782 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 20:51:15.608 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:51:16.616 Log:10 - InvalidPhoneDigitCount test is failed.
+[logs_null INFO ] 2021-10-01 20:51:18.744 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\InvalidPhoneDigitCount.mp4
+[logs_null INFO ] 2021-10-01 20:51:19.573 SignupTests:50 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 20:51:21.031 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 20:51:27.237 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 20:51:28.471 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:51:29.680 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:51:31.282 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:51:32.644 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 20:51:33.867 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 20:51:34.482 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:51:35.814 Log:10 - invalidRecord test is succeed.
+[logs_null INFO ] 2021-10-01 20:51:37.873 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 20:51:38.727 SignupTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 20:51:40.243 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 20:51:46.412 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 20:51:47.632 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:51:48.826 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 20:51:50.800 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:51:52.269 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 20:51:53.522 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 20:51:54.125 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:51:55.989 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 20:51:57.663 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 20:51:58.510 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 20:52:00.666 Log:10 - validData test is failed.
+[logs_null INFO ] 2021-10-01 20:52:03.086 BaseTest:122 - video path: videos\null_null\2021-10-01-20-48-35\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 20:52:03.744 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 20:52:03.991 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-01 20:53:49.227 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:53:49.235 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:53:49.236 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:53:59.053 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 20:54:01.256 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 20:54:02.792 Log:10 - AlreadyRegisteredEmail test is starting.
+[logs_null INFO ] 2021-10-01 20:54:09.168 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 20:54:10.471 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 20:54:11.715 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 20:54:13.369 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 20:54:14.847 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 20:54:24.452 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 20:54:24.462 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 20:54:24.463 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 20:54:34.577 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 21:59:11.841 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-01 21:59:11.875 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-01 21:59:11.876 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-01 21:59:29.106 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-01 21:59:31.464 SignupTests:50 - 
+****** starting test:AlreadyRegisteredEmail******
+
+[logs_null INFO ] 2021-10-01 21:59:32.972 Log:10 - AlreadyRegisteredEmail test is starting.
+[logs_null INFO ] 2021-10-01 21:59:39.468 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 21:59:40.763 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 21:59:41.969 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-01 21:59:43.881 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 21:59:45.405 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 21:59:46.660 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 21:59:47.318 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 21:59:49.369 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 21:59:51.143 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 21:59:52.068 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 21:59:52.997 Log:10 - AlreadyRegisteredEmail test is succeed.
+[logs_null INFO ] 2021-10-01 21:59:56.068 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\AlreadyRegisteredEmail.mp4
+[logs_null INFO ] 2021-10-01 21:59:56.869 SignupTests:50 - 
+****** starting test:AlreadyRegisteredPhone******
+
+[logs_null INFO ] 2021-10-01 21:59:58.372 Log:10 - AlreadyRegisteredPhone test is starting.
+[logs_null INFO ] 2021-10-01 22:00:04.714 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 22:00:05.981 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:00:07.681 BaseTest:294 - Email is janedoe@gmail.com
+[logs_null INFO ] 2021-10-01 22:00:09.381 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 22:00:10.928 BaseTest:294 - Contact No is 9765649733
+[logs_null INFO ] 2021-10-01 22:00:12.172 BaseTest:294 - Password is Jane@123
+[logs_null INFO ] 2021-10-01 22:00:12.795 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:00:14.732 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 22:00:16.797 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 22:00:17.726 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:00:18.956 Log:10 - AlreadyRegisteredPhone test is failed.
+[logs_null INFO ] 2021-10-01 22:00:21.216 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\AlreadyRegisteredPhone.mp4
+[logs_null INFO ] 2021-10-01 22:00:22.185 SignupTests:50 - 
+****** starting test:BlankData******
+
+[logs_null INFO ] 2021-10-01 22:00:23.658 Log:10 - BlankData test is starting.
+[logs_null INFO ] 2021-10-01 22:00:29.922 BaseTest:294 - First Name is 
+[logs_null INFO ] 2021-10-01 22:00:31.133 BaseTest:294 - Last Name is 
+[logs_null INFO ] 2021-10-01 22:00:32.339 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 22:00:33.682 BaseTest:294 - Contact No is 
+[logs_null INFO ] 2021-10-01 22:00:34.879 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 22:00:35.514 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:00:36.905 Log:10 - BlankData test is succeed.
+[logs_null INFO ] 2021-10-01 22:00:38.873 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\BlankData.mp4
+[logs_null INFO ] 2021-10-01 22:00:39.638 SignupTests:50 - 
+****** starting test:BlankEmailData******
+
+[logs_null INFO ] 2021-10-01 22:00:41.122 Log:10 - BlankEmailData test is starting.
+[logs_null INFO ] 2021-10-01 22:00:47.480 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 22:00:48.689 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:00:49.905 BaseTest:294 - Email is 
+[logs_null INFO ] 2021-10-01 22:00:51.147 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 22:00:52.371 BaseTest:294 - Password is John@gmail.com
+[logs_null INFO ] 2021-10-01 22:00:53.033 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:00:54.368 Log:10 - BlankEmailData test is succeed.
+[logs_null INFO ] 2021-10-01 22:00:57.185 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\BlankEmailData.mp4
+[logs_null INFO ] 2021-10-01 22:00:58.084 SignupTests:50 - 
+****** starting test:BlankPasswordData******
+
+[logs_null INFO ] 2021-10-01 22:00:59.515 Log:10 - BlankPasswordData test is starting.
+[logs_null INFO ] 2021-10-01 22:01:05.787 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 22:01:06.996 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:01:08.206 BaseTest:294 - Email is John@gmail.com
+[logs_null INFO ] 2021-10-01 22:01:09.420 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 22:01:10.655 BaseTest:294 - Password is 
+[logs_null INFO ] 2021-10-01 22:01:11.290 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:01:12.661 Log:10 - BlankPasswordData test is succeed.
+[logs_null INFO ] 2021-10-01 22:01:14.589 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\BlankPasswordData.mp4
+[logs_null INFO ] 2021-10-01 22:01:15.499 SignupTests:50 - 
+****** starting test:InvalidPhone******
+
+[logs_null INFO ] 2021-10-01 22:01:16.984 Log:10 - InvalidPhone test is starting.
+[logs_null INFO ] 2021-10-01 22:01:23.469 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 22:01:24.708 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:01:25.908 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 22:01:27.556 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 22:01:29.026 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 22:01:30.268 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 22:01:30.878 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:01:32.745 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 22:01:34.429 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 22:01:35.353 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:01:37.041 Log:10 - InvalidPhone test is failed.
+[logs_null INFO ] 2021-10-01 22:01:39.120 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\InvalidPhone.mp4
+[logs_null INFO ] 2021-10-01 22:01:39.973 SignupTests:50 - 
+****** starting test:InvalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-01 22:01:41.437 Log:10 - InvalidPhoneDigitCount test is starting.
+[logs_null INFO ] 2021-10-01 22:01:47.763 BaseTest:294 - First Name is Jane
+[logs_null INFO ] 2021-10-01 22:01:49.005 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:01:50.211 BaseTest:294 - Email is testinguser@gmail.com
+[logs_null INFO ] 2021-10-01 22:01:51.848 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 22:01:53.269 BaseTest:294 - Contact No is 12345
+[logs_null INFO ] 2021-10-01 22:01:55.069 BaseTest:294 - Password is Demo@123456
+[logs_null INFO ] 2021-10-01 22:01:55.687 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:01:57.570 BaseTest:294 - Date of Birth is 12-04-2000
+[logs_null INFO ] 2021-10-01 22:01:59.177 BaseTest:274 - Selecting Gender Female
+[logs_null INFO ] 2021-10-01 22:01:59.986 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:02:01.921 Log:10 - InvalidPhoneDigitCount test is failed.
+[logs_null INFO ] 2021-10-01 22:02:03.853 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\InvalidPhoneDigitCount.mp4
+[logs_null INFO ] 2021-10-01 22:02:04.764 SignupTests:50 - 
+****** starting test:invalidRecord******
+
+[logs_null INFO ] 2021-10-01 22:02:06.148 Log:10 - invalidRecord test is starting.
+[logs_null INFO ] 2021-10-01 22:02:12.330 BaseTest:294 - First Name is john
+[logs_null INFO ] 2021-10-01 22:02:13.552 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:02:14.762 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 22:02:16.369 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 22:02:17.753 BaseTest:294 - Contact No is 123456789-
+[logs_null INFO ] 2021-10-01 22:02:18.978 BaseTest:294 - Password is john@123
+[logs_null INFO ] 2021-10-01 22:02:19.593 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:02:20.918 Log:10 - invalidRecord test is succeed.
+[logs_null INFO ] 2021-10-01 22:02:22.825 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\invalidRecord.mp4
+[logs_null INFO ] 2021-10-01 22:02:23.752 SignupTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-01 22:02:25.176 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-01 22:02:31.455 BaseTest:294 - First Name is John
+[logs_null INFO ] 2021-10-01 22:02:32.669 BaseTest:294 - Last Name is Doe
+[logs_null INFO ] 2021-10-01 22:02:33.867 BaseTest:294 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-10-01 22:02:35.478 BaseTest:274 - Clicked on +91
+[logs_null INFO ] 2021-10-01 22:02:36.843 BaseTest:294 - Contact No is 1234567890
+[logs_null INFO ] 2021-10-01 22:02:38.078 BaseTest:294 - Password is John@123
+[logs_null INFO ] 2021-10-01 22:02:38.700 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:02:40.596 BaseTest:294 - Date of Birth is 01-08-2001
+[logs_null INFO ] 2021-10-01 22:02:42.278 BaseTest:274 - Selecting Gender Male
+[logs_null INFO ] 2021-10-01 22:02:43.156 BaseTest:274 - Clicking on Next
+[logs_null INFO ] 2021-10-01 22:02:44.743 Log:10 - validData test is failed.
+[logs_null INFO ] 2021-10-01 22:02:48.065 BaseTest:122 - video path: videos\null_null\2021-10-01-21-59-11\SignupTests\validData.mp4
+[logs_null INFO ] 2021-10-01 22:02:48.769 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-01 22:02:49.045 BaseTest:151 - Appium server stopped

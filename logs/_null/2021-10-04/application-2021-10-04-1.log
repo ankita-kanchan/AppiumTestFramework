@@ -1,0 +1,514 @@
+[logs_null INFO ] 2021-10-04 12:47:18.841 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:47:19.063 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:47:19.066 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:48:27.675 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:48:27.695 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:48:27.696 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:48:39.271 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 12:55:30.558 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:55:30.580 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:55:30.581 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:55:41.752 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 12:56:05.921 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:56:05.941 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:56:05.942 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:56:16.053 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 12:57:15.679 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:57:15.699 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:57:15.700 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:57:26.755 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 12:57:29.012 LoginTests:49 - 
+****** starting test:MismatchCredentials******
+
+[logs_null INFO ] 2021-10-04 12:57:33.407 BaseTest:287 - Email is mubeen.mujahid@pi-sy.com
+[logs_null INFO ] 2021-10-04 12:57:35.333 BaseTest:287 - Password is Sanket@123
+[logs_null INFO ] 2021-10-04 12:57:41.541 BaseTest:122 - video path: videos\null_null\2021-10-04-12-57-15\LoginTests\MismatchCredentials.mp4
+[logs_null INFO ] 2021-10-04 12:57:42.566 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-04 12:57:43.500 BaseTest:287 - Email is 
+[logs_null INFO ] 2021-10-04 12:57:45.408 BaseTest:287 - Password is 
+[logs_null INFO ] 2021-10-04 12:58:07.284 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 12:58:07.305 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 12:58:07.307 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 12:58:18.354 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:00:37.761 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:00:37.783 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:00:37.784 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:00:49.656 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:00:51.923 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 13:00:57.230 BaseTest:287 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-04 13:01:01.905 BaseTest:122 - video path: videos\null_null\2021-10-04-13-00-37\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 13:01:03.008 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:01:03.964 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:01:10.718 BaseTest:287 - Password is 3
+[logs_null INFO ] 2021-10-04 13:01:14.354 BaseTest:287 - Password is 4
+[logs_null INFO ] 2021-10-04 13:01:16.393 BaseTest:287 - Password is 9
+[logs_null INFO ] 2021-10-04 13:01:18.491 BaseTest:287 - Password is 8
+[logs_null INFO ] 2021-10-04 13:01:31.445 BaseTest:122 - video path: videos\null_null\2021-10-04-13-00-37\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:01:31.904 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 13:14:19.098 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:14:19.188 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:14:19.189 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:14:31.102 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:14:33.677 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:14:38.850 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:15:04.125 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:15:04.153 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:15:04.155 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:15:15.884 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:15:17.908 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:15:23.526 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:15:29.645 BaseTest:287 - Password is 2
+[logs_null INFO ] 2021-10-04 13:15:32.590 BaseTest:287 - Password is 0
+[logs_null INFO ] 2021-10-04 13:15:34.591 BaseTest:287 - Password is 9
+[logs_null INFO ] 2021-10-04 13:15:36.564 BaseTest:287 - Password is 7
+[logs_null INFO ] 2021-10-04 13:19:14.734 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:19:14.769 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:19:14.770 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:19:25.118 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:19:28.309 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:19:33.043 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:19:50.106 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:19:50.147 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:19:50.150 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:20:02.468 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:20:16.949 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:20:19.274 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:20:23.848 BaseTest:287 - Password is 5
+[logs_null INFO ] 2021-10-04 13:20:25.870 BaseTest:287 - Password is 4
+[logs_null INFO ] 2021-10-04 13:20:28.867 BaseTest:287 - Password is 9
+[logs_null INFO ] 2021-10-04 13:20:30.906 BaseTest:287 - Password is 3
+[logs_null INFO ] 2021-10-04 13:20:35.873 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 13:20:37.887 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 13:20:44.938 BaseTest:122 - video path: videos\null_null\2021-10-04-13-19-49\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:20:45.797 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 13:30:43.590 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:30:43.615 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:30:43.616 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:30:51.936 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:30:54.586 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 13:31:08.494 BaseTest:122 - video path: videos\null_null\2021-10-04-13-30-42\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 13:31:10.058 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 13:31:22.073 BaseTest:122 - video path: videos\null_null\2021-10-04-13-30-42\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 13:31:22.938 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 13:31:35.293 BaseTest:122 - video path: videos\null_null\2021-10-04-13-30-42\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 13:31:36.232 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:31:51.104 BaseTest:122 - video path: videos\null_null\2021-10-04-13-30-42\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:31:51.674 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 13:33:44.747 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:33:44.776 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:33:44.777 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:33:54.814 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:33:57.127 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 13:34:02.249 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 13:34:07.888 BaseTest:122 - video path: videos\null_null\2021-10-04-13-33-44\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 13:34:08.902 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 13:34:10.055 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:34:13.435 BaseTest:122 - video path: videos\null_null\2021-10-04-13-33-44\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 13:34:14.449 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 13:34:16.565 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 13:34:21.702 BaseTest:122 - video path: videos\null_null\2021-10-04-13-33-44\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 13:34:22.671 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:34:24.560 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:34:27.361 BaseTest:122 - video path: videos\null_null\2021-10-04-13-33-44\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:34:27.927 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 13:36:32.611 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:36:32.625 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:36:32.625 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:36:41.418 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:36:45.325 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 13:36:45.494 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 13:36:48.920 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 13:36:52.107 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 13:36:54.229 BaseTest:122 - video path: videos\null_null\2021-10-04-13-36-32\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 13:36:55.231 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 13:36:55.235 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 13:36:56.369 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:36:57.905 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 13:37:00.065 BaseTest:122 - video path: videos\null_null\2021-10-04-13-36-32\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 13:37:01.031 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 13:37:01.035 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-04 13:37:02.851 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 13:37:06.370 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-04 13:37:07.973 BaseTest:122 - video path: videos\null_null\2021-10-04-13-36-32\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 13:37:09.397 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:37:09.400 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-04 13:37:10.940 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:37:13.231 Log:10 - validEmail test is succeed.
+[logs_null INFO ] 2021-10-04 13:37:14.213 BaseTest:122 - video path: videos\null_null\2021-10-04-13-36-32\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:37:14.770 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-04 13:37:15.192 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 13:37:56.045 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 13:37:56.069 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 13:37:56.070 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 13:38:05.573 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 13:38:07.896 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 13:38:13.077 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 13:38:18.515 BaseTest:122 - video path: videos\null_null\2021-10-04-13-37-55\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 13:38:19.837 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 13:38:20.984 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:38:24.311 BaseTest:122 - video path: videos\null_null\2021-10-04-13-37-55\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 13:38:25.271 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 13:38:27.433 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 13:38:32.449 BaseTest:122 - video path: videos\null_null\2021-10-04-13-37-55\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 13:38:33.389 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 13:38:35.443 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 13:38:37.504 BaseTest:287 - OTP Digit 1 is P
+[logs_null INFO ] 2021-10-04 13:38:40.425 BaseTest:287 - OTP Digit 2 is l
+[logs_null INFO ] 2021-10-04 13:38:42.459 BaseTest:287 - OTP Digit 3 is e
+[logs_null INFO ] 2021-10-04 13:38:44.467 BaseTest:287 - OTP Digit 4 is a
+[logs_null INFO ] 2021-10-04 13:38:59.455 BaseTest:122 - video path: videos\null_null\2021-10-04-13-37-55\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 13:39:00.120 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 14:06:09.908 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:06:09.994 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:06:09.995 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:06:22.530 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:06:24.771 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:06:29.957 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:06:36.950 BaseTest:122 - video path: videos\null_null\2021-10-04-14-06-09\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:06:37.991 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:06:39.093 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:06:42.218 BaseTest:122 - video path: videos\null_null\2021-10-04-14-06-09\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:06:43.150 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:06:44.230 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:06:49.631 BaseTest:122 - video path: videos\null_null\2021-10-04-14-06-09\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:06:51.040 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 14:06:52.102 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:06:55.746 BaseTest:287 - OTP Digit 1 is 2
+[logs_null INFO ] 2021-10-04 14:06:58.645 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-04 14:07:00.741 BaseTest:287 - OTP Digit 3 is 7
+[logs_null INFO ] 2021-10-04 14:07:02.657 BaseTest:287 - OTP Digit 4 is 5
+[logs_null INFO ] 2021-10-04 14:07:17.700 BaseTest:122 - video path: videos\null_null\2021-10-04-14-06-09\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 14:07:18.296 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 14:22:32.348 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:22:32.369 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:22:32.372 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:22:43.810 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:22:46.368 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:22:51.461 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:22:57.208 BaseTest:122 - video path: videos\null_null\2021-10-04-14-22-31\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:22:58.084 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:22:59.200 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:23:02.812 BaseTest:122 - video path: videos\null_null\2021-10-04-14-22-31\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:23:04.057 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:23:06.161 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:23:11.039 BaseTest:122 - video path: videos\null_null\2021-10-04-14-22-31\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:23:12.130 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 14:23:14.209 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:23:17.212 BaseTest:287 - OTP Digit 1 is 7
+[logs_null INFO ] 2021-10-04 14:23:21.202 BaseTest:287 - OTP Digit 2 is 0
+[logs_null INFO ] 2021-10-04 14:23:23.242 BaseTest:287 - OTP Digit 3 is 0
+[logs_null INFO ] 2021-10-04 14:23:25.237 BaseTest:287 - OTP Digit 4 is 1
+[logs_null INFO ] 2021-10-04 14:23:28.224 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:23:30.207 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:23:37.829 BaseTest:122 - video path: videos\null_null\2021-10-04-14-22-31\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 14:23:38.337 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 14:25:33.295 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:25:33.316 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:25:33.317 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:25:43.641 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:25:47.626 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:25:51.063 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:25:55.459 BaseTest:122 - video path: videos\null_null\2021-10-04-14-25-32\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:25:56.385 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:25:57.489 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:26:11.116 BaseTest:122 - video path: videos\null_null\2021-10-04-14-25-32\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:29:24.381 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:29:24.392 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:29:24.393 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:29:34.741 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:29:36.961 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:29:38.450 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 14:29:44.367 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:29:46.640 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 14:29:49.185 BaseTest:122 - video path: videos\null_null\2021-10-04-14-29-24\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:29:50.074 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:29:51.601 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 14:29:57.452 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:30:00.809 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-04 14:30:02.721 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-04 14:30:04.699 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-04 14:30:06.697 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-04 14:30:10.761 Log:10 - invalidOtp test is failed.
+[logs_null INFO ] 2021-10-04 14:30:13.210 BaseTest:122 - video path: videos\null_null\2021-10-04-14-29-24\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:30:14.215 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:30:15.800 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-04 14:30:21.709 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:30:23.760 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-04 14:30:25.807 BaseTest:122 - video path: videos\null_null\2021-10-04-14-29-24\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:30:26.684 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 14:30:28.189 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-04 14:30:34.091 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:30:37.568 BaseTest:287 - OTP Digit 1 is 4
+[logs_null INFO ] 2021-10-04 14:30:40.577 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-04 14:30:42.581 BaseTest:287 - OTP Digit 3 is 7
+[logs_null INFO ] 2021-10-04 14:30:44.583 BaseTest:287 - OTP Digit 4 is 8
+[logs_null INFO ] 2021-10-04 14:30:47.602 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:30:49.594 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:30:54.066 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-04 14:30:57.304 BaseTest:122 - video path: videos\null_null\2021-10-04-14-29-24\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 14:30:57.712 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-04 14:30:58.021 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 14:34:39.852 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:34:39.872 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:34:39.873 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:34:49.155 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:34:51.373 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:34:58.852 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:35:03.690 BaseTest:122 - video path: videos\null_null\2021-10-04-14-34-39\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:35:04.575 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:35:11.966 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:35:15.179 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-04 14:35:17.149 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-04 14:35:19.182 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-04 14:35:21.147 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-04 14:35:26.405 BaseTest:122 - video path: videos\null_null\2021-10-04-14-34-39\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:35:27.269 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:35:34.645 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:35:39.254 BaseTest:122 - video path: videos\null_null\2021-10-04-14-34-39\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:35:40.195 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-04 14:35:47.594 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:35:51.046 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-04 14:35:53.016 BaseTest:287 - OTP Digit 2 is 5
+[logs_null INFO ] 2021-10-04 14:35:54.985 BaseTest:287 - OTP Digit 3 is 6
+[logs_null INFO ] 2021-10-04 14:35:56.997 BaseTest:287 - OTP Digit 4 is 3
+[logs_null INFO ] 2021-10-04 14:36:00.989 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:36:03.007 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-04 14:36:10.590 BaseTest:122 - video path: videos\null_null\2021-10-04-14-34-39\ForgotPassword\previousPassword.mp4
+[logs_null INFO ] 2021-10-04 14:36:11.580 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 14:36:18.927 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:36:22.403 BaseTest:287 - OTP Digit 1 is 9
+[logs_null INFO ] 2021-10-04 14:36:24.422 BaseTest:287 - OTP Digit 2 is 9
+[logs_null INFO ] 2021-10-04 14:36:27.393 BaseTest:287 - OTP Digit 3 is 1
+[logs_null INFO ] 2021-10-04 14:36:29.381 BaseTest:287 - OTP Digit 4 is 2
+[logs_null INFO ] 2021-10-04 14:36:44.855 BaseTest:122 - video path: videos\null_null\2021-10-04-14-34-39\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 14:36:45.350 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 14:39:11.317 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:39:11.333 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:39:11.334 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:39:19.492 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:39:21.992 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:39:23.485 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 14:39:29.372 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:39:31.609 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 14:39:34.784 BaseTest:122 - video path: videos\null_null\2021-10-04-14-39-11\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:39:35.699 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:39:37.193 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 14:39:43.104 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:39:55.582 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 14:39:58.746 BaseTest:122 - video path: videos\null_null\2021-10-04-14-39-11\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:40:04.760 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:40:04.771 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:40:04.772 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:40:15.995 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:40:28.867 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:40:30.599 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 14:40:36.515 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:40:38.672 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 14:40:42.116 BaseTest:122 - video path: videos\null_null\2021-10-04-14-40-04\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:40:43.021 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:40:44.515 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 14:40:50.417 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:41:03.603 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 14:41:05.976 BaseTest:122 - video path: videos\null_null\2021-10-04-14-40-04\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:41:06.943 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:41:08.365 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-04 14:41:14.253 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:41:16.327 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-04 14:41:19.150 BaseTest:122 - video path: videos\null_null\2021-10-04-14-40-04\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:41:19.758 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-04 14:41:21.161 Log:10 - previousPassword test is starting.
+[logs_null INFO ] 2021-10-04 14:41:28.603 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:41:40.973 Log:10 - previousPassword test is succeed.
+[logs_null INFO ] 2021-10-04 14:46:09.508 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 14:46:09.519 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 14:46:09.520 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 14:46:18.963 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 14:46:21.213 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 14:46:22.631 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 14:46:28.679 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 14:46:30.745 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 14:46:33.275 BaseTest:122 - video path: videos\null_null\2021-10-04-14-46-09\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 14:46:34.066 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 14:46:35.498 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 14:46:41.394 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 14:46:54.230 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 14:46:57.222 BaseTest:122 - video path: videos\null_null\2021-10-04-14-46-09\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 14:46:58.188 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 14:46:59.763 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-04 14:47:05.639 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 14:47:07.747 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-04 14:47:09.498 BaseTest:122 - video path: videos\null_null\2021-10-04-14-46-09\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 14:47:10.276 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-04 14:47:11.639 Log:10 - previousPassword test is starting.
+[logs_null INFO ] 2021-10-04 14:47:17.547 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 15:08:45.050 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 15:08:45.063 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 15:08:45.064 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 15:09:00.585 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 15:09:02.817 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 15:09:04.312 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 15:09:10.374 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 15:09:12.737 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 15:09:15.369 BaseTest:122 - video path: videos\null_null\2021-10-04-15-08-45\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 15:09:16.221 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 15:09:17.683 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 15:09:23.607 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 15:09:36.112 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 15:09:38.852 BaseTest:122 - video path: videos\null_null\2021-10-04-15-08-45\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 15:17:19.614 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 15:17:19.625 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 15:17:19.628 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 15:17:27.620 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 15:17:29.927 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-04 15:17:31.398 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-04 15:17:37.284 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-04 15:17:39.534 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-04 15:17:42.022 BaseTest:122 - video path: videos\null_null\2021-10-04-15-17-19\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-04 15:17:42.910 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 15:17:44.413 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-04 15:17:50.296 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 15:18:04.049 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-04 15:18:06.963 BaseTest:122 - video path: videos\null_null\2021-10-04-15-17-19\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-04 15:18:07.937 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-04 15:18:09.474 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-04 15:18:15.377 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-04 15:18:17.457 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-04 15:18:19.112 BaseTest:122 - video path: videos\null_null\2021-10-04-15-17-19\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-04 15:18:20.031 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-04 15:18:21.464 Log:10 - previousPassword test is starting.
+[logs_null INFO ] 2021-10-04 15:18:27.716 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 15:18:40.497 Log:10 - previousPassword test is failed.
+[logs_null INFO ] 2021-10-04 15:18:43.729 BaseTest:122 - video path: videos\null_null\2021-10-04-15-17-19\ForgotPassword\previousPassword.mp4
+[logs_null INFO ] 2021-10-04 15:18:44.702 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-04 15:18:46.233 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-04 15:18:52.120 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-04 15:19:04.600 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-04 15:19:06.716 BaseTest:122 - video path: videos\null_null\2021-10-04-15-17-19\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-04 15:19:07.172 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-04 15:19:07.373 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-04 15:41:03.463 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-04 15:41:03.486 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-04 15:41:03.487 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-04 15:41:12.621 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-04 15:41:15.010 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-04 15:41:22.606 BaseTest:287 - Email is sanketwin@gmail.com

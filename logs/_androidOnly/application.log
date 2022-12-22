@@ -1,0 +1,10 @@
+[logs_androidOnly INFO ] 2021-09-25 18:10:59.656 BaseTest:200 - log path: logs\_androidOnly
+[logs_androidOnly INFO ] 2021-09-25 18:10:59.683 BaseTest:207 - load config.properties
+[logs_androidOnly INFO ] 2021-09-25 18:10:59.719 BaseTest:212 - load strings/strings.xml
+[logs_androidOnly FATAL] 2021-09-25 18:10:59.721 BaseTest:237 - driver initialization failure. ABORT!!!
+java.lang.IllegalArgumentException: InputStream cannot be null
+[logs_androidOnly INFO ] 2021-09-25 18:12:41.217 BaseTest:200 - log path: logs\_androidOnly
+[logs_androidOnly INFO ] 2021-09-25 18:12:41.235 BaseTest:207 - load config.properties
+[logs_androidOnly INFO ] 2021-09-25 18:12:41.236 BaseTest:212 - load strings/strings.xml
+[logs_androidOnly FATAL] 2021-09-25 18:12:41.237 BaseTest:237 - driver initialization failure. ABORT!!!
+java.lang.IllegalArgumentException: InputStream cannot be null

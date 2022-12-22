@@ -1,0 +1,154 @@
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:15:53.587 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:15:53.606 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:15:53.607 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f FATAL] 2021-09-25 18:15:53.608 BaseTest:238 - driver initialization failure. ABORT!!!
+java.lang.IllegalArgumentException: InputStream cannot be null
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:17:10.846 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:17:10.863 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:17:10.865 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:17:10.888 BaseTest:228 - appUrl is/F:/Appium/FanbukuUserAppTesting/target/test-classes/app/app-debug.apk
+[logs_java.lang.ThreadLocal@59402b8f FATAL] 2021-09-25 18:17:12.075 BaseTest:238 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at '/F:/Appium/FanbukuUserAppTesting/target/test-classes/app/app-debug.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at '/F:/Appium/FanbukuUserAppTesting/target/test-classes/app/app-debug.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\ankit\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\ankit\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:24.972 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:25.019 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:25.020 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:36.735 BaseTest:236 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:39.964 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:53.729 BaseTest:132 - video path: videos\null_null\2021-09-25-18-26-24\LoginTests\blankData.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:26:54.835 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:27:06.532 BaseTest:132 - video path: videos\null_null\2021-09-25-18-26-24\LoginTests\invalidPassword.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:27:07.627 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:27:19.900 BaseTest:132 - video path: videos\null_null\2021-09-25-18-26-24\LoginTests\invalidUserName.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:27:20.873 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:27:34.515 BaseTest:132 - video path: videos\null_null\2021-09-25-18-26-24\LoginTests\successfulLogin.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:22.793 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:22.813 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:22.815 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:35.981 BaseTest:236 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:40.387 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:54.134 BaseTest:132 - video path: videos\null_null\2021-09-25-18-30-22\LoginTests\blankData.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:30:55.143 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:31:08.458 BaseTest:132 - video path: videos\null_null\2021-09-25-18-30-22\LoginTests\invalidPassword.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:31:09.388 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:31:22.422 BaseTest:132 - video path: videos\null_null\2021-09-25-18-30-22\LoginTests\invalidUserName.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:31:23.337 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:31:36.736 BaseTest:132 - video path: videos\null_null\2021-09-25-18-30-22\LoginTests\successfulLogin.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:44:39.984 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:44:40.039 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:44:40.040 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f FATAL] 2021-09-25 18:45:00.133 BaseTest:238 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized. Make sure the application under test does not crash and investigate the logcat output.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized. Make sure the application under test does not crash and investigate the logcat output.
+    at getResponseForW3CError (C:\Users\ankit\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\ankit\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:25.577 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:25.620 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:25.623 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:40.625 BaseTest:236 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:44.517 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:47.394 BaseTest:288 - login with 
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:49.801 BaseTest:132 - video path: videos\null_null\2021-09-25-18-52-25\LoginTests\blankData.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:51.189 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:52.080 BaseTest:288 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:54.260 BaseTest:132 - video path: videos\null_null\2021-09-25-18-52-25\LoginTests\invalidPassword.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:55.202 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:56.075 BaseTest:288 - login with invalidusername@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:58.444 BaseTest:132 - video path: videos\null_null\2021-09-25-18-52-25\LoginTests\invalidUserName.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:52:59.703 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:53:00.744 BaseTest:288 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:53:02.283 BaseTest:132 - video path: videos\null_null\2021-09-25-18-52-25\LoginTests\successfulLogin.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:56:59.502 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:56:59.521 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:56:59.521 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:10.943 BaseTest:236 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:13.257 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:20.392 BaseTest:289 - login with 
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:22.198 BaseTest:132 - video path: videos\null_null\2021-09-25-18-56-59\LoginTests\blankData.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:23.054 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:23.939 BaseTest:289 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:25.355 BaseTest:132 - video path: videos\null_null\2021-09-25-18-56-59\LoginTests\invalidPassword.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:26.289 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:27.318 BaseTest:289 - login with invalidusername@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:28.069 BaseTest:132 - video path: videos\null_null\2021-09-25-18-56-59\LoginTests\invalidUserName.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:28.938 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:29.785 BaseTest:289 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 18:57:32.452 BaseTest:132 - video path: videos\null_null\2021-09-25-18-56-59\LoginTests\successfulLogin.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:13:14.103 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:13:14.122 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:13:14.123 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f FATAL] 2021-09-25 19:13:16.561 BaseTest:238 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:03.100 BaseTest:201 - log path: logs\_java.lang.ThreadLocal@59402b8f
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:03.118 BaseTest:208 - load config.properties
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:03.119 BaseTest:213 - load strings/strings.xml
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:11.925 BaseTest:236 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:14.162 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:18.566 BaseTest:289 - login with 
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:20.428 BaseTest:132 - video path: videos\null_null\2021-09-25-19-18-02\LoginTests\blankData.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:21.268 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:22.115 BaseTest:289 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:24.457 BaseTest:132 - video path: videos\null_null\2021-09-25-19-18-02\LoginTests\invalidPassword.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:25.364 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:26.283 BaseTest:289 - login with invalidusername@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:27.140 BaseTest:132 - video path: videos\null_null\2021-09-25-19-18-02\LoginTests\invalidUserName.mp4
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:28.103 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:28.923 BaseTest:289 - login with sanket.win@gmail.com
+[logs_java.lang.ThreadLocal@59402b8f INFO ] 2021-09-25 19:18:30.473 BaseTest:132 - video path: videos\null_null\2021-09-25-19-18-02\LoginTests\successfulLogin.mp4
