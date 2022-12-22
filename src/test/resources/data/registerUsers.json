@@ -1,0 +1,102 @@
+{
+	"ValidRecord":{			
+		"fname"	:"John",
+		"lname" :"Doe",
+		"email":"johndoe@gmail.com",
+		"code":"+91",
+		"phonenumber":"1234567890",
+		"pass":"John@123",
+		"bod":"01-08-2001",
+		"gender":"Male",
+		"referral_code":"NA"
+	},
+	"InvalidRecord":{			
+		"fname"	:"john",
+		"lname" :"Doe",
+		"email":"johndoe@gmail.com",
+		"code":"+91",
+		"phonenumber":"123456789-",
+		"pass":"john@123",
+		"bod":"01-08-2001",
+		"gender":"Male",
+		"referral_code":"NA"
+	},
+	"BlankData":{			
+		"fname"	:"",
+		"lname" :"",
+		"email":"",
+		"code":"",
+		"phonenumber":"",
+		"pass":"",
+		"bod":"",
+		"gender":"",
+		"referral_code":""
+	},"BlankEmail":{			
+		"fname"	:"john",
+		"lname" :"Doe",
+		"email":"",
+		"code":"+91",
+		"phonenumber":"1234567890",
+		"pass":"John@gmail.com",
+		"bod":"",
+		"gender":"",
+		"referral_code":""
+	},"BlankPassword":{			
+		"fname"	:"john",
+		"lname" :"Doe",
+		"email":"John@gmail.com",
+		"code":"+91",
+		"phonenumber":"1234567890",
+		"pass":"",
+		"bod":"",
+		"gender":"",
+		"referral_code":""
+	},
+	"AlreadyRegisteredPhone":{			
+		"fname"	:"Jane",
+		"lname" :"Doe",
+		"email":"janedoe@gmail.com",
+		"code":"+91",
+		"phonenumber":"9765649733",
+		"pass":"Jane@123",
+		"bod":"12-04-2000",
+		"gender":"Female",
+		"referral_code":"NA"
+	},
+	"AlreadyRegisteredEmail":{			
+		"fname"	:"Jane",
+		"lname" :"Doe",
+		"email":"sanketwin@gmail.com",
+		"code":"+91",
+		"phonenumber":"9765649733",
+		"pass":"Jane@123",
+		"bod":"12-04-2000",
+		"gender":"Female",
+		"referral_code":"NA"
+	},
+	"InvalidPhone":{			
+		"fname"	:"Jane",
+		"lname" :"Doe",
+		"email":"testinguser@gmail.com",
+		"code":"+91",
+		"phonenumber":"123456789-",
+		"pass":"Demo@123456",
+		"bod":"12-04-2000",
+		"gender":"Female",
+		"referral_code":"NA"
+	},
+	"InvalidPhoneCount":{			
+		"fname"	:"Jane",
+		"lname" :"Doe",
+		"email":"testinguser@gmail.com",
+		"code":"+91",
+		"phonenumber":"12345",
+		"pass":"Demo@123456",
+		"bod":"12-04-2000",
+		"gender":"Female",
+		"referral_code":"NA"
+	}
+	
+	
+	
+}

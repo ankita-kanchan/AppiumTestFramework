@@ -1,0 +1,12 @@
+{
+	"NewRequest":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"friend_name":"prajaktaplokhande@gmail.com"
+	},
+	"AlreadyRequest":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"friend_name":"ajinkya@sharklasers.com"
+	}
+}

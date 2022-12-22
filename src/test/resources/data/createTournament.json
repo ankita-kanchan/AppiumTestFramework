@@ -1,0 +1,32 @@
+{
+	"ValidData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"Testing_Tournament5"
+	},
+	"BlankData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":""
+	},
+	"InvalidData":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"hdheh83#@$%$#"
+	},
+	"PrivateTournament":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"Testing_Tournament6"
+	},
+	"AlreadyExistingTournament":{
+		"username":"ankita.kanchan@pi-sy.com",
+		"password":"Ankita@1234",
+		"name":"Sanket_Tournament"
+	}
+	
+	
+	
+	
+		
+}

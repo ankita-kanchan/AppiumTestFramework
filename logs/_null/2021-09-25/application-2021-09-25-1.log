@@ -1,0 +1,741 @@
+[logs_null INFO ] 2021-09-25 20:11:48.219 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:11:48.251 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:11:48.252 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:12:01.681 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:12:04.580 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:12:09.949 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:12:12.152 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:12:16.875 BaseTest:119 - video path: videos\null_null\2021-09-25-20-11-46\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:12:18.125 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:12:19.130 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:12:21.027 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:12:23.941 BaseTest:119 - video path: videos\null_null\2021-09-25-20-11-46\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:12:24.881 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:12:26.363 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:12:28.500 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:12:30.881 BaseTest:119 - video path: videos\null_null\2021-09-25-20-11-46\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:12:31.761 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:12:32.501 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:12:34.527 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:12:38.334 BaseTest:119 - video path: videos\null_null\2021-09-25-20-11-46\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:16:52.054 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:16:52.073 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:16:52.074 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:17:01.972 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:17:04.608 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:17:08.946 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:17:10.820 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:17:14.390 BaseTest:119 - video path: videos\null_null\2021-09-25-20-16-51\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:17:15.373 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:17:16.207 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:17:18.559 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:17:21.261 BaseTest:119 - video path: videos\null_null\2021-09-25-20-16-51\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:17:22.172 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:17:22.989 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:17:24.792 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:17:27.524 BaseTest:119 - video path: videos\null_null\2021-09-25-20-16-51\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:17:28.491 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:17:29.345 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:17:31.189 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:17:34.043 BaseTest:119 - video path: videos\null_null\2021-09-25-20-16-51\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:23:06.095 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:23:06.113 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:23:06.113 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:23:16.082 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:23:20.179 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:23:22.938 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:23:24.804 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:23:28.010 BaseTest:119 - video path: videos\null_null\2021-09-25-20-23-05\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:23:29.111 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:23:29.832 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:23:31.628 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:23:33.045 BaseTest:119 - video path: videos\null_null\2021-09-25-20-23-05\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:23:33.960 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:23:34.966 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:23:36.763 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:23:38.869 BaseTest:119 - video path: videos\null_null\2021-09-25-20-23-05\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:23:39.867 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:23:40.666 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:23:43.340 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:23:45.268 BaseTest:119 - video path: videos\null_null\2021-09-25-20-23-05\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:25:00.572 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:25:00.590 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:25:00.591 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:25:09.073 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:25:11.746 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:25:15.782 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:25:17.683 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:25:20.991 BaseTest:119 - video path: videos\null_null\2021-09-25-20-25-00\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:25:22.101 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:25:22.990 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:25:24.926 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:25:27.591 BaseTest:119 - video path: videos\null_null\2021-09-25-20-25-00\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:25:28.551 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:25:29.426 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:25:55.111 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:25:55.129 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:25:55.130 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:26:06.102 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:26:19.309 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:26:20.514 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:26:22.470 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:26:26.791 BaseTest:119 - video path: videos\null_null\2021-09-25-20-25-54\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:26:27.704 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:26:28.543 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:30:20.539 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:30:20.579 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:30:20.580 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:30:31.658 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:30:34.419 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:30:38.369 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:30:40.230 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:30:43.226 BaseTest:119 - video path: videos\null_null\2021-09-25-20-30-20\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:30:44.463 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:30:45.479 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:30:47.268 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:30:49.465 BaseTest:119 - video path: videos\null_null\2021-09-25-20-30-20\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:30:50.376 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:30:51.195 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:30:52.970 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:32:04.825 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:32:04.844 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:32:04.844 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:32:49.580 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:32:49.598 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:32:49.599 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:33:00.046 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:33:02.802 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:33:07.474 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:33:09.342 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:33:13.347 BaseTest:119 - video path: videos\null_null\2021-09-25-20-32-49\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:33:14.296 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:33:15.719 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:33:18.262 BaseTest:119 - video path: videos\null_null\2021-09-25-20-32-49\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:33:19.235 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:33:32.492 BaseTest:119 - video path: videos\null_null\2021-09-25-20-32-49\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:33:33.339 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:33:46.137 BaseTest:119 - video path: videos\null_null\2021-09-25-20-32-49\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:35:09.641 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:35:09.660 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:35:09.660 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:35:19.125 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:35:21.411 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:35:25.860 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:35:27.676 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:35:31.655 BaseTest:119 - video path: videos\null_null\2021-09-25-20-35-09\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:35:32.532 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:35:33.372 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:35:35.174 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:35:38.544 BaseTest:119 - video path: videos\null_null\2021-09-25-20-35-09\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:35:39.414 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:35:40.273 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:35:42.283 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:35:46.552 BaseTest:119 - video path: videos\null_null\2021-09-25-20-35-09\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:35:47.447 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:35:48.291 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:35:50.085 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:35:53.999 BaseTest:119 - video path: videos\null_null\2021-09-25-20-35-09\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:38:28.018 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:38:28.036 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:38:28.037 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:38:38.333 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:38:40.736 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:38:45.098 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:38:46.991 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:38:54.088 BaseTest:119 - video path: videos\null_null\2021-09-25-20-38-27\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:38:54.983 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:38:55.818 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:38:58.276 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:39:04.479 BaseTest:119 - video path: videos\null_null\2021-09-25-20-38-27\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:39:05.452 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:39:06.835 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:39:08.620 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:39:14.826 BaseTest:119 - video path: videos\null_null\2021-09-25-20-38-27\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:39:15.865 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:39:16.682 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:39:18.453 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:39:24.436 BaseTest:119 - video path: videos\null_null\2021-09-25-20-38-27\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:41:12.552 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:41:12.571 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:41:12.572 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:41:21.874 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:41:24.270 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:41:28.490 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:41:30.361 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:41:34.769 BaseTest:119 - video path: videos\null_null\2021-09-25-20-41-12\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:41:36.016 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:41:36.823 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:41:38.636 BaseTest:276 - password is Invalidpassword@123
+[logs_null INFO ] 2021-09-25 20:41:43.806 BaseTest:119 - video path: videos\null_null\2021-09-25-20-41-12\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:41:44.699 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:41:45.527 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:41:47.314 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:41:52.752 BaseTest:119 - video path: videos\null_null\2021-09-25-20-41-12\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:41:53.721 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:41:54.539 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:41:56.309 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:42:02.400 BaseTest:119 - video path: videos\null_null\2021-09-25-20-41-12\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:43:20.531 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:43:20.551 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:43:20.552 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:43:30.386 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:43:32.766 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:43:36.967 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:43:38.867 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:43:44.436 BaseTest:119 - video path: videos\null_null\2021-09-25-20-43-20\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:43:45.323 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:43:46.146 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:43:47.969 BaseTest:276 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 20:43:54.259 BaseTest:119 - video path: videos\null_null\2021-09-25-20-43-20\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:43:55.476 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:43:56.390 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:43:58.174 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:44:05.032 BaseTest:119 - video path: videos\null_null\2021-09-25-20-43-20\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:44:05.968 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:44:06.776 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:44:08.585 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:44:15.222 BaseTest:119 - video path: videos\null_null\2021-09-25-20-43-20\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:45:51.825 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:45:51.843 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:45:51.844 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:46:01.151 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:46:03.443 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:46:07.761 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:46:09.672 BaseTest:276 - password is 
+[logs_null INFO ] 2021-09-25 20:46:14.972 BaseTest:119 - video path: videos\null_null\2021-09-25-20-45-51\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:46:15.896 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:46:16.744 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:46:18.566 BaseTest:276 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 20:46:24.031 BaseTest:119 - video path: videos\null_null\2021-09-25-20-45-51\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:46:25.033 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:46:25.827 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:46:27.617 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:46:33.148 BaseTest:119 - video path: videos\null_null\2021-09-25-20-45-51\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:46:34.041 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 20:46:34.870 BaseTest:276 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 20:46:36.661 BaseTest:276 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 20:46:42.137 BaseTest:119 - video path: videos\null_null\2021-09-25-20-45-51\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 20:50:57.676 BaseTest:188 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:50:57.694 BaseTest:195 - load config.properties
+[logs_null INFO ] 2021-09-25 20:50:57.695 BaseTest:200 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:51:08.287 BaseTest:223 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 20:51:11.070 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 20:51:15.132 BaseTest:276 - login with 
+[logs_null INFO ] 2021-09-25 20:51:17.093 BaseTest:119 - video path: videos\null_null\2021-09-25-20-50-57\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 20:51:17.944 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 20:51:18.792 BaseTest:276 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 20:51:20.157 BaseTest:119 - video path: videos\null_null\2021-09-25-20-50-57\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 20:51:21.032 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 20:51:21.948 BaseTest:276 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 20:51:23.726 BaseTest:119 - video path: videos\null_null\2021-09-25-20-50-57\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 20:59:51.059 BaseTest:190 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 20:59:51.078 BaseTest:197 - load config.properties
+[logs_null INFO ] 2021-09-25 20:59:51.079 BaseTest:202 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 20:59:59.268 BaseTest:225 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 21:00:02.152 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 21:00:05.959 BaseTest:278 - login with 
+[logs_null INFO ] 2021-09-25 21:00:07.888 BaseTest:121 - video path: videos\null_null\2021-09-25-20-59-50\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 21:00:08.780 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 21:00:09.919 BaseTest:278 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 21:00:11.513 BaseTest:121 - video path: videos\null_null\2021-09-25-20-59-50\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 21:00:12.480 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 21:00:13.418 BaseTest:278 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 21:00:14.888 BaseTest:121 - video path: videos\null_null\2021-09-25-20-59-50\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 21:00:15.823 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 21:00:16.637 BaseTest:278 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 21:00:18.699 BaseTest:121 - video path: videos\null_null\2021-09-25-20-59-50\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 21:11:43.308 BaseTest:190 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 21:11:43.326 BaseTest:197 - load config.properties
+[logs_null INFO ] 2021-09-25 21:11:43.327 BaseTest:202 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 21:11:53.456 BaseTest:225 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 21:11:56.273 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 21:12:01.307 BaseTest:278 - login with 
+[logs_null INFO ] 2021-09-25 21:12:04.036 BaseTest:121 - video path: videos\null_null\2021-09-25-21-11-42\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 21:12:04.902 LoginTests:45 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 21:12:06.214 BaseTest:278 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 21:12:07.680 BaseTest:121 - video path: videos\null_null\2021-09-25-21-11-42\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 21:12:08.648 LoginTests:45 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 21:12:09.571 BaseTest:278 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 21:12:11.023 BaseTest:121 - video path: videos\null_null\2021-09-25-21-11-42\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 21:12:11.830 LoginTests:45 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 21:12:13.106 BaseTest:278 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 21:12:14.800 BaseTest:121 - video path: videos\null_null\2021-09-25-21-11-42\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 21:12:15.585 BaseTest:150 - Appium server stopped
+[logs_null INFO ] 2021-09-25 21:54:26.641 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 21:54:26.743 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 21:54:26.744 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 21:54:40.239 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 21:54:43.569 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 21:54:45.787 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 21:54:47.912 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 21:54:48.282 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 21:54:48.284 Log:10 - blankData test is failed.
+[logs_null INFO ] 2021-09-25 21:54:54.849 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 21:58:31.457 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 21:58:31.465 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 21:58:31.466 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 21:58:41.168 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 21:58:43.537 LoginTests:45 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 21:58:43.644 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 21:58:47.773 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 21:58:47.879 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 21:58:47.881 Log:10 - blankData test is failed.
+[logs_null INFO ] 2021-09-25 21:58:49.742 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:01:13.299 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:01:13.307 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:01:13.308 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:01:21.571 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:01:23.863 LoginTests:46 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:01:23.975 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:01:28.196 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:01:29.973 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:01:33.498 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:01:36.433 BaseTest:122 - video path: videos\null_null\2021-09-25-22-01-13\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:01:37.335 LoginTests:46 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:01:37.336 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:01:38.113 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:01:39.860 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:01:43.265 Log:10 - invalidPassword test is failed.
+[logs_null INFO ] 2021-09-25 22:01:44.833 BaseTest:122 - video path: videos\null_null\2021-09-25-22-01-13\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:01:45.682 LoginTests:46 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:01:45.684 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:01:46.508 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:01:48.315 BaseTest:281 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:01:51.767 Log:10 - invalidUserName test is failed.
+[logs_null INFO ] 2021-09-25 22:01:53.316 BaseTest:122 - video path: videos\null_null\2021-09-25-22-01-13\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:01:54.300 LoginTests:46 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:01:54.301 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:01:55.112 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:01:56.890 BaseTest:281 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:02:00.570 Log:10 - successfulLogin test is failed.
+[logs_null INFO ] 2021-09-25 22:02:02.291 BaseTest:122 - video path: videos\null_null\2021-09-25-22-01-13\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:02:02.815 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:02:03.033 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:08:19.936 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:08:19.945 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:08:19.946 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:08:32.205 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:08:34.546 LoginTests:46 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:08:34.661 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:08:38.879 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:08:40.258 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:08:43.857 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:08:45.790 BaseTest:122 - video path: videos\null_null\2021-09-25-22-08-19\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:08:46.679 LoginTests:46 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:08:46.681 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:08:47.537 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:08:49.375 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:08:52.747 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:08:54.491 BaseTest:122 - video path: videos\null_null\2021-09-25-22-08-19\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:08:55.405 LoginTests:46 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:08:55.408 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:08:56.224 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:08:58.021 BaseTest:281 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:09:01.866 Log:10 - invalidUserName test is failed.
+[logs_null INFO ] 2021-09-25 22:09:03.347 BaseTest:122 - video path: videos\null_null\2021-09-25-22-08-19\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:09:04.282 LoginTests:46 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:09:04.284 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:09:05.060 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:09:07.230 BaseTest:281 - password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:09:11.063 Log:10 - successfulLogin test is failed.
+[logs_null INFO ] 2021-09-25 22:09:12.650 BaseTest:122 - video path: videos\null_null\2021-09-25-22-08-19\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:09:13.231 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:09:13.428 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:12:28.349 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:12:28.357 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:12:28.358 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:12:37.321 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:12:40.213 LoginTests:46 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:12:40.342 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:12:44.288 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:12:46.084 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:12:49.636 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:12:51.002 BaseTest:122 - video path: videos\null_null\2021-09-25-22-12-28\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:12:52.091 LoginTests:46 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:12:52.093 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:12:52.986 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:12:54.804 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:12:58.393 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:12:59.417 BaseTest:122 - video path: videos\null_null\2021-09-25-22-12-28\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:13:00.359 LoginTests:46 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:13:00.362 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:13:01.373 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:13:03.760 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:13:07.690 Log:10 - invalidUserName test is succeed.
+[logs_null INFO ] 2021-09-25 22:13:09.211 BaseTest:122 - video path: videos\null_null\2021-09-25-22-12-28\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:13:11.962 LoginTests:46 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:13:11.964 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:13:14.031 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:13:16.398 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:13:20.303 Log:10 - successfulLogin test is failed.
+[logs_null INFO ] 2021-09-25 22:13:23.014 BaseTest:122 - video path: videos\null_null\2021-09-25-22-12-28\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:13:23.495 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:13:23.726 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:16:39.571 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:16:39.579 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:16:39.579 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:16:50.588 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:16:52.848 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:16:52.961 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:16:57.238 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:16:59.072 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:17:03.648 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:17:05.894 BaseTest:122 - video path: videos\null_null\2021-09-25-22-16-39\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:17:06.890 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:17:06.892 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:17:07.716 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:17:09.558 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:17:13.398 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:17:14.892 BaseTest:122 - video path: videos\null_null\2021-09-25-22-16-39\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:17:15.852 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:17:15.854 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:17:16.643 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:17:18.616 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:17:22.477 Log:10 - invalidUserName test is succeed.
+[logs_null INFO ] 2021-09-25 22:17:24.256 BaseTest:122 - video path: videos\null_null\2021-09-25-22-16-39\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:17:25.176 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:17:25.177 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:17:25.982 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:17:27.777 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:17:31.955 Log:10 - successfulLogin test is succeed.
+[logs_null INFO ] 2021-09-25 22:17:33.482 BaseTest:122 - video path: videos\null_null\2021-09-25-22-16-39\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:17:33.989 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:17:34.210 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:22:00.520 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:22:00.530 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:22:00.532 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:22:10.119 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:22:12.436 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:22:12.590 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:22:16.737 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:22:18.576 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:22:22.204 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:22:25.872 BaseTest:122 - video path: videos\null_null\2021-09-25-22-22-00\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:22:26.764 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:22:26.766 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:22:27.506 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:22:29.413 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:22:33.411 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:22:35.470 BaseTest:122 - video path: videos\null_null\2021-09-25-22-22-00\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:22:36.551 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:22:36.555 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:22:37.398 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:22:39.304 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:22:43.882 Log:10 - invalidUserName test is succeed.
+[logs_null INFO ] 2021-09-25 22:22:45.664 BaseTest:122 - video path: videos\null_null\2021-09-25-22-22-00\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:22:46.562 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:22:46.563 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:22:47.380 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:22:48.865 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:22:52.887 Log:10 - successfulLogin test is succeed.
+[logs_null INFO ] 2021-09-25 22:22:54.816 BaseTest:122 - video path: videos\null_null\2021-09-25-22-22-00\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:22:55.269 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:22:55.506 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:26:19.070 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:26:19.079 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:26:19.080 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:26:29.550 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:26:32.032 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:26:32.150 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:26:36.265 BaseTest:281 - login with 
+[logs_null INFO ] 2021-09-25 22:26:38.134 BaseTest:281 - password is 
+[logs_null INFO ] 2021-09-25 22:26:41.823 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:26:43.732 BaseTest:122 - video path: videos\null_null\2021-09-25-22-26-19\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:26:44.626 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:26:44.628 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:26:45.442 BaseTest:281 - login with sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:26:47.348 BaseTest:281 - password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:26:51.740 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:26:53.593 BaseTest:122 - video path: videos\null_null\2021-09-25-22-26-19\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:26:54.586 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:26:54.588 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:26:55.408 BaseTest:281 - login with invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:26:57.302 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:27:00.906 Log:10 - invalidUserName test is succeed.
+[logs_null INFO ] 2021-09-25 22:27:02.589 BaseTest:122 - video path: videos\null_null\2021-09-25-22-26-19\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:27:03.434 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:27:03.435 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:27:04.217 BaseTest:281 - login with sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:27:06.069 BaseTest:281 - password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:27:09.996 Log:10 - successfulLogin test is succeed.
+[logs_null INFO ] 2021-09-25 22:27:11.934 BaseTest:122 - video path: videos\null_null\2021-09-25-22-26-19\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:27:12.386 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:27:12.592 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:31:17.036 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:31:17.055 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:31:17.056 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:31:26.725 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:31:29.149 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:38:37.164 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:38:37.187 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:38:37.188 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:38:47.210 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:38:49.439 LoginTests:49 - 
+****** starting test:MismatchCredentials******
+
+[logs_null INFO ] 2021-09-25 22:38:53.811 BaseTest:281 - Email is Mubeen.Mujahid@pi-sy.com
+[logs_null INFO ] 2021-09-25 22:38:55.994 BaseTest:281 - Password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:39:03.105 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\MismatchCredentials.mp4
+[logs_null INFO ] 2021-09-25 22:39:04.128 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:39:04.969 BaseTest:281 - Email is 
+[logs_null INFO ] 2021-09-25 22:39:06.905 BaseTest:281 - Password is 
+[logs_null INFO ] 2021-09-25 22:39:11.818 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:39:12.710 LoginTests:49 - 
+****** starting test:blankEmailButValidPassword******
+
+[logs_null INFO ] 2021-09-25 22:39:13.513 BaseTest:281 - Email is 
+[logs_null INFO ] 2021-09-25 22:39:15.795 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:39:20.774 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\blankEmailButValidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:39:21.753 LoginTests:49 - 
+****** starting test:blankPasswordButValidEmail******
+
+[logs_null INFO ] 2021-09-25 22:39:22.556 BaseTest:281 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:39:24.441 BaseTest:281 - Password is 
+[logs_null INFO ] 2021-09-25 22:39:29.529 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\blankPasswordButValidEmail.mp4
+[logs_null INFO ] 2021-09-25 22:39:30.433 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:39:31.636 BaseTest:281 - Email is sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:39:33.500 BaseTest:281 - Password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:39:38.954 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:39:39.820 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:39:40.632 BaseTest:281 - Email is invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:39:42.505 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:39:48.004 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:39:48.897 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:39:49.695 BaseTest:281 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:39:51.566 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:39:57.475 BaseTest:122 - video path: videos\null_null\2021-09-25-22-38-36\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:39:57.930 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-09-25 22:41:13.704 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-25 22:41:13.712 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-25 22:41:13.713 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-25 22:41:23.382 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-25 22:41:25.816 LoginTests:49 - 
+****** starting test:MismatchCredentials******
+
+[logs_null INFO ] 2021-09-25 22:41:25.934 Log:10 - MismatchCredentials test is starting.
+[logs_null INFO ] 2021-09-25 22:41:30.140 BaseTest:281 - Email is Mubeen.Mujahid@pi-sy.com
+[logs_null INFO ] 2021-09-25 22:41:32.011 BaseTest:281 - Password is Sanket@123
+[logs_null INFO ] 2021-09-25 22:41:36.129 Log:10 - MismatchCredentials test is succeed.
+[logs_null INFO ] 2021-09-25 22:41:38.213 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\MismatchCredentials.mp4
+[logs_null INFO ] 2021-09-25 22:41:39.159 LoginTests:49 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-09-25 22:41:39.160 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-09-25 22:41:40.011 BaseTest:281 - Email is 
+[logs_null INFO ] 2021-09-25 22:41:41.871 BaseTest:281 - Password is 
+[logs_null INFO ] 2021-09-25 22:41:45.013 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-09-25 22:41:46.484 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\blankData.mp4
+[logs_null INFO ] 2021-09-25 22:41:47.467 LoginTests:49 - 
+****** starting test:blankEmailButValidPassword******
+
+[logs_null INFO ] 2021-09-25 22:41:47.468 Log:10 - blankEmailButValidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:41:48.238 BaseTest:281 - Email is 
+[logs_null INFO ] 2021-09-25 22:41:50.106 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:41:53.651 Log:10 - blankEmailButValidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:41:54.632 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\blankEmailButValidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:41:55.563 LoginTests:49 - 
+****** starting test:blankPasswordButValidEmail******
+
+[logs_null INFO ] 2021-09-25 22:41:55.564 Log:10 - blankPasswordButValidEmail test is starting.
+[logs_null INFO ] 2021-09-25 22:41:56.372 BaseTest:281 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:41:58.252 BaseTest:281 - Password is 
+[logs_null INFO ] 2021-09-25 22:42:01.785 Log:10 - blankPasswordButValidEmail test is succeed.
+[logs_null INFO ] 2021-09-25 22:42:03.197 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\blankPasswordButValidEmail.mp4
+[logs_null INFO ] 2021-09-25 22:42:04.115 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[logs_null INFO ] 2021-09-25 22:42:04.117 Log:10 - invalidPassword test is starting.
+[logs_null INFO ] 2021-09-25 22:42:04.908 BaseTest:281 - Email is sanket.win@gmail.com
+[logs_null INFO ] 2021-09-25 22:42:06.768 BaseTest:281 - Password is Invalid@123
+[logs_null INFO ] 2021-09-25 22:42:11.025 Log:10 - invalidPassword test is succeed.
+[logs_null INFO ] 2021-09-25 22:42:12.577 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\invalidPassword.mp4
+[logs_null INFO ] 2021-09-25 22:42:13.586 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[logs_null INFO ] 2021-09-25 22:42:13.588 Log:10 - invalidUserName test is starting.
+[logs_null INFO ] 2021-09-25 22:42:14.382 BaseTest:281 - Email is invalidusername@gmail.com
+[logs_null INFO ] 2021-09-25 22:42:16.244 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:42:20.202 Log:10 - invalidUserName test is succeed.
+[logs_null INFO ] 2021-09-25 22:42:21.768 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\invalidUserName.mp4
+[logs_null INFO ] 2021-09-25 22:42:22.685 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[logs_null INFO ] 2021-09-25 22:42:22.686 Log:10 - successfulLogin test is starting.
+[logs_null INFO ] 2021-09-25 22:42:23.465 BaseTest:281 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-09-25 22:42:24.799 BaseTest:281 - Password is Sanket@12345
+[logs_null INFO ] 2021-09-25 22:42:29.487 Log:10 - successfulLogin test is succeed.
+[logs_null INFO ] 2021-09-25 22:42:31.823 BaseTest:122 - video path: videos\null_null\2021-09-25-22-41-13\LoginTests\successfulLogin.mp4
+[logs_null INFO ] 2021-09-25 22:42:32.293 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-09-25 22:42:32.533 BaseTest:151 - Appium server stopped

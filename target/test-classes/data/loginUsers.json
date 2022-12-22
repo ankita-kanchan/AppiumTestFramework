@@ -1,0 +1,35 @@
+{
+	"invalidUser":{
+		"username":"invalidusername@gmail.com",
+		"password":"Sanket@12345"
+	},
+	"invalidPassword":{
+		"username":"sanketwin@gmail.com",
+		"password":"Invalid@123"
+	},
+	"validUser":{
+		"username":"sanketwin@gmail.com",
+		"password":"Sanket@12345"
+	},
+	"blankData":
+	{
+		"username":"",
+		"password":""
+	},
+	"blankEmailButValidPassword":
+	{
+		"username":"",
+		"password":"Sanket@12345"
+	},
+	"blankPasswordButValidEmail":
+	{
+		"username":"sanketwin@gmail.com",
+		"password":""
+	},
+	"MismatchCredentials":
+	{
+		"username":"mubeen.mujahid@pi-sy.com",
+		"password":"Sanket@123"
+	}
+	
+}

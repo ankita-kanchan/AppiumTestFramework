@@ -1,0 +1,111 @@
+[logs_null INFO ] 2021-10-26 12:27:30.223 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:27:30.376 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:27:30.395 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:34:11.182 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:34:11.200 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:34:11.201 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:34:30.372 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:34:32.729 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:34:39.524 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:34:41.317 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:34:42.449 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:34:43.954 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:34:45.167 BaseTest:275 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:34:46.123 BaseTest:275 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:34:53.394 BaseTest:123 - video path: videos\null_null\2021-10-26-12-34-10\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:34:55.430 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-26 12:35:37.753 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:35:37.771 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:35:37.772 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:35:45.188 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:35:47.726 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:35:57.223 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:35:59.009 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:36:00.125 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:36:01.950 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:36:03.154 BaseTest:275 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:36:03.987 BaseTest:275 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:36:07.534 BaseTest:123 - video path: videos\null_null\2021-10-26-12-35-37\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:36:07.919 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-26 12:36:32.977 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:36:32.996 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:36:32.997 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:36:40.312 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:36:42.815 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:36:49.444 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:36:51.248 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:36:52.387 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:36:53.840 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:36:55.031 BaseTest:275 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:36:55.894 BaseTest:275 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:37:03.008 BaseTest:123 - video path: videos\null_null\2021-10-26-12-36-32\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:37:03.441 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-26 12:40:43.183 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:40:43.202 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:40:43.202 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:40:50.589 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:40:52.742 CreateBracketTests:51 - 
+****** starting test:alreadyExistingBracket******
+
+[logs_null INFO ] 2021-10-26 12:40:59.301 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:41:01.192 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:41:02.330 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:41:03.805 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:41:04.996 BaseTest:275 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:41:05.880 BaseTest:275 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:41:08.114 BaseTest:275 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-26 12:41:09.310 BaseTest:303 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-26 12:41:12.590 BaseTest:296 - Bracket Name is TestABracket
+[logs_null INFO ] 2021-10-26 12:41:13.246 BaseTest:275 - Clicking on Create Bracket Button 
+[logs_null INFO ] 2021-10-26 12:41:20.831 BaseTest:123 - video path: videos\null_null\2021-10-26-12-40-42\CreateBracketTests\alreadyExistingBracket.mp4
+[logs_null INFO ] 2021-10-26 12:41:31.178 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:41:31.200 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-26 12:41:31.201 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:41:40.105 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:41:54.598 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:42:02.596 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:42:04.371 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:42:05.518 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:42:07.059 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:42:08.497 BaseTest:275 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:42:09.296 BaseTest:275 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:42:16.090 BaseTest:123 - video path: videos\null_null\2021-10-26-12-41-30\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:42:16.457 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-26 12:46:32.157 BaseTest:198 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:46:32.175 BaseTest:205 - load config.properties
+[logs_null INFO ] 2021-10-26 12:46:32.175 BaseTest:210 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:46:39.707 BaseTest:233 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:46:41.876 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:46:48.451 BaseTest:300 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:46:50.229 BaseTest:300 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:46:51.368 BaseTest:279 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:46:52.830 BaseTest:279 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:46:54.023 BaseTest:279 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:46:54.874 BaseTest:279 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:47:01.676 BaseTest:127 - video path: videos\null_null\2021-10-26-12-46-31\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:47:02.083 BaseTest:156 - Appium server stopped
+[logs_null INFO ] 2021-10-26 12:48:35.200 BaseTest:198 - log path: logs\_null
+[logs_null INFO ] 2021-10-26 12:48:35.220 BaseTest:205 - load config.properties
+[logs_null INFO ] 2021-10-26 12:48:35.220 BaseTest:210 - load strings/strings.xml
+[logs_null INFO ] 2021-10-26 12:48:42.595 BaseTest:233 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-26 12:48:45.101 EditBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-26 12:48:51.639 BaseTest:300 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-26 12:48:54.612 BaseTest:300 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-26 12:48:55.745 BaseTest:279 - Clicking on Login Button
+[logs_null INFO ] 2021-10-26 12:48:57.220 BaseTest:279 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-26 12:48:58.410 BaseTest:279 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-26 12:48:59.270 BaseTest:279 - Clicking on Next Button
+[logs_null INFO ] 2021-10-26 12:49:06.199 BaseTest:127 - video path: videos\null_null\2021-10-26-12-48-34\EditBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-26 12:49:06.561 BaseTest:156 - Appium server stopped

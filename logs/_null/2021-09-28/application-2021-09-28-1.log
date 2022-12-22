@@ -1,0 +1,16 @@
+[logs_null INFO ] 2021-09-28 18:17:08.561 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-09-28 18:17:08.664 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-09-28 18:17:08.667 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-09-28 18:17:31.497 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-09-28 18:17:33.485 SignupTests:49 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-09-28 18:17:39.396 BaseTest:281 - First Name is John
+[logs_null INFO ] 2021-09-28 18:17:40.816 BaseTest:281 - Last Name is Doe
+[logs_null INFO ] 2021-09-28 18:17:42.132 BaseTest:281 - Email is johndoe@gmail.com
+[logs_null INFO ] 2021-09-28 18:17:45.972 BaseTest:281 - Contact No is 1234567890
+[logs_null INFO ] 2021-09-28 18:17:47.411 BaseTest:281 - Password is John@123
+[logs_null INFO ] 2021-09-28 18:17:50.050 BaseTest:281 - Date of Birth is 01/08/2001
+[logs_null INFO ] 2021-09-28 18:17:52.267 BaseTest:268 - Selecting Gender
+[logs_null INFO ] 2021-09-28 18:18:00.166 BaseTest:122 - video path: videos\null_null\2021-09-28-18-17-08\SignupTests\validData.mp4
+[logs_null INFO ] 2021-09-28 18:18:00.788 BaseTest:151 - Appium server stopped

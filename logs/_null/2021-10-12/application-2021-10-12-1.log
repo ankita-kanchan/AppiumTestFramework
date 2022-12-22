@@ -1,0 +1,616 @@
+[logs_null INFO ] 2021-10-12 12:29:20.682 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:29:21.085 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:29:21.088 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:29:29.127 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appBuildVersion=, appPackage=com.avercast.fanbuku_app, appReleaseVersion=, appiumVersion=1.8.0, applicationClearData=false, autoAcceptAlerts=false, autoDismissAlerts=false, autoGrantPermissions=false, autoWebview=false, automationName=UiAutomator2, commandTimeouts=120000, desired={appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, platformName=Android, udid=WOBUKBZL4D6T9PSO, deviceName=Redmi Note 10S}, device.category=PHONE, device.majorVersion=11, device.manufacture=Xiaomi, device.model=M2101K7BI, device.name=M2101K7BI, device.os=Android, device.screenSize=1080x2400, device.serialNumber=WOBUKBZL4D6T9PSO, device.version=11, deviceName=Redmi Note 10S, deviceUDID=WOBUKBZL4D6T9PSO, dontGoHomeOnQuit=false, dontStopAppOnReset=false, fullReset=false, install.only.for.update=false, installOnlyForUpdate=false, instrumentApp=false, javascriptEnabled=true, keystorePath=~/.android/debug.keystore, locationServicesAuthorized=false, newSessionWaitTimeout=600, noReset=false, platform=ANDROID, platformName=Android, projectName=, reportDirectory=reports, reportFormat=xml, reportUrl=C:\Users\ankit\appiumstudio-reports\reports\test1, reservationDuration=240, takeScreenshots=true, test.type=Mobile, testName=mobile test 10/12/21 12:29 PM, udid=WOBUKBZL4D6T9PSO, useKeystore=false, waitForDeviceTimeout=120000}
+[logs_null INFO ] 2021-10-12 12:32:21.067 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:32:21.090 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:32:21.091 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-12 12:32:23.605 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-12 12:33:52.657 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:33:52.701 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:33:52.702 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:34:09.227 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 12:34:11.462 JoinTournamentRequestTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 12:34:19.049 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 12:34:20.857 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 12:34:22.001 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 12:34:23.515 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 12:34:24.703 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-12 12:34:25.718 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 12:34:26.679 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-12 12:34:27.837 BaseTest:311 - Selecting Tournament
+[logs_null INFO ] 2021-10-12 12:34:30.084 BaseTest:317 - Clicking on Send Request Button
+[logs_null INFO ] 2021-10-12 12:34:35.621 BaseTest:122 - video path: videos\null_null\2021-10-12-12-33-52\JoinTournamentRequestTests\validData.mp4
+[logs_null INFO ] 2021-10-12 12:34:35.998 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 12:34:44.346 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:34:44.366 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:34:44.367 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:34:51.680 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 12:34:53.966 JoinTournamentRequestTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 12:35:00.525 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 12:35:02.820 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 12:35:03.962 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 12:35:05.428 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 12:35:06.635 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-12 12:35:07.551 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 12:35:08.525 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-12 12:35:09.685 BaseTest:311 - Selecting Tournament
+[logs_null INFO ] 2021-10-12 12:35:11.945 BaseTest:317 - Clicking on Send Request Button
+[logs_null INFO ] 2021-10-12 12:35:16.786 BaseTest:122 - video path: videos\null_null\2021-10-12-12-34-43\JoinTournamentRequestTests\validData.mp4
+[logs_null INFO ] 2021-10-12 12:35:17.166 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 12:35:38.175 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:35:38.194 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:35:38.195 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:35:45.596 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 12:35:48.077 JoinTournamentRequestTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 12:35:54.681 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 12:35:56.480 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 12:35:57.618 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 12:35:59.152 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 12:36:00.360 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-12 12:36:01.260 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 12:36:02.219 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-12 12:36:03.368 BaseTest:311 - Selecting Tournament
+[logs_null INFO ] 2021-10-12 12:36:20.669 BaseTest:122 - video path: videos\null_null\2021-10-12-12-35-37\JoinTournamentRequestTests\validData.mp4
+[logs_null INFO ] 2021-10-12 12:36:21.036 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 12:36:34.790 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:36:34.811 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:36:34.812 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:36:42.053 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 12:36:44.243 JoinTournamentRequestTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 12:36:50.822 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 12:36:52.686 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 12:36:53.822 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 12:36:55.296 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 12:36:56.506 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-12 12:36:57.438 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 12:36:58.413 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-12 12:36:59.574 BaseTest:311 - Selecting Tournament
+[logs_null INFO ] 2021-10-12 12:37:16.842 BaseTest:122 - video path: videos\null_null\2021-10-12-12-36-34\JoinTournamentRequestTests\validData.mp4
+[logs_null INFO ] 2021-10-12 12:37:17.392 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 12:37:38.372 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 12:37:38.391 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 12:37:38.392 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 12:37:45.914 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 12:37:48.389 JoinTournamentRequestTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 12:37:55.094 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 12:37:56.909 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 12:37:58.049 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 12:37:59.574 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 12:38:01.100 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-12 12:38:01.953 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 12:38:03.094 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-12 12:38:04.254 BaseTest:311 - Selecting Tournament
+[logs_null INFO ] 2021-10-12 12:38:06.060 BaseTest:274 - Clicking on Participant Invite Button
+[logs_null INFO ] 2021-10-12 12:38:08.187 BaseTest:317 - Clicking on Send Request Button
+[logs_null INFO ] 2021-10-12 12:38:15.312 BaseTest:122 - video path: videos\null_null\2021-10-12-12-37-37\JoinTournamentRequestTests\validData.mp4
+[logs_null INFO ] 2021-10-12 12:38:15.871 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 14:14:51.397 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 14:14:51.437 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 14:14:51.438 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 14:15:04.076 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 14:15:06.802 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 14:15:14.169 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 14:15:15.946 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 14:15:17.084 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 14:15:18.923 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 14:15:20.149 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 14:15:21.879 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 14:15:25.530 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-12 14:15:28.893 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 14:16:23.474 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 14:16:23.495 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 14:16:23.496 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 14:16:33.814 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 14:16:38.433 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 14:16:45.360 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 14:16:47.134 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 14:16:47.791 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 14:16:49.628 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 14:16:50.870 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 14:16:51.837 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 14:16:54.090 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 14:16:57.406 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 14:17:03.764 BaseTest:122 - video path: videos\null_null\2021-10-12-14-16-23\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 14:17:04.350 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 14:18:45.986 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 14:18:46.009 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 14:18:46.010 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 14:18:54.485 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 14:18:56.952 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 14:19:03.758 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 14:19:05.530 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 14:19:06.670 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 14:19:09.307 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 14:19:10.748 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 14:19:11.610 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 14:19:13.898 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 14:19:17.136 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 14:19:21.241 BaseTest:122 - video path: videos\null_null\2021-10-12-14-18-45\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 14:19:21.693 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 14:20:18.981 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 14:20:19.000 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 14:20:19.001 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 14:20:27.269 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 14:20:29.652 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 14:20:36.460 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 14:20:38.255 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 14:20:39.405 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 14:20:40.984 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 14:20:42.226 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 14:20:43.096 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 14:20:45.397 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 14:20:48.533 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 14:21:04.308 BaseTest:122 - video path: videos\null_null\2021-10-12-14-20-18\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 14:21:04.909 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:08:57.408 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:08:57.434 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:08:57.435 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:09:10.338 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:09:13.505 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:09:22.224 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:09:24.126 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:09:29.700 BaseTest:122 - video path: videos\null_null\2021-10-12-15-08-56\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:09:31.051 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:12:07.502 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:12:07.520 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:12:07.521 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:12:17.081 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:12:19.504 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:12:26.102 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:12:27.868 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:12:29.007 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:12:30.498 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:12:31.736 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:12:32.665 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:12:35.116 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:12:38.179 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 15:12:43.148 BaseTest:122 - video path: videos\null_null\2021-10-12-15-12-07\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:12:43.801 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:13:37.305 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:13:37.323 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:13:37.324 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:13:46.607 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:13:48.739 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:13:56.651 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:13:58.494 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:13:59.635 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:14:01.235 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:14:02.661 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:14:03.578 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:14:05.901 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:14:08.982 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 15:14:13.559 BaseTest:122 - video path: videos\null_null\2021-10-12-15-13-36\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:14:14.132 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:18:11.222 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:18:11.241 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:18:11.243 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-12 15:18:21.382 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: session not created (An unknown server-side error occurred. status='false'. Failed to complete internal method: 'launch args: [com.avercast.fanbuku_app/.activity.SplashScreenActivity, false, true]', details: Failed to launch activity / URL. Failed to get screen. The connection to device screen monitor was lost (reportUrl=C:\Users\ankit\appiumstudio-reports\reports\test2))  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.78 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-12 15:20:51.181 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:20:51.219 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:20:51.221 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:21:02.009 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:21:05.274 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:21:12.012 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:21:13.865 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:21:15.000 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:21:16.510 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:21:17.702 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:21:18.628 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:21:20.852 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:21:23.744 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 15:21:28.802 BaseTest:122 - video path: videos\null_null\2021-10-12-15-20-50\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:21:29.352 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:24:32.898 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:24:32.917 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:24:32.918 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:24:40.325 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:24:42.406 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:24:48.958 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:24:50.746 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:24:52.164 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:24:53.668 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:24:54.870 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:24:55.724 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:24:57.951 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:25:00.595 BaseTest:324 - Selecting the bracket
+[logs_null INFO ] 2021-10-12 15:25:05.491 BaseTest:122 - video path: videos\null_null\2021-10-12-15-24-32\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:25:05.862 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:31:55.687 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:31:55.705 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:31:55.706 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:32:05.066 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:32:07.339 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:32:14.052 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:32:15.838 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:32:16.982 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:32:18.528 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:32:19.742 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:32:20.568 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:32:22.777 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:32:25.805 BaseTest:274 - Clicking on More Button
+[logs_null INFO ] 2021-10-12 15:32:26.843 BaseTest:274 - Clicking on Delete Button
+[logs_null INFO ] 2021-10-12 15:32:34.644 BaseTest:122 - video path: videos\null_null\2021-10-12-15-31-55\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:32:35.277 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:33:29.016 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:33:29.037 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:33:29.038 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:33:36.589 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:33:38.846 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:33:45.542 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:33:47.312 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:33:48.566 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:33:50.106 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:33:51.414 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:33:52.233 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:33:54.738 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:33:57.862 BaseTest:274 - Clicking on More Button
+[logs_null INFO ] 2021-10-12 15:33:59.182 BaseTest:274 - Clicking on Delete Button
+[logs_null INFO ] 2021-10-12 15:34:07.970 BaseTest:122 - video path: videos\null_null\2021-10-12-15-33-28\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:34:08.620 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:36:26.645 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:36:26.664 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:36:26.665 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:36:34.391 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:36:36.657 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:36:43.347 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:36:45.140 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:36:46.430 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:36:47.956 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:36:49.158 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:36:50.018 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:36:52.262 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:36:55.296 BaseTest:274 - Clicking on More Button
+[logs_null INFO ] 2021-10-12 15:37:11.855 BaseTest:122 - video path: videos\null_null\2021-10-12-15-36-26\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:37:12.330 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 15:38:09.564 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 15:38:09.582 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 15:38:09.583 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 15:38:17.544 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 15:38:19.921 DeleteBracketTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-12 15:38:26.809 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 15:38:28.601 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 15:38:29.747 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 15:38:31.340 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 15:38:32.587 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-12 15:38:33.923 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-12 15:38:36.227 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-12 15:38:39.379 BaseTest:274 - Clicking on More Button
+[logs_null INFO ] 2021-10-12 15:38:56.990 BaseTest:122 - video path: videos\null_null\2021-10-12-15-38-09\DeleteBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-12 15:38:57.382 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 20:09:58.629 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 20:09:58.761 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 20:09:58.764 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-12 20:10:07.211 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: session not created (An unknown server-side error occurred. status='false'. Failed to complete internal method: 'launch args: [com.avercast.fanbuku_app/.activity.SplashScreenActivity, false, true]', details: Failed to launch activity / URL. The connection to device screen monitor was lost (reportUrl=C:\Users\ankit\appiumstudio-reports\reports\test3))  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.03 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-12 20:13:36.060 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 20:13:36.079 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 20:13:36.080 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 20:13:56.531 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 20:13:58.966 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 20:14:06.162 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:14:08.061 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:14:09.199 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:14:10.710 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:14:12.046 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:14:14.044 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:14:16.480 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:14:18.513 BaseTest:274 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 20:14:36.696 BaseTest:122 - video path: videos\null_null\2021-10-12-20-13-35\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 20:14:37.291 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 20:17:16.287 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 20:17:16.306 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 20:17:16.307 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 20:17:24.620 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 20:17:26.790 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 20:17:33.573 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:17:35.344 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:17:36.479 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:17:37.977 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:17:39.337 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:17:41.252 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:17:43.694 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:17:45.192 BaseTest:274 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 20:17:46.501 BaseTest:274 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 20:17:53.807 BaseTest:122 - video path: videos\null_null\2021-10-12-20-17-15\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 20:17:54.454 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 20:22:54.530 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 20:22:54.547 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 20:22:54.548 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 20:23:02.924 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 20:23:05.140 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 20:23:11.712 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:23:13.543 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:23:14.682 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:23:16.283 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:23:17.605 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:23:19.605 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:23:22.056 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:23:26.819 BaseTest:122 - video path: videos\null_null\2021-10-12-20-22-54\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 20:23:27.791 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 20:23:34.477 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:23:36.314 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:23:37.800 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:23:39.196 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:23:40.524 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:23:42.628 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:23:44.958 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:23:46.361 BaseTest:274 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 20:23:47.635 BaseTest:274 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 20:23:57.106 BaseTest:122 - video path: videos\null_null\2021-10-12-20-22-54\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 20:23:57.756 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 20:25:13.819 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 20:25:13.839 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-12 20:25:13.840 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 20:25:22.460 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 20:25:24.727 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 20:25:31.398 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:25:33.495 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:25:34.683 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:25:36.245 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:25:37.516 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:25:39.376 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:25:41.775 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:25:46.286 BaseTest:122 - video path: videos\null_null\2021-10-12-20-25-13\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 20:25:47.196 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 20:25:53.808 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 20:25:55.634 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 20:25:56.765 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 20:25:58.193 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 20:25:59.524 BaseTest:274 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 20:26:01.863 BaseTest:274 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 20:26:04.277 BaseTest:311 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 20:26:07.953 BaseTest:122 - video path: videos\null_null\2021-10-12-20-25-13\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 20:26:08.310 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-12 21:14:01.906 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 21:14:01.941 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 21:14:01.942 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 21:14:17.900 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 21:14:21.374 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 21:14:29.191 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:14:31.044 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:14:32.205 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:14:33.768 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:14:35.375 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:14:37.361 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:14:39.648 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:14:44.794 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:14:46.110 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:14:55.168 BaseTest:123 - video path: videos\null_null\2021-10-12-21-14-01\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 21:14:56.519 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 21:15:04.009 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:15:05.901 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:15:07.027 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:15:09.995 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:15:11.299 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:15:13.122 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:15:15.458 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:15:33.051 BaseTest:123 - video path: videos\null_null\2021-10-12-21-14-01\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 21:15:34.148 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 21:15:38.542 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 21:15:38.566 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 21:15:38.567 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 21:15:49.632 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 21:15:52.825 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 21:15:59.652 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:16:01.940 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:16:03.099 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:16:05.445 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:16:07.328 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:16:09.712 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:16:12.109 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:16:17.342 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:16:18.653 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:16:28.153 BaseTest:123 - video path: videos\null_null\2021-10-12-21-15-38\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 21:16:29.668 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 21:16:36.894 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:16:38.738 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:16:39.904 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:16:41.391 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:16:42.685 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:16:44.452 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:16:46.844 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:17:07.045 BaseTest:123 - video path: videos\null_null\2021-10-12-21-15-38\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 21:17:08.129 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 21:22:25.138 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 21:22:25.159 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 21:22:25.160 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 21:22:35.786 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 21:22:38.539 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 21:22:45.274 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:22:47.285 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:22:48.462 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:22:50.000 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:22:51.407 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:22:53.330 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:22:55.756 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:23:01.110 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:23:02.402 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:23:11.169 BaseTest:123 - video path: videos\null_null\2021-10-12-21-22-24\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 21:23:12.118 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 21:23:20.034 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:23:21.822 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:23:22.963 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:23:24.354 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:23:25.657 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:23:27.443 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:23:29.830 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:23:34.962 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:23:36.210 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:23:45.348 BaseTest:123 - video path: videos\null_null\2021-10-12-21-22-24\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 21:23:45.935 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 21:28:40.718 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 21:28:40.727 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 21:28:40.728 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 21:28:50.593 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 21:28:52.945 SendFriendRequestTests:51 - 
+****** starting test:alreadySentRequest******
+
+[logs_null INFO ] 2021-10-12 21:28:54.725 Log:10 - alreadySentRequest test is starting.
+[logs_null INFO ] 2021-10-12 21:28:59.890 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:29:01.894 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:29:03.552 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:29:05.091 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:29:06.426 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:29:08.320 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:29:10.779 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:29:16.117 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:29:17.404 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:29:19.914 Log:10 - alreadySentRequest test is succeed.
+[logs_null INFO ] 2021-10-12 21:29:27.664 BaseTest:123 - video path: videos\null_null\2021-10-12-21-28-40\SendFriendRequestTests\alreadySentRequest.mp4
+[logs_null INFO ] 2021-10-12 21:29:28.869 SendFriendRequestTests:51 - 
+****** starting test:newRequest******
+
+[logs_null INFO ] 2021-10-12 21:29:30.581 Log:10 - newRequest test is starting.
+[logs_null INFO ] 2021-10-12 21:29:35.688 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 21:29:37.467 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 21:29:38.602 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 21:29:39.977 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 21:29:41.724 BaseTest:275 - Clicking on Home Search
+[logs_null INFO ] 2021-10-12 21:29:43.452 BaseTest:275 - Clicking on Search Here Button
+[logs_null INFO ] 2021-10-12 21:29:45.805 BaseTest:347 - Clicking on Friend List
+[logs_null INFO ] 2021-10-12 21:29:50.922 BaseTest:275 - Clicking on Plus Button
+[logs_null INFO ] 2021-10-12 21:29:52.274 BaseTest:275 - Clicking on Add Friend Button
+[logs_null INFO ] 2021-10-12 21:29:54.903 Log:10 - newRequest test is failed.
+[logs_null INFO ] 2021-10-12 21:30:02.420 BaseTest:123 - video path: videos\null_null\2021-10-12-21-28-40\SendFriendRequestTests\newRequest.mp4
+[logs_null INFO ] 2021-10-12 21:30:03.069 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-12 21:30:03.409 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 22:31:42.847 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 22:31:42.999 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 22:31:43.001 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 22:31:59.935 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 22:32:03.260 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-12 22:32:10.470 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 22:32:12.275 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 22:32:13.417 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 22:32:14.991 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 22:32:16.231 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-12 22:32:17.359 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-12 22:32:33.859 BaseTest:123 - video path: videos\null_null\2021-10-12-22-31-42\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-12 22:32:34.526 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 22:33:02.782 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 22:33:02.808 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 22:33:02.809 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 22:33:12.588 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 22:33:14.901 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-12 22:33:21.705 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 22:33:24.456 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 22:33:25.667 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 22:33:27.223 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 22:33:28.445 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-12 22:33:29.461 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-12 22:33:31.792 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-12 22:33:33.830 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-12 22:33:35.058 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-12 22:33:42.720 BaseTest:123 - video path: videos\null_null\2021-10-12-22-33-02\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-12 22:33:43.339 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 22:34:26.398 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 22:34:26.447 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 22:34:26.449 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 22:34:38.547 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 22:34:40.874 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-12 22:34:47.880 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-12 22:34:49.738 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-12 22:34:51.196 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-12 22:34:52.691 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-12 22:34:53.927 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-12 22:34:54.916 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-12 22:34:56.838 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-12 22:34:58.827 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-12 22:35:00.054 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-12 22:35:09.040 BaseTest:123 - video path: videos\null_null\2021-10-12-22-34-25\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-12 22:35:09.828 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-12 22:36:25.582 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-12 22:36:25.603 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-12 22:36:25.604 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-12 22:36:37.590 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-12 22:36:40.342 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-12 22:36:44.607 BaseTest:123 - video path: videos\null_null\2021-10-12-22-36-25\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-12 22:36:45.065 BaseTest:152 - Appium server stopped

@@ -1,0 +1,898 @@
+[logs_null INFO ] 2021-10-09 20:27:29.916 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:27:30.126 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:27:30.147 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:27:57.760 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:28:00.688 ChangePasswordTests:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-09 20:28:07.589 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:28:09.423 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-09 20:28:10.711 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:37:39.162 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:37:39.180 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:37:39.181 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:37:49.368 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:37:52.206 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:44:30.605 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:44:30.615 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:44:30.616 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:44:39.722 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:44:42.342 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:44:44.092 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 20:44:49.278 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:44:51.036 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:44:52.162 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:44:53.734 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:44:54.962 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:45:08.142 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 20:45:13.412 BaseTest:122 - video path: videos\null_null\2021-10-09-20-44-30\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 20:45:14.393 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 20:45:15.893 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-09 20:45:27.299 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:45:27.311 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:45:27.312 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:45:36.573 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:45:49.329 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:45:51.079 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 20:45:56.257 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:45:59.271 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:46:00.408 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:46:01.970 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:46:03.152 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:46:11.921 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:46:13.714 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 20:46:14.388 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 20:46:16.128 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 20:46:18.273 BaseTest:122 - video path: videos\null_null\2021-10-09-20-45-27\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 20:46:19.694 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 20:47:59.856 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:47:59.865 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:47:59.866 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:48:07.720 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:48:10.328 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:48:11.992 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 20:48:17.095 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:48:18.866 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:48:20.011 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:48:21.822 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:48:23.021 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:51:04.638 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:51:04.656 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:51:04.657 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:51:13.103 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:51:15.716 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:51:22.511 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:51:24.263 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:51:25.469 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:51:26.986 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:51:28.178 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:51:29.113 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:51:30.029 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:51:31.250 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:51:33.051 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 20:51:33.744 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 20:51:51.295 BaseTest:122 - video path: videos\null_null\2021-10-09-20-51-04\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 20:51:52.197 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 20:51:58.767 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:52:00.540 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:52:01.914 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:52:03.357 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:52:04.525 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:52:05.559 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:52:06.462 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:52:07.672 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:52:09.463 BaseTest:287 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 20:52:10.122 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:52:16.452 BaseTest:122 - video path: videos\null_null\2021-10-09-20-51-04\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 20:52:17.262 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 20:52:22.189 BaseTest:122 - video path: videos\null_null\2021-10-09-20-51-04\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 20:52:22.962 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 20:52:29.554 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:52:31.318 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:52:32.443 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:52:33.893 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:52:35.102 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:52:36.056 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:52:37.122 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:52:38.340 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:52:40.133 BaseTest:287 - Tournament Name is Ankita_Tournament2
+[logs_null INFO ] 2021-10-09 20:52:40.821 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 20:52:47.120 BaseTest:122 - video path: videos\null_null\2021-10-09-20-51-04\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 20:52:48.075 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 20:52:54.843 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:52:56.618 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:52:57.734 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:52:59.139 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:53:00.313 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:53:01.412 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:53:02.781 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:53:03.965 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:53:05.752 BaseTest:287 - Tournament Name is Ankita_Tournament1
+[logs_null INFO ] 2021-10-09 20:53:06.435 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:53:13.259 BaseTest:122 - video path: videos\null_null\2021-10-09-20-51-04\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 20:53:14.843 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 20:54:47.732 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:54:47.752 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:54:47.753 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:55:33.233 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:55:33.251 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:55:33.252 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:55:41.859 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:55:44.449 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:55:51.323 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:55:52.625 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:55:53.763 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:55:55.300 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:56:14.294 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 20:56:14.322 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 20:56:14.323 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 20:56:23.073 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 20:56:36.269 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 20:56:43.404 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:56:45.242 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:56:46.376 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:56:47.939 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:56:49.650 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:56:50.539 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:56:51.482 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:56:52.702 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:56:54.509 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 20:56:55.207 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:02.395 BaseTest:122 - video path: videos\null_null\2021-10-09-20-56-13\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 20:57:03.877 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 20:57:10.922 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:57:12.878 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:57:14.009 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:57:15.438 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:57:17.580 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:18.466 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:57:19.395 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:57:20.595 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:22.469 BaseTest:287 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 20:57:23.175 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:29.430 BaseTest:122 - video path: videos\null_null\2021-10-09-20-56-13\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 20:57:30.255 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 20:57:36.971 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:57:38.727 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:57:39.844 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:57:41.273 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:57:42.463 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:43.413 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:57:44.403 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:57:45.627 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:47.473 BaseTest:287 - Tournament Name is hdheh83#@$%$#
+[logs_null INFO ] 2021-10-09 20:57:48.159 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:57:55.193 BaseTest:122 - video path: videos\null_null\2021-10-09-20-56-13\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 20:57:56.842 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 20:58:03.482 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:58:05.228 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:58:06.358 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:58:07.992 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:58:09.261 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:58:10.406 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:58:11.325 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:58:12.540 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:58:14.332 BaseTest:287 - Tournament Name is Ankita_Tournament2
+[logs_null INFO ] 2021-10-09 20:58:15.016 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 20:58:33.162 BaseTest:122 - video path: videos\null_null\2021-10-09-20-56-13\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 20:58:34.018 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 20:58:40.691 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 20:58:42.434 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 20:58:43.559 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 20:58:44.977 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 20:58:46.175 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:58:47.234 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 20:58:48.442 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 20:58:49.656 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:58:51.459 BaseTest:287 - Tournament Name is Ankita_Tournament2
+[logs_null INFO ] 2021-10-09 20:58:52.143 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 20:58:58.947 BaseTest:122 - video path: videos\null_null\2021-10-09-20-56-13\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 20:58:59.418 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:04:14.611 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:04:14.629 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:04:14.629 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:04:23.011 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:04:25.749 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 21:04:32.578 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:04:34.400 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:04:35.635 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:04:37.235 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:04:38.466 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:04:39.455 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:04:40.419 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:04:41.648 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:04:43.472 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 21:04:44.179 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:04:51.130 BaseTest:122 - video path: videos\null_null\2021-10-09-21-04-14\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 21:04:51.923 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 21:04:58.581 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:05:00.368 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:05:01.897 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:05:03.430 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:05:04.636 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:05.623 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:05:06.609 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:05:07.849 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:10.012 BaseTest:287 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 21:05:10.712 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:19.357 BaseTest:122 - video path: videos\null_null\2021-10-09-21-04-14\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 21:05:20.492 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 21:05:27.749 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:05:29.561 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:05:30.723 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:05:32.270 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:05:33.479 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:34.438 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:05:35.371 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:05:36.576 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:38.398 BaseTest:287 - Tournament Name is hdheh83#@$%$#
+[logs_null INFO ] 2021-10-09 21:05:39.096 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:05:47.052 BaseTest:122 - video path: videos\null_null\2021-10-09-21-04-14\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 21:05:48.573 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:05:56.230 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:05:58.161 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:05:59.879 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:06:01.711 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:06:03.086 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:06:03.980 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:06:05.249 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:06:06.509 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:06:08.484 BaseTest:287 - Tournament Name is Ankita_Tournament4
+[logs_null INFO ] 2021-10-09 21:06:09.198 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:06:29.791 BaseTest:122 - video path: videos\null_null\2021-10-09-21-04-14\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:06:30.766 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 21:06:38.004 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:06:40.338 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:06:41.441 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:06:42.947 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:06:44.112 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:06:45.112 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:06:46.004 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:06:47.211 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:06:49.024 BaseTest:287 - Tournament Name is Ankita_Tournament3
+[logs_null INFO ] 2021-10-09 21:06:49.695 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:06:58.223 BaseTest:122 - video path: videos\null_null\2021-10-09-21-04-14\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 21:06:59.246 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:10:15.476 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:10:15.497 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:10:15.500 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:10:25.548 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:10:28.675 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:10:35.915 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:10:38.003 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:10:39.143 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:10:40.686 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:10:41.903 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:10:42.858 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:10:43.800 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:10:45.050 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:10:46.913 BaseTest:287 - Tournament Name is Ankita_Tournament4
+[logs_null INFO ] 2021-10-09 21:10:47.657 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:11:10.072 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:11:10.099 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:11:10.100 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:11:19.941 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:11:22.757 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:11:29.673 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:11:31.527 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:11:32.676 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:11:34.199 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:11:35.412 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:11:36.350 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:11:37.342 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:11:38.570 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:11:40.405 BaseTest:287 - Tournament Name is Ankita_Tournament4
+[logs_null INFO ] 2021-10-09 21:11:41.140 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:11:59.814 BaseTest:122 - video path: videos\null_null\2021-10-09-21-11-09\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:12:00.263 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:12:58.200 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:12:58.221 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:12:58.224 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:13:15.600 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:13:15.622 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:13:15.623 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:13:23.779 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:13:26.726 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:13:33.700 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:13:35.500 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:13:36.654 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:13:38.236 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:13:39.440 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:13:40.645 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:13:41.607 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:13:42.839 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:13:44.651 BaseTest:287 - Tournament Name is Ankita_Tournament5
+[logs_null INFO ] 2021-10-09 21:13:45.347 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:14:18.081 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:14:18.103 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:14:18.103 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:14:27.518 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:14:40.875 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:14:47.757 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:14:49.515 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:14:50.646 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:14:52.272 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:14:54.085 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:14:55.027 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:14:55.959 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:14:57.179 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:14:58.996 BaseTest:287 - Tournament Name is Ankita_Tournament6
+[logs_null INFO ] 2021-10-09 21:14:59.724 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:15:18.140 BaseTest:122 - video path: videos\null_null\2021-10-09-21-14-17\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:15:18.582 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:15:58.925 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:15:58.944 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:15:58.944 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:16:07.346 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:16:10.032 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:16:16.950 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:16:18.726 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:16:19.872 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:16:21.487 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:16:22.688 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:16:23.609 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:16:24.821 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:16:26.038 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:16:27.861 BaseTest:287 - Tournament Name is Ankita_Tournament7
+[logs_null INFO ] 2021-10-09 21:16:30.131 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:16:50.016 BaseTest:122 - video path: videos\null_null\2021-10-09-21-15-58\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:16:50.385 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:17:14.073 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:17:14.096 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:17:14.097 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:17:21.789 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:17:26.063 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:17:32.993 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:17:34.834 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:17:35.968 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:17:37.558 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:17:38.793 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:17:39.759 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:17:40.657 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:17:41.985 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:17:43.803 BaseTest:287 - Tournament Name is Ankita_Tournament8
+[logs_null INFO ] 2021-10-09 21:17:46.631 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:17:48.916 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:17:56.719 BaseTest:122 - video path: videos\null_null\2021-10-09-21-17-13\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:17:57.104 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:19:20.040 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:19:20.058 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:19:20.059 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:19:29.157 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:19:31.749 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 21:19:33.912 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:19:39.145 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:19:40.955 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:19:42.115 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:19:43.744 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:19:44.987 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:19:45.935 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:19:46.882 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:19:48.601 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:19:50.599 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 21:19:51.326 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:19:53.633 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:19:59.240 BaseTest:122 - video path: videos\null_null\2021-10-09-21-19-20\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 21:20:00.133 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 21:20:03.158 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-09 21:20:08.259 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:20:10.040 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:20:11.172 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:20:12.925 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:20:14.137 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:20:15.105 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:20:16.013 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:20:17.273 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:20:19.106 BaseTest:287 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 21:20:19.785 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:20:21.991 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-09 21:20:26.680 BaseTest:122 - video path: videos\null_null\2021-10-09-21-19-20\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 21:20:27.482 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 21:20:29.037 Log:10 - invalidData test is starting.
+[logs_null INFO ] 2021-10-09 21:20:34.193 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:20:36.138 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:20:37.382 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:20:38.654 Log:10 - invalidData test is succeed.
+[logs_null INFO ] 2021-10-09 21:20:43.094 BaseTest:122 - video path: videos\null_null\2021-10-09-21-19-20\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 21:20:45.362 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:20:47.049 Log:10 - privateTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:20:52.153 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:20:53.914 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:20:55.059 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:20:56.575 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:20:57.796 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:20:58.730 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:20:59.647 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:21:01.375 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:21:03.195 BaseTest:287 - Tournament Name is Testing_Tournament2
+[logs_null INFO ] 2021-10-09 21:21:05.457 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:21:07.759 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:21:10.378 Log:10 - privateTournament test is failed.
+[logs_null INFO ] 2021-10-09 21:21:15.239 BaseTest:122 - video path: videos\null_null\2021-10-09-21-19-20\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:21:16.100 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 21:21:17.802 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-09 21:21:22.921 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:21:24.684 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:21:25.852 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:21:27.290 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:21:28.521 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:21:29.484 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:21:30.409 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:21:32.383 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:21:34.179 BaseTest:287 - Tournament Name is Testing_Tournament1
+[logs_null INFO ] 2021-10-09 21:21:34.891 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:21:38.850 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-09 21:21:44.374 BaseTest:122 - video path: videos\null_null\2021-10-09-21-19-20\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 21:21:44.823 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-09 21:21:45.301 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:22:47.550 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:22:47.559 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:22:47.560 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:22:56.716 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:22:59.582 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 21:23:01.547 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:23:06.696 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:23:09.533 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:23:10.662 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:23:12.246 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:23:13.924 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:14.808 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:23:15.772 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:23:17.066 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:18.889 BaseTest:287 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 21:23:19.602 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:21.921 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:23:27.509 BaseTest:122 - video path: videos\null_null\2021-10-09-21-22-47\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 21:23:28.303 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 21:23:29.896 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-09 21:23:35.067 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:23:36.858 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:23:38.034 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:23:39.522 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:23:40.767 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:41.705 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:23:42.682 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:23:44.065 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:45.972 BaseTest:287 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 21:23:46.752 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:23:49.050 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-09 21:23:55.912 BaseTest:122 - video path: videos\null_null\2021-10-09-21-22-47\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 21:23:57.088 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 21:24:01.711 Log:10 - invalidData test is starting.
+[logs_null INFO ] 2021-10-09 21:24:06.957 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:24:08.893 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:24:10.061 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:24:11.596 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:24:12.844 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:13.878 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:24:14.842 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:24:16.389 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:18.215 BaseTest:287 - Tournament Name is hdheh83#@$%$#
+[logs_null INFO ] 2021-10-09 21:24:18.927 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:21.200 Log:10 - invalidData test is succeed.
+[logs_null INFO ] 2021-10-09 21:24:27.715 BaseTest:122 - video path: videos\null_null\2021-10-09-21-22-47\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 21:24:29.310 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:24:32.267 Log:10 - privateTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:24:37.389 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:24:39.740 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:24:41.155 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:24:42.613 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:24:43.832 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:44.855 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:24:45.840 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:24:47.099 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:49.063 BaseTest:287 - Tournament Name is Testing_Tournament4
+[logs_null INFO ] 2021-10-09 21:24:51.515 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:24:53.863 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:24:56.277 Log:10 - privateTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:25:04.347 BaseTest:122 - video path: videos\null_null\2021-10-09-21-22-47\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:25:05.189 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 21:25:06.754 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-09 21:25:12.567 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:25:14.283 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:25:15.394 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:25:16.837 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:25:18.047 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:25:19.024 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:25:19.981 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:25:21.317 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:25:23.149 BaseTest:287 - Tournament Name is Testing_Tournament3
+[logs_null INFO ] 2021-10-09 21:25:23.868 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:25:26.209 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-09 21:25:32.196 BaseTest:122 - video path: videos\null_null\2021-10-09-21-22-47\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 21:25:33.179 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-09 21:25:33.515 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 21:29:46.793 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:29:46.803 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:29:46.804 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:29:55.673 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:29:58.595 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 21:30:00.338 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:30:05.503 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:30:07.262 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:30:08.392 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:30:10.730 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:30:11.927 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:30:12.835 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:30:13.770 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:30:15.010 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:30:16.827 BaseTest:294 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 21:30:17.456 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:30:19.786 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:30:25.692 BaseTest:122 - video path: videos\null_null\2021-10-09-21-29-46\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 21:30:26.500 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 21:30:28.384 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-09 21:30:33.493 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:30:35.257 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:30:36.409 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:30:37.620 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-09 21:30:40.213 BaseTest:122 - video path: videos\null_null\2021-10-09-21-29-46\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 21:30:41.091 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 21:30:42.858 Log:10 - invalidData test is starting.
+[logs_null INFO ] 2021-10-09 21:30:47.929 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:30:49.723 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:30:51.055 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:30:52.268 Log:10 - invalidData test is succeed.
+[logs_null INFO ] 2021-10-09 21:31:07.082 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 21:31:07.098 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 21:31:07.100 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 21:31:17.686 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 21:31:31.354 CreateTournamentTests:51 - 
+****** starting test:alreadyExistingTournament******
+
+[logs_null INFO ] 2021-10-09 21:31:33.074 Log:10 - alreadyExistingTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:31:39.574 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:31:41.359 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:31:42.806 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:31:44.321 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:31:45.524 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:31:46.489 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:31:47.422 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:31:49.738 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:31:51.594 BaseTest:294 - Tournament Name is Sanket_Tournament
+[logs_null INFO ] 2021-10-09 21:31:52.733 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:31:55.334 Log:10 - alreadyExistingTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:31:58.619 BaseTest:122 - video path: videos\null_null\2021-10-09-21-31-07\CreateTournamentTests\alreadyExistingTournament.mp4
+[logs_null INFO ] 2021-10-09 21:31:59.409 CreateTournamentTests:51 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-09 21:32:01.067 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-09 21:32:06.150 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:32:07.939 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:32:09.070 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:32:10.543 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:32:11.747 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:12.710 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:32:13.630 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:32:14.882 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:16.690 BaseTest:294 - Tournament Name is 
+[logs_null INFO ] 2021-10-09 21:32:17.315 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:19.524 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-09 21:32:25.124 BaseTest:122 - video path: videos\null_null\2021-10-09-21-31-07\CreateTournamentTests\blankData.mp4
+[logs_null INFO ] 2021-10-09 21:32:26.064 CreateTournamentTests:51 - 
+****** starting test:invalidData******
+
+[logs_null INFO ] 2021-10-09 21:32:27.697 Log:10 - invalidData test is starting.
+[logs_null INFO ] 2021-10-09 21:32:32.761 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:32:34.547 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:32:35.871 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:32:37.391 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:32:38.662 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:39.592 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:32:40.512 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:32:41.759 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:43.595 BaseTest:294 - Tournament Name is hdheh83#@$%$#
+[logs_null INFO ] 2021-10-09 21:32:44.217 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:32:46.591 Log:10 - invalidData test is succeed.
+[logs_null INFO ] 2021-10-09 21:32:51.357 BaseTest:122 - video path: videos\null_null\2021-10-09-21-31-07\CreateTournamentTests\invalidData.mp4
+[logs_null INFO ] 2021-10-09 21:32:52.328 CreateTournamentTests:51 - 
+****** starting test:privateTournament******
+
+[logs_null INFO ] 2021-10-09 21:32:53.826 Log:10 - privateTournament test is starting.
+[logs_null INFO ] 2021-10-09 21:32:58.934 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:33:00.699 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:33:01.986 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:33:03.440 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:33:04.665 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:05.578 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:33:06.519 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:33:07.802 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:09.651 BaseTest:294 - Tournament Name is Testing_Tournament6
+[logs_null INFO ] 2021-10-09 21:33:11.848 BaseTest:274 - Clicking on Private Tournament CheckBox 
+[logs_null INFO ] 2021-10-09 21:33:14.137 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:16.562 Log:10 - privateTournament test is succeed.
+[logs_null INFO ] 2021-10-09 21:33:21.656 BaseTest:122 - video path: videos\null_null\2021-10-09-21-31-07\CreateTournamentTests\privateTournament.mp4
+[logs_null INFO ] 2021-10-09 21:33:23.228 CreateTournamentTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 21:33:25.018 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-09 21:33:29.975 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 21:33:31.762 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 21:33:32.902 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 21:33:34.389 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 21:33:35.718 BaseTest:274 - Clicking on Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:36.634 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 21:33:37.588 BaseTest:274 - Clicking on Got It Button
+[logs_null INFO ] 2021-10-09 21:33:38.859 BaseTest:274 - Clicking on Add Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:40.655 BaseTest:294 - Tournament Name is Testing_Tournament5
+[logs_null INFO ] 2021-10-09 21:33:41.314 BaseTest:274 - Clicking on Create Tournamnents Button 
+[logs_null INFO ] 2021-10-09 21:33:43.676 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-09 21:33:49.018 BaseTest:122 - video path: videos\null_null\2021-10-09-21-31-07\CreateTournamentTests\validData.mp4
+[logs_null INFO ] 2021-10-09 21:33:49.717 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-09 21:33:50.079 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 22:24:06.786 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:24:06.844 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:24:06.845 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-09 22:24:09.564 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-09 22:26:35.295 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:26:35.314 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:26:35.315 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 22:26:52.816 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 22:26:55.570 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 22:27:03.401 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 22:27:05.331 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 22:27:06.602 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 22:27:08.607 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 22:27:09.808 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 22:27:10.783 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 22:27:12.268 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 22:27:28.925 BaseTest:122 - video path: videos\null_null\2021-10-09-22-26-34\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 22:27:29.528 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 22:29:08.197 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:29:08.214 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:29:08.215 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 22:29:17.473 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 22:29:21.238 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 22:29:28.693 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 22:29:30.583 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 22:29:32.166 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 22:29:34.119 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 22:29:35.373 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 22:29:36.554 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 22:29:38.120 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 22:29:39.345 BaseTest:302 - Selecting Tournament Name
+[logs_null INFO ] 2021-10-09 22:29:47.618 BaseTest:122 - video path: videos\null_null\2021-10-09-22-29-07\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 22:29:48.642 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 22:58:10.366 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:58:10.393 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:58:10.394 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 22:58:23.375 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 22:58:26.605 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 22:58:30.419 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:58:30.437 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:58:30.438 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 22:58:45.178 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 22:58:58.650 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 22:59:36.252 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 22:59:36.271 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 22:59:36.272 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 22:59:47.979 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:00:01.816 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:00:09.476 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:00:11.319 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:00:11.977 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:00:14.115 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:00:15.387 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:00:16.510 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:00:18.155 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:00:19.737 BaseTest:274 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:00:36.366 BaseTest:122 - video path: videos\null_null\2021-10-09-22-59-35\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:00:37.072 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:01:36.106 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:01:36.125 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:01:36.125 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:01:46.868 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:01:49.663 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:01:57.275 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:01:59.177 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:02:00.315 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:02:02.273 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:02:04.098 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:02:05.205 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:02:08.129 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:02:10.080 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:02:14.420 BaseTest:122 - video path: videos\null_null\2021-10-09-23-01-35\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:02:14.991 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:04:59.383 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:04:59.402 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:04:59.403 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:05:09.384 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:05:12.387 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:05:19.594 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:05:21.397 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:05:22.524 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:05:24.478 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:05:25.714 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:05:26.710 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:05:28.138 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:05:29.419 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:05:33.189 BaseTest:122 - video path: videos\null_null\2021-10-09-23-04-58\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:05:33.872 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:06:22.718 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:06:22.737 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:06:22.738 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:06:32.829 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:06:35.618 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:06:42.806 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:06:44.804 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:06:45.935 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:06:47.750 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:06:49.022 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:06:50.156 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:06:51.469 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:06:52.712 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:06:56.294 BaseTest:122 - video path: videos\null_null\2021-10-09-23-06-22\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:06:56.801 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:16:30.657 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:16:30.676 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:16:30.676 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:16:39.890 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:16:42.644 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:16:49.901 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:16:51.778 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:16:52.936 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:16:54.635 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:16:55.891 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:16:56.807 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:16:58.193 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:16:59.448 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:17:01.802 BaseTest:295 - Bracket Name is AnkitaBracket
+[logs_null INFO ] 2021-10-09 23:17:02.476 BaseTest:274 - Clicking on Create Bracket Button 
+[logs_null INFO ] 2021-10-09 23:17:09.773 BaseTest:122 - video path: videos\null_null\2021-10-09-23-16-30\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:17:10.176 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:17:42.807 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:17:42.827 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:17:42.827 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:17:51.251 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:17:53.451 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:18:00.221 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:18:02.410 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:18:03.550 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:18:05.690 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:18:06.956 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:18:07.958 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:18:09.258 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:18:10.775 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:18:15.496 BaseTest:122 - video path: videos\null_null\2021-10-09-23-17-42\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:18:15.902 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-09 23:18:44.593 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:18:44.612 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:18:44.613 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:19:14.968 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:19:14.987 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:19:14.988 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:19:25.480 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:19:27.665 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:19:34.823 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:19:36.681 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:19:37.859 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:19:39.366 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:19:40.610 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:19:41.501 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:19:42.829 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:19:44.106 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:21:53.593 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-09 23:21:53.616 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-09 23:21:53.617 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-09 23:22:04.217 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-09 23:22:17.675 CreateBracketTests:51 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-09 23:22:24.403 BaseTest:295 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-09 23:22:26.289 BaseTest:295 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-09 23:22:27.446 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-09 23:22:29.660 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-09 23:22:30.945 BaseTest:274 - Clicking on Bracket Home Button 
+[logs_null INFO ] 2021-10-09 23:22:31.853 BaseTest:274 - Clicking on Next Button
+[logs_null INFO ] 2021-10-09 23:22:33.181 BaseTest:274 - Clicking on Add Bracket Button 
+[logs_null INFO ] 2021-10-09 23:22:34.448 BaseTest:302 - Clicking on Tounament List
+[logs_null INFO ] 2021-10-09 23:22:41.615 BaseTest:122 - video path: videos\null_null\2021-10-09-23-21-53\CreateBracketTests\validData.mp4
+[logs_null INFO ] 2021-10-09 23:22:42.059 BaseTest:151 - Appium server stopped

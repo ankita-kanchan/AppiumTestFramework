@@ -1,0 +1,1922 @@
+[logs_null INFO ] 2021-10-05 09:25:19.063 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 09:25:19.509 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 09:25:19.509 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 09:25:40.000 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 09:25:42.271 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 09:25:43.738 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 09:25:49.925 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 09:25:53.261 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 09:25:56.505 BaseTest:122 - video path: videos\null_null\2021-10-05-09-25-19\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 09:25:57.395 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 09:25:58.881 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 09:26:04.830 BaseTest:287 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 09:26:08.157 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 09:26:10.129 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 09:26:12.121 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 09:26:14.117 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 09:26:17.657 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 09:26:19.943 BaseTest:122 - video path: videos\null_null\2021-10-05-09-25-19\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 09:26:20.904 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 09:26:22.398 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 09:26:28.256 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 09:26:30.301 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 09:26:32.880 BaseTest:122 - video path: videos\null_null\2021-10-05-09-25-19\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 09:26:33.776 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-05 09:26:35.255 Log:10 - previousPassword test is starting.
+[logs_null INFO ] 2021-10-05 09:26:41.138 BaseTest:287 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 09:26:44.395 BaseTest:287 - OTP Digit 1 is 9
+[logs_null INFO ] 2021-10-05 09:26:46.372 BaseTest:287 - OTP Digit 2 is 1
+[logs_null INFO ] 2021-10-05 09:26:48.368 BaseTest:287 - OTP Digit 3 is 4
+[logs_null INFO ] 2021-10-05 09:26:50.370 BaseTest:287 - OTP Digit 4 is 2
+[logs_null INFO ] 2021-10-05 09:26:55.460 BaseTest:287 - Resent Password is Sanket@12345
+[logs_null INFO ] 2021-10-05 09:26:57.469 BaseTest:287 - Confirm Password is Sanket@12345
+[logs_null INFO ] 2021-10-05 09:27:00.055 Log:10 - previousPassword test is failed.
+[logs_null INFO ] 2021-10-05 09:27:02.992 BaseTest:122 - video path: videos\null_null\2021-10-05-09-25-19\ForgotPassword\previousPassword.mp4
+[logs_null INFO ] 2021-10-05 09:27:03.997 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 09:27:05.821 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 09:27:11.714 BaseTest:287 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 09:27:15.450 BaseTest:287 - OTP Digit 1 is 6
+[logs_null INFO ] 2021-10-05 09:27:17.436 BaseTest:287 - OTP Digit 2 is 6
+[logs_null INFO ] 2021-10-05 09:27:19.436 BaseTest:287 - OTP Digit 3 is 7
+[logs_null INFO ] 2021-10-05 09:27:21.411 BaseTest:287 - OTP Digit 4 is 1
+[logs_null INFO ] 2021-10-05 09:27:34.443 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 09:27:36.721 BaseTest:122 - video path: videos\null_null\2021-10-05-09-25-19\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 09:27:37.362 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 09:27:37.610 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 10:10:38.163 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:10:38.176 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:10:38.176 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:10:47.760 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:10:50.194 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:10:51.625 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:10:57.520 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:10:59.528 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:11:02.496 BaseTest:122 - video path: videos\null_null\2021-10-05-10-10-38\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:11:03.435 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:11:04.929 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 10:11:10.829 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:11:14.478 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:11:16.444 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:11:19.420 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:11:21.479 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:11:24.775 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 10:11:27.809 BaseTest:122 - video path: videos\null_null\2021-10-05-10-10-38\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:11:28.651 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:11:30.051 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 10:11:35.960 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:11:38.052 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 10:11:40.229 BaseTest:122 - video path: videos\null_null\2021-10-05-10-10-38\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:11:41.210 ForgotPassword:49 - 
+****** starting test:previousPassword******
+
+[logs_null INFO ] 2021-10-05 10:11:42.905 Log:10 - previousPassword test is starting.
+[logs_null INFO ] 2021-10-05 10:11:48.773 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:11:52.152 BaseTest:287 - OTP Digit 1 is 8
+[logs_null INFO ] 2021-10-05 10:11:54.298 BaseTest:287 - OTP Digit 2 is 5
+[logs_null INFO ] 2021-10-05 10:11:56.129 BaseTest:287 - OTP Digit 3 is 8
+[logs_null INFO ] 2021-10-05 10:11:58.108 BaseTest:287 - OTP Digit 4 is 0
+[logs_null INFO ] 2021-10-05 10:12:03.163 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 10:12:06.083 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 10:12:09.697 Log:10 - previousPassword test is failed.
+[logs_null INFO ] 2021-10-05 10:12:12.390 BaseTest:122 - video path: videos\null_null\2021-10-05-10-10-38\ForgotPassword\previousPassword.mp4
+[logs_null INFO ] 2021-10-05 10:12:13.246 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:12:14.747 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:12:20.621 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:12:24.212 BaseTest:287 - OTP Digit 1 is 6
+[logs_null INFO ] 2021-10-05 10:12:27.213 BaseTest:287 - OTP Digit 2 is 6
+[logs_null INFO ] 2021-10-05 10:12:29.191 BaseTest:287 - OTP Digit 3 is 5
+[logs_null INFO ] 2021-10-05 10:12:31.183 BaseTest:287 - OTP Digit 4 is 2
+[logs_null INFO ] 2021-10-05 10:17:34.133 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:17:34.154 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:17:34.154 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:17:42.902 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:17:45.296 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:17:52.655 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:17:57.691 BaseTest:122 - video path: videos\null_null\2021-10-05-10-17-33\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:17:58.536 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:18:05.937 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:20:13.115 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:20:13.136 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:20:13.137 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:20:24.430 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:20:37.843 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:20:45.305 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:20:50.655 BaseTest:122 - video path: videos\null_null\2021-10-05-10-20-12\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:20:51.570 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:20:58.946 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:21:02.357 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:21:04.330 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:21:07.328 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:21:09.322 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:21:15.245 BaseTest:122 - video path: videos\null_null\2021-10-05-10-20-12\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:21:16.172 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:21:23.550 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:21:29.263 BaseTest:122 - video path: videos\null_null\2021-10-05-10-20-12\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:21:30.142 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:21:37.485 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:21:40.910 BaseTest:122 - video path: videos\null_null\2021-10-05-10-20-12\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 10:21:41.393 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 10:22:52.803 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:22:52.815 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:22:52.816 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:23:01.676 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:23:03.851 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:23:05.349 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:23:11.243 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:23:13.501 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:23:16.567 BaseTest:122 - video path: videos\null_null\2021-10-05-10-22-52\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:23:17.471 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:23:19.002 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 10:23:24.892 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:23:37.354 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 10:23:39.429 BaseTest:122 - video path: videos\null_null\2021-10-05-10-22-52\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:23:40.315 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:23:41.859 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 10:23:47.735 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:23:49.827 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 10:25:59.345 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:25:59.365 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:25:59.366 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:26:07.340 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:26:09.639 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:26:17.030 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:26:22.595 BaseTest:122 - video path: videos\null_null\2021-10-05-10-25-58\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:26:23.515 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:26:30.899 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:26:41.349 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:26:44.284 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:26:46.309 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:26:48.304 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:26:54.975 BaseTest:122 - video path: videos\null_null\2021-10-05-10-25-58\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:26:55.865 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:27:03.254 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:27:07.775 BaseTest:122 - video path: videos\null_null\2021-10-05-10-25-58\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:27:08.752 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:27:16.023 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:27:20.361 BaseTest:287 - OTP Digit 1 is 5
+[logs_null INFO ] 2021-10-05 10:27:24.332 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:27:26.360 BaseTest:287 - OTP Digit 3 is 9
+[logs_null INFO ] 2021-10-05 10:27:28.358 BaseTest:287 - OTP Digit 4 is 2
+[logs_null INFO ] 2021-10-05 10:27:33.530 BaseTest:287 - Resent Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 10:27:35.551 BaseTest:287 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 10:27:41.057 BaseTest:122 - video path: videos\null_null\2021-10-05-10-25-58\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 10:27:41.558 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 10:28:32.668 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:28:32.679 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:28:32.680 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:28:41.800 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:28:44.082 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:28:45.520 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:28:51.412 BaseTest:287 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:28:53.413 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:28:56.130 BaseTest:122 - video path: videos\null_null\2021-10-05-10-28-32\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:28:56.977 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:28:58.433 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 10:29:04.352 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:29:07.742 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:29:10.679 BaseTest:287 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:29:12.730 BaseTest:287 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:29:14.673 BaseTest:287 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:29:18.176 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 10:29:21.170 BaseTest:122 - video path: videos\null_null\2021-10-05-10-28-32\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:29:22.352 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:29:24.092 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 10:29:30.029 BaseTest:287 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:29:32.165 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 10:29:34.812 BaseTest:122 - video path: videos\null_null\2021-10-05-10-28-32\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:29:35.764 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:29:37.274 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:29:43.183 BaseTest:287 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:29:47.707 BaseTest:287 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:29:49.721 BaseTest:287 - OTP Digit 2 is 4
+[logs_null INFO ] 2021-10-05 10:29:52.704 BaseTest:287 - OTP Digit 3 is 6
+[logs_null INFO ] 2021-10-05 10:29:54.697 BaseTest:287 - OTP Digit 4 is 5
+[logs_null INFO ] 2021-10-05 10:29:58.795 BaseTest:287 - Resent Password is Ankita@123457
+[logs_null INFO ] 2021-10-05 10:30:02.753 BaseTest:287 - Confirm Password is Ankita@123457
+[logs_null INFO ] 2021-10-05 10:30:05.340 Log:10 - validEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:30:08.103 BaseTest:122 - video path: videos\null_null\2021-10-05-10-28-32\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 10:30:08.593 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 10:30:08.841 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 10:51:48.191 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:51:48.207 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:51:48.208 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:52:00.556 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:52:02.621 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:52:04.329 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:52:10.630 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:52:12.912 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:52:16.718 BaseTest:122 - video path: videos\null_null\2021-10-05-10-51-48\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:52:17.764 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:52:19.344 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 10:52:25.272 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:52:28.771 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:52:30.692 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:52:32.717 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:52:34.690 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:52:38.757 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 10:52:41.491 BaseTest:122 - video path: videos\null_null\2021-10-05-10-51-48\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:52:42.548 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:52:44.164 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 10:52:50.085 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:52:52.095 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 10:52:54.465 BaseTest:122 - video path: videos\null_null\2021-10-05-10-51-48\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:52:55.497 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:52:57.110 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:53:03.014 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:53:07.260 BaseTest:294 - OTP Digit 1 is 5
+[logs_null INFO ] 2021-10-05 10:53:09.381 BaseTest:294 - OTP Digit 2 is 4
+[logs_null INFO ] 2021-10-05 10:53:11.257 BaseTest:294 - OTP Digit 3 is 0
+[logs_null INFO ] 2021-10-05 10:53:13.261 BaseTest:294 - OTP Digit 4 is 5
+[logs_null INFO ] 2021-10-05 10:53:18.476 BaseTest:294 - Resent Password is Ankita@123458
+[logs_null INFO ] 2021-10-05 10:53:20.476 BaseTest:294 - Confirm Password is Ankita@123458
+[logs_null INFO ] 2021-10-05 10:53:23.989 Log:10 - validEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:53:27.223 BaseTest:122 - video path: videos\null_null\2021-10-05-10-51-48\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 10:53:27.838 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 10:53:28.257 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 10:56:53.288 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 10:56:53.299 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 10:56:53.300 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 10:57:01.314 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 10:57:03.454 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 10:57:04.902 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:57:10.827 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 10:57:11.462 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 10:57:12.999 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 10:57:15.881 BaseTest:122 - video path: videos\null_null\2021-10-05-10-56-53\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 10:57:16.668 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 10:57:18.095 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 10:57:24.026 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:57:24.660 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 10:57:27.259 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 10:57:29.229 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 10:57:32.233 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 10:57:34.239 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 10:57:35.243 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 10:57:36.503 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 10:57:38.638 BaseTest:122 - video path: videos\null_null\2021-10-05-10-56-53\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 10:57:39.536 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 10:57:41.039 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 10:57:46.909 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 10:57:47.545 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 10:57:48.924 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 10:57:50.563 BaseTest:122 - video path: videos\null_null\2021-10-05-10-56-53\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 10:57:51.464 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 10:57:52.951 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 10:57:58.841 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 10:57:59.489 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 10:58:03.032 BaseTest:294 - OTP Digit 1 is 7
+[logs_null INFO ] 2021-10-05 10:58:05.469 BaseTest:294 - OTP Digit 2 is 1
+[logs_null INFO ] 2021-10-05 10:58:08.023 BaseTest:294 - OTP Digit 3 is 8
+[logs_null INFO ] 2021-10-05 10:58:10.033 BaseTest:294 - OTP Digit 4 is 2
+[logs_null INFO ] 2021-10-05 10:58:11.039 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 10:58:12.282 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 10:58:14.853 BaseTest:122 - video path: videos\null_null\2021-10-05-10-56-53\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 10:58:15.304 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 10:58:15.514 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 11:05:50.695 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:05:50.706 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:05:50.707 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:06:00.121 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:06:02.555 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:06:04.093 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:06:10.018 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:06:11.879 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:06:13.424 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:06:16.734 BaseTest:122 - video path: videos\null_null\2021-10-05-11-05-50\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:06:17.878 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:06:19.412 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:06:25.458 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:06:26.134 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:06:37.999 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:06:39.947 BaseTest:122 - video path: videos\null_null\2021-10-05-11-05-50\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:06:53.952 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:06:53.962 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:06:53.963 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:07:03.332 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:07:17.216 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:07:18.882 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:07:24.809 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:07:25.445 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:07:27.188 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:07:30.171 BaseTest:122 - video path: videos\null_null\2021-10-05-11-06-53\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:07:31.203 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:07:32.596 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:07:38.524 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:07:39.160 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:07:41.810 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:07:43.909 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:07:46.816 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:07:48.808 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:07:49.825 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:07:51.104 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:07:53.007 BaseTest:122 - video path: videos\null_null\2021-10-05-11-06-53\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:07:54.311 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:07:55.827 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:08:03.144 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:08:03.788 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:08:05.083 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:08:06.787 BaseTest:122 - video path: videos\null_null\2021-10-05-11-06-53\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:08:07.627 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:08:09.054 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:08:14.965 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:08:15.599 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:08:19.271 BaseTest:294 - OTP Digit 1 is 5
+[logs_null INFO ] 2021-10-05 11:08:21.303 BaseTest:294 - OTP Digit 2 is 1
+[logs_null INFO ] 2021-10-05 11:08:24.277 BaseTest:294 - OTP Digit 3 is 7
+[logs_null INFO ] 2021-10-05 11:08:26.284 BaseTest:294 - OTP Digit 4 is 7
+[logs_null INFO ] 2021-10-05 11:08:27.329 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:08:28.741 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 11:08:31.474 BaseTest:122 - video path: videos\null_null\2021-10-05-11-06-53\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 11:08:31.895 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 11:08:32.121 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 11:09:01.291 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:09:01.303 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:09:01.303 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:09:10.722 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:09:12.913 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:09:14.502 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:09:20.455 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:09:21.136 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:09:22.675 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:09:24.984 BaseTest:122 - video path: videos\null_null\2021-10-05-11-09-01\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:09:25.859 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:09:27.489 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:09:33.390 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:09:34.017 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:09:46.398 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:09:48.587 BaseTest:122 - video path: videos\null_null\2021-10-05-11-09-01\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:10:17.612 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:10:17.622 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:10:17.623 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:10:27.774 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:12:15.290 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:12:15.300 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:12:15.301 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:12:24.456 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:12:26.727 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:12:28.218 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:12:34.132 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:12:34.769 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:12:36.274 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:12:39.004 BaseTest:122 - video path: videos\null_null\2021-10-05-11-12-15\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:12:39.869 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:12:41.275 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:12:47.188 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:12:47.824 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:12:50.460 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:12:52.411 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:12:54.402 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:12:56.405 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:12:57.455 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:12:59.619 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:13:01.666 BaseTest:122 - video path: videos\null_null\2021-10-05-11-12-15\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:13:02.516 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:13:04.108 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:13:10.014 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:13:10.651 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:13:12.055 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:13:13.825 BaseTest:122 - video path: videos\null_null\2021-10-05-11-12-15\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:13:14.746 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:13:16.222 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:13:22.108 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:13:22.755 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:13:26.308 BaseTest:294 - OTP Digit 1 is P
+[logs_null INFO ] 2021-10-05 11:13:28.350 BaseTest:294 - OTP Digit 2 is l
+[logs_null INFO ] 2021-10-05 11:18:11.069 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:18:11.082 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:18:11.082 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:18:19.149 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:18:21.377 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:18:22.852 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:18:30.390 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:18:31.084 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:18:32.694 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:18:35.497 BaseTest:122 - video path: videos\null_null\2021-10-05-11-18-11\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:18:36.502 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:18:37.976 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:18:43.918 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:18:44.551 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:18:52.817 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:18:54.879 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:18:56.818 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:18:59.813 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:19:01.242 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:19:03.086 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:19:05.511 BaseTest:122 - video path: videos\null_null\2021-10-05-11-18-11\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:19:06.427 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:19:18.087 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:19:18.098 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:19:18.099 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:19:28.282 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:19:41.313 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:19:42.880 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:19:48.827 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:19:49.484 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:19:51.008 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:19:53.059 BaseTest:122 - video path: videos\null_null\2021-10-05-11-19-18\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:19:53.905 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:19:55.298 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:20:01.831 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:20:02.468 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:20:05.142 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:20:07.094 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:20:19.833 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:20:21.943 BaseTest:122 - video path: videos\null_null\2021-10-05-11-19-18\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:20:22.818 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:20:24.275 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:20:30.500 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:20:30.512 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:20:30.513 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:20:39.374 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:20:52.733 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:20:54.358 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:21:00.288 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:21:01.196 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:21:02.716 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:21:05.506 BaseTest:122 - video path: videos\null_null\2021-10-05-11-20-30\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:21:06.349 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:21:07.806 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:21:13.710 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:21:14.349 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:21:17.199 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:21:20.210 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:21:22.173 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:21:24.168 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:21:25.176 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:21:26.554 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:21:28.651 BaseTest:122 - video path: videos\null_null\2021-10-05-11-20-30\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:21:29.543 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:21:30.956 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:21:36.880 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:21:37.508 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:21:38.916 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:21:41.133 BaseTest:122 - video path: videos\null_null\2021-10-05-11-20-30\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:21:42.071 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:21:43.655 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:21:49.575 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:21:50.196 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:21:51.463 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 11:21:54.042 BaseTest:122 - video path: videos\null_null\2021-10-05-11-20-30\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 11:21:54.555 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 11:21:54.823 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 11:23:50.843 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:23:50.855 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:23:50.856 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 11:23:53.350 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 11:23:53.382 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:23:53.385 Log:10 - invalidEmail test is skipped.
+[logs_null INFO ] 2021-10-05 11:23:53.464 Log:10 - invalidEmail test is failed.
+[logs_null INFO ] 2021-10-05 11:23:53.499 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 11:25:08.099 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:25:08.110 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:25:08.110 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:25:19.175 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:25:21.458 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:25:23.013 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:25:28.887 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:25:29.541 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:25:31.058 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:25:34.315 BaseTest:122 - video path: videos\null_null\2021-10-05-11-25-08\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:25:35.515 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:25:36.937 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:25:42.856 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:25:43.581 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:25:55.414 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:25:59.898 BaseTest:122 - video path: videos\null_null\2021-10-05-11-25-08\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:26:01.548 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:26:03.321 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:26:09.208 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:26:09.837 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:26:11.220 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:26:14.298 BaseTest:122 - video path: videos\null_null\2021-10-05-11-25-08\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:26:15.194 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:26:16.669 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:26:22.557 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:26:23.179 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:26:26.806 BaseTest:294 - OTP Digit 1 is 9
+[logs_null INFO ] 2021-10-05 11:26:28.976 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:26:30.799 BaseTest:294 - OTP Digit 3 is 1
+[logs_null INFO ] 2021-10-05 11:26:33.814 BaseTest:294 - OTP Digit 4 is 8
+[logs_null INFO ] 2021-10-05 11:26:34.863 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:26:36.269 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 11:26:38.396 BaseTest:122 - video path: videos\null_null\2021-10-05-11-25-08\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 11:26:38.836 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 11:26:39.055 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 11:29:05.836 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:29:05.849 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:29:05.850 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:29:14.381 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:29:16.589 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:29:18.013 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:29:23.915 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:29:24.561 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:29:26.087 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:29:29.329 BaseTest:122 - video path: videos\null_null\2021-10-05-11-29-05\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:29:31.783 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:29:33.307 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:29:39.174 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:29:39.810 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:29:42.375 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:29:45.336 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:29:47.347 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:29:49.342 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:29:50.391 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:29:51.897 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:29:54.093 BaseTest:122 - video path: videos\null_null\2021-10-05-11-29-05\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:29:55.019 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:29:56.387 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:30:57.153 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:30:57.165 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:30:57.165 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:31:07.725 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:31:21.057 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:31:22.600 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:31:28.928 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:31:29.614 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:31:31.127 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:31:33.462 BaseTest:122 - video path: videos\null_null\2021-10-05-11-30-57\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:31:35.681 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:31:37.345 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:31:43.243 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:31:43.886 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:31:54.126 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:32:31.810 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:32:31.821 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:32:31.821 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:32:42.423 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:33:44.511 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:33:44.522 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:33:44.523 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:33:53.811 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:33:56.137 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:33:57.588 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:34:03.529 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:34:04.195 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:34:05.732 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:34:08.812 BaseTest:122 - video path: videos\null_null\2021-10-05-11-33-44\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:34:09.648 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:34:11.849 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:34:17.729 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:34:18.368 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:34:19.679 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:34:21.758 BaseTest:122 - video path: videos\null_null\2021-10-05-11-33-44\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:34:22.618 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:36:10.864 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:36:10.876 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:36:10.877 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:36:20.274 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:36:23.425 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:36:25.464 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:36:31.317 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:36:31.970 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:36:33.493 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:36:36.010 BaseTest:122 - video path: videos\null_null\2021-10-05-11-36-10\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:36:36.923 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:36:38.417 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:36:44.288 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:36:44.947 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:36:47.723 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:36:50.652 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:36:52.617 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:36:54.624 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:36:55.686 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:36:57.155 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:36:59.836 BaseTest:122 - video path: videos\null_null\2021-10-05-11-36-10\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:37:00.846 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:37:02.506 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:37:08.493 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:37:09.134 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:37:10.482 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:37:13.621 BaseTest:122 - video path: videos\null_null\2021-10-05-11-36-10\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:37:14.640 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:37:16.165 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:37:22.039 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 11:37:22.673 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:37:26.368 BaseTest:294 - OTP Digit 1 is P
+[logs_null INFO ] 2021-10-05 11:37:29.381 BaseTest:294 - OTP Digit 2 is l
+[logs_null INFO ] 2021-10-05 11:37:31.411 BaseTest:294 - OTP Digit 3 is e
+[logs_null INFO ] 2021-10-05 11:38:45.173 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:38:45.185 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:38:45.186 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:38:55.166 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:38:57.621 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:38:59.094 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:39:04.998 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:39:05.665 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:39:07.157 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:39:11.430 BaseTest:122 - video path: videos\null_null\2021-10-05-11-38-45\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:39:12.331 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:39:13.702 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:39:19.607 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 11:39:20.237 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:39:23.023 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 11:39:25.242 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 11:39:26.968 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 11:39:28.986 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 11:39:30.018 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:39:31.345 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:39:33.398 BaseTest:122 - video path: videos\null_null\2021-10-05-11-38-45\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:39:34.262 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:39:35.682 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:39:41.561 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:39:42.195 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:39:43.584 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:39:45.436 BaseTest:122 - video path: videos\null_null\2021-10-05-11-38-45\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:39:46.339 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:39:47.757 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:39:53.644 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 11:39:54.269 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:39:57.891 BaseTest:294 - OTP Digit 1 is P
+[logs_null INFO ] 2021-10-05 11:39:59.959 BaseTest:294 - OTP Digit 2 is l
+[logs_null INFO ] 2021-10-05 11:40:01.915 BaseTest:294 - OTP Digit 3 is e
+[logs_null INFO ] 2021-10-05 11:40:03.948 BaseTest:294 - OTP Digit 4 is a
+[logs_null INFO ] 2021-10-05 11:49:54.331 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 11:49:54.378 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 11:49:54.379 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 11:50:06.966 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 11:50:09.172 ForgotPassword:49 - 
+****** starting test:invalidEmail******
+
+[logs_null INFO ] 2021-10-05 11:50:10.653 Log:10 - invalidEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:50:16.538 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 11:50:17.180 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:50:19.091 Log:10 - invalidEmail test is succeed.
+[logs_null INFO ] 2021-10-05 11:50:22.366 BaseTest:122 - video path: videos\null_null\2021-10-05-11-49-54\ForgotPassword\invalidEmail.mp4
+[logs_null INFO ] 2021-10-05 11:50:23.202 ForgotPassword:49 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-05 11:50:24.814 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-05 11:50:30.730 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 11:50:31.425 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:50:32.711 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-05 11:50:35.436 BaseTest:122 - video path: videos\null_null\2021-10-05-11-49-54\ForgotPassword\invalidOtp.mp4
+[logs_null INFO ] 2021-10-05 11:50:36.414 ForgotPassword:49 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-05 11:50:37.894 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-05 11:50:43.788 BaseTest:294 - Email is 1234567890
+[logs_null INFO ] 2021-10-05 11:50:44.414 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:50:45.833 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-05 11:50:48.248 BaseTest:122 - video path: videos\null_null\2021-10-05-11-49-54\ForgotPassword\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-05 11:50:49.143 ForgotPassword:49 - 
+****** starting test:validEmail******
+
+[logs_null INFO ] 2021-10-05 11:50:50.596 Log:10 - validEmail test is starting.
+[logs_null INFO ] 2021-10-05 11:50:56.512 BaseTest:294 - Email is sanketwin@gmail.com
+[logs_null INFO ] 2021-10-05 11:50:57.149 BaseTest:274 - Clicking on Send OTP Button
+[logs_null INFO ] 2021-10-05 11:51:01.249 BaseTest:294 - OTP Digit 1 is 3
+[logs_null INFO ] 2021-10-05 11:51:02.972 BaseTest:294 - OTP Digit 2 is 3
+[logs_null INFO ] 2021-10-05 11:51:04.966 BaseTest:294 - OTP Digit 3 is 8
+[logs_null INFO ] 2021-10-05 11:51:06.972 BaseTest:294 - OTP Digit 4 is 5
+[logs_null INFO ] 2021-10-05 11:51:07.940 BaseTest:274 - Clicking on Verify Button
+[logs_null INFO ] 2021-10-05 11:51:09.249 Log:10 - validEmail test is failed.
+[logs_null INFO ] 2021-10-05 11:51:11.077 BaseTest:122 - video path: videos\null_null\2021-10-05-11-49-54\ForgotPassword\validEmail.mp4
+[logs_null INFO ] 2021-10-05 11:51:11.627 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 11:51:12.000 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 18:52:28.254 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:52:28.565 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:52:28.583 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 18:52:31.079 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 18:52:31.116 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:52:31.118 Log:10 - invalidOldPassword test is skipped.
+[logs_null INFO ] 2021-10-05 18:52:31.481 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 18:52:31.629 Log:10 - I am in onFinish method ChangePassword
+[logs_null INFO ] 2021-10-05 18:52:47.431 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:52:47.444 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:52:47.445 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 18:52:49.918 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 18:52:49.951 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:52:49.956 Log:10 - invalidOldPassword test is skipped.
+[logs_null INFO ] 2021-10-05 18:52:50.036 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 18:52:50.086 Log:10 - I am in onFinish method ChangePassword
+[logs_null INFO ] 2021-10-05 18:53:13.286 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:53:13.301 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:53:13.302 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 18:53:15.749 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 18:53:15.778 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:53:15.781 Log:10 - invalidOldPassword test is skipped.
+[logs_null INFO ] 2021-10-05 18:53:15.885 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 18:53:15.918 Log:10 - I am in onFinish method ChangePassword
+[logs_null INFO ] 2021-10-05 18:53:28.605 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:53:28.617 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:53:28.617 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 18:53:31.047 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 18:53:31.076 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:53:31.079 Log:10 - invalidOldPassword test is skipped.
+[logs_null INFO ] 2021-10-05 18:53:31.150 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 18:53:31.191 Log:10 - I am in onFinish method ChangePassword
+[logs_null INFO ] 2021-10-05 18:54:18.636 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:54:18.648 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:54:18.649 BaseTest:205 - load strings/strings.xml
+[logs_null FATAL] 2021-10-05 18:54:21.126 BaseTest:230 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-05 18:54:21.157 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:54:21.159 Log:10 - invalidOldPassword test is skipped.
+[logs_null INFO ] 2021-10-05 18:54:21.233 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 18:54:21.289 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 18:57:42.979 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:57:42.990 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:57:42.991 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 18:58:02.915 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 18:58:05.291 ChangePassword:49 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 18:58:05.839 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:58:05.933 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 18:58:08.096 BaseTest:122 - video path: videos\null_null\2021-10-05-18-57-42\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 18:58:08.498 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 18:58:08.684 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 18:59:44.534 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 18:59:44.546 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 18:59:44.546 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 18:59:54.228 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 18:59:56.371 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 18:59:57.896 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 18:59:57.978 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 18:59:59.457 BaseTest:122 - video path: videos\null_null\2021-10-05-18-59-44\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 18:59:59.997 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:00:00.196 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:00:40.789 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:00:40.801 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:00:40.801 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:00:49.856 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:00:54.125 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:00:55.732 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:00:55.831 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:00:57.730 BaseTest:122 - video path: videos\null_null\2021-10-05-19-00-40\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:00:58.260 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:00:58.438 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:02:05.031 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:02:05.042 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:02:05.042 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:02:13.907 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:02:16.129 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:02:16.233 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:02:16.318 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:02:17.610 BaseTest:122 - video path: videos\null_null\2021-10-05-19-02-05\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:02:18.025 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:02:18.209 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:02:56.643 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:02:56.655 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:02:56.656 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:03:07.481 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:03:09.818 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:03:09.929 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:03:12.026 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:03:13.468 BaseTest:122 - video path: videos\null_null\2021-10-05-19-02-56\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:03:13.963 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:03:14.172 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:05:51.602 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:05:51.616 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:05:51.617 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:05:59.872 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:06:02.099 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:06:02.205 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:06:02.312 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:06:03.786 BaseTest:122 - video path: videos\null_null\2021-10-05-19-05-51\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:06:04.159 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:06:04.391 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:07:20.356 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:07:20.377 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:07:20.380 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:07:29.279 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:07:31.798 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:07:38.458 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 19:07:40.223 BaseTest:294 - Password is Ankitddfa@1234
+[logs_null INFO ] 2021-10-05 19:07:41.373 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:07:42.829 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:07:44.321 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:07:45.161 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:08:31.701 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:08:31.712 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:08:31.713 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:08:41.748 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:08:54.990 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:08:56.549 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:09:02.004 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:09:03.862 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:09:05.010 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:09:18.432 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:09:21.594 BaseTest:122 - video path: videos\null_null\2021-10-05-19-08-31\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:09:22.103 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:09:22.319 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:10:27.148 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:10:27.159 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:10:27.160 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:10:34.974 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:10:37.098 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:10:38.571 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:10:43.695 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:10:45.549 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:10:46.675 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:10:58.196 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:11:01.337 BaseTest:122 - video path: videos\null_null\2021-10-05-19-10-27\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:11:01.746 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:11:01.968 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:11:58.741 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:11:58.752 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:11:58.753 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:12:07.843 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:12:10.265 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:12:10.387 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:12:14.409 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:12:16.194 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:12:16.829 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:12:18.348 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:12:19.591 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:12:31.262 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:12:34.638 BaseTest:122 - video path: videos\null_null\2021-10-05-19-11-58\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:12:35.095 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:12:35.364 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:12:59.915 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:12:59.926 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:12:59.927 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:13:08.553 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:13:10.732 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:13:10.851 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:13:15.162 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:13:17.037 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:13:18.192 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:13:19.722 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:13:20.936 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:13:22.000 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:13:23.460 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:13:25.515 BaseTest:294 - Old Password is Ankitaddfg@1234
+[logs_null INFO ] 2021-10-05 19:13:26.910 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:13:28.131 BaseTest:294 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:13:30.284 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:13:34.498 BaseTest:122 - video path: videos\null_null\2021-10-05-19-12-59\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:13:34.940 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:13:35.177 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:14:28.068 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:14:28.090 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:14:28.091 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:14:37.061 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:14:39.253 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:14:43.634 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:14:45.534 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:14:46.674 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:14:48.276 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:14:49.560 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:14:50.509 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:14:51.979 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:14:54.037 BaseTest:294 - Old Password is Ankitaddfg@1234
+[logs_null INFO ] 2021-10-05 19:14:55.423 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:14:56.673 BaseTest:294 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:14:57.317 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:15:04.731 BaseTest:122 - video path: videos\null_null\2021-10-05-19-14-27\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:15:05.232 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:30:54.255 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:30:54.276 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:30:54.277 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:31:02.500 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:31:04.794 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:31:18.411 BaseTest:122 - video path: videos\null_null\2021-10-05-19-30-53\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:31:19.315 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 19:31:30.971 BaseTest:294 - Email is invaliduser@gmail.com
+[logs_null INFO ] 2021-10-05 19:31:32.737 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:31:33.868 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:32:12.329 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:32:12.340 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:32:12.341 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:32:21.327 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:32:34.535 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:32:34.643 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:32:35.647 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:32:37.971 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:32:38.613 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:32:40.132 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:32:41.368 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:32:42.248 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:32:43.695 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:32:45.794 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:32:47.178 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:32:48.392 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:32:49.064 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:32:51.442 Log:10 - blankConfirmPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:32:54.975 BaseTest:122 - video path: videos\null_null\2021-10-05-19-32-12\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:32:55.902 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 19:32:55.905 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 19:33:07.343 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-05 19:33:08.883 BaseTest:122 - video path: videos\null_null\2021-10-05-19-32-12\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 19:33:09.805 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:33:09.808 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:33:34.085 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:33:34.097 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:33:34.098 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:33:44.455 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:33:57.856 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:33:59.451 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:34:04.573 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:34:06.474 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:34:07.623 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:34:09.150 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:34:10.368 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:34:11.276 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:34:12.808 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:34:14.931 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:34:16.295 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:34:17.527 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:34:18.180 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:34:20.569 Log:10 - blankConfirmPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:34:24.680 BaseTest:122 - video path: videos\null_null\2021-10-05-19-33-34\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:34:25.690 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 19:34:27.176 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 19:34:32.306 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:34:34.162 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:34:35.298 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:34:36.647 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:34:37.860 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:34:38.801 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:34:40.244 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:34:42.295 BaseTest:294 - Old Password is 
+[logs_null INFO ] 2021-10-05 19:34:44.793 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 19:34:46.062 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:34:46.705 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:34:49.051 Log:10 - blankData test is failed.
+[logs_null INFO ] 2021-10-05 19:34:53.183 BaseTest:122 - video path: videos\null_null\2021-10-05-19-33-34\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 19:34:55.186 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:34:56.688 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:35:02.549 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:35:04.295 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:35:05.448 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:35:06.871 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:35:08.633 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:35:09.520 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:35:10.863 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:35:12.800 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:35:14.169 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 19:35:15.392 BaseTest:294 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:35:16.032 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:35:18.406 Log:10 - blankNewPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:35:22.355 BaseTest:122 - video path: videos\null_null\2021-10-05-19-33-34\ChangePassword\blankNewPassword.mp4
+[logs_null INFO ] 2021-10-05 19:35:23.279 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:35:24.807 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:35:29.905 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:35:31.758 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:35:32.930 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:35:34.333 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:35:35.547 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:35:36.547 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:35:37.911 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:35:39.898 BaseTest:294 - Old Password is Ankitaddfg@1234
+[logs_null INFO ] 2021-10-05 19:35:41.231 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:35:42.466 BaseTest:294 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:35:43.107 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:35:46.123 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:35:49.929 BaseTest:122 - video path: videos\null_null\2021-10-05-19-33-34\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:35:50.847 ChangePassword:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:35:52.271 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:35:57.407 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:35:59.241 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:36:00.371 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:36:02.165 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:36:03.394 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:36:04.228 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:36:05.585 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:36:07.565 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:36:08.942 BaseTest:294 - New Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:36:10.156 BaseTest:294 - Confirm Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:36:10.780 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:36:13.570 Log:10 - validOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:36:18.398 BaseTest:122 - video path: videos\null_null\2021-10-05-19-33-34\ChangePassword\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:36:18.957 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:36:19.263 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:38:46.940 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:38:46.950 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:38:46.951 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:38:56.433 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:38:58.602 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:39:00.095 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:39:05.226 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:39:07.093 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:39:08.233 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:39:10.063 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:39:11.269 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:39:12.193 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:39:13.626 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:39:15.720 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:39:17.130 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:39:18.375 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:39:19.032 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:39:21.416 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:39:25.237 BaseTest:122 - video path: videos\null_null\2021-10-05-19-38-46\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:39:26.190 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 19:39:27.689 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 19:39:32.810 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:39:34.636 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:39:35.775 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:39:37.215 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:39:38.455 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:39:39.394 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:39:40.823 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:39:42.870 BaseTest:294 - Old Password is 
+[logs_null INFO ] 2021-10-05 19:39:44.241 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 19:39:45.457 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:39:46.071 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:39:48.401 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-05 19:39:52.528 BaseTest:122 - video path: videos\null_null\2021-10-05-19-38-46\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 19:39:53.501 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:39:54.924 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:40:00.045 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:40:01.985 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:40:03.106 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:40:04.502 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:40:05.725 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:40:06.702 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:40:08.086 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:40:10.118 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:40:11.453 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 19:40:12.657 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:40:13.299 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:40:15.618 Log:10 - blankNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:40:19.459 BaseTest:122 - video path: videos\null_null\2021-10-05-19-38-46\ChangePassword\blankNewPassword.mp4
+[logs_null INFO ] 2021-10-05 19:40:20.367 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:40:21.889 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:40:26.988 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:40:28.803 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:40:29.920 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:40:31.332 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:40:32.551 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:40:33.529 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:40:34.884 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:40:36.867 BaseTest:294 - Old Password is Ankitaddfg@12345
+[logs_null INFO ] 2021-10-05 19:40:38.225 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:40:39.425 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:40:40.063 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:40:42.367 Log:10 - invalidOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:40:46.198 BaseTest:122 - video path: videos\null_null\2021-10-05-19-38-46\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:40:47.136 ChangePassword:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 19:40:48.641 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:40:53.716 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:40:55.498 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:40:56.636 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:40:57.996 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:40:59.209 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:41:00.225 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:41:01.948 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:41:03.967 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:41:05.325 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:41:06.549 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:41:07.182 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:41:10.666 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:41:14.506 BaseTest:122 - video path: videos\null_null\2021-10-05-19-38-46\ChangePassword\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 19:41:15.124 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:41:15.363 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:51:57.196 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:51:57.208 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:51:57.209 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:52:06.748 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:52:09.058 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:52:10.698 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:52:15.792 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:52:17.657 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:52:18.797 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:52:20.279 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:52:21.541 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:52:22.453 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:52:23.834 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:52:25.820 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:52:27.221 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 19:52:28.464 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:52:29.104 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:52:31.479 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:52:35.863 BaseTest:122 - video path: videos\null_null\2021-10-05-19-51-57\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:52:36.852 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 19:52:38.388 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 19:53:06.942 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:53:06.953 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:53:06.954 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:53:17.372 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:53:30.787 ChangePassword:50 - 
+****** starting test:invalidConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:53:32.440 Log:10 - invalidConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:53:37.988 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:53:39.842 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:53:40.985 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:54:30.303 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:54:30.314 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:54:30.315 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:54:39.278 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:54:52.377 ChangePassword:50 - 
+****** starting test:invalidConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:54:53.994 Log:10 - invalidConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:54:59.109 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:55:00.927 BaseTest:294 - Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:55:02.472 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:55:16.368 Log:10 - invalidConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:55:18.376 BaseTest:122 - video path: videos\null_null\2021-10-05-19-54-30\ChangePassword\invalidConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:55:19.259 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:55:20.828 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:55:33.216 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:55:33.227 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:55:33.227 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:55:43.491 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:55:56.112 ChangePassword:50 - 
+****** starting test:invalidConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:55:57.787 Log:10 - invalidConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:56:02.944 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:56:04.705 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:56:05.845 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:56:07.350 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:56:08.586 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:56:09.509 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:56:10.966 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:56:12.996 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:56:14.330 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 19:56:15.625 BaseTest:294 - Confirm Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 19:56:17.439 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:56:19.813 Log:10 - invalidConfirmPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:56:24.104 BaseTest:122 - video path: videos\null_null\2021-10-05-19-55-33\ChangePassword\invalidConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:56:24.955 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:56:26.603 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:56:34.382 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:56:36.193 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:56:37.469 Log:10 - invalidNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 19:56:40.522 BaseTest:122 - video path: videos\null_null\2021-10-05-19-55-33\ChangePassword\invalidNewPassword.mp4
+[logs_null INFO ] 2021-10-05 19:56:41.065 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:56:41.340 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 19:58:05.539 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 19:58:05.549 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 19:58:05.550 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 19:58:13.682 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 19:58:15.845 ChangePassword:50 - 
+****** starting test:invalidConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 19:58:17.397 Log:10 - invalidConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:58:22.536 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:58:24.285 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:58:24.939 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:58:26.467 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:58:27.721 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:58:28.635 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:58:30.069 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:58:32.133 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 19:58:33.509 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 19:58:34.747 BaseTest:294 - Confirm Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 19:58:35.376 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:58:37.756 Log:10 - invalidConfirmPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:58:41.871 BaseTest:122 - video path: videos\null_null\2021-10-05-19-58-05\ChangePassword\invalidConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 19:58:42.789 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 19:58:44.391 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 19:58:49.505 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 19:58:51.336 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:58:52.447 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 19:58:53.921 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 19:58:55.169 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 19:58:56.175 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 19:58:57.629 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 19:58:59.692 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 19:59:01.063 BaseTest:294 - New Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 19:59:02.661 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 19:59:03.305 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 19:59:05.533 Log:10 - invalidNewPassword test is failed.
+[logs_null INFO ] 2021-10-05 19:59:09.689 BaseTest:122 - video path: videos\null_null\2021-10-05-19-58-05\ChangePassword\invalidNewPassword.mp4
+[logs_null INFO ] 2021-10-05 19:59:10.183 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 19:59:10.405 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:03:06.817 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:03:06.829 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:03:06.829 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:03:14.208 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:03:16.375 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 20:03:17.809 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:03:22.903 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:03:24.695 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:03:25.821 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:03:27.250 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:03:28.444 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:03:29.323 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:03:30.605 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:03:32.888 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:03:34.699 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:03:35.942 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:03:36.592 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:03:38.852 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:03:43.566 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 20:03:44.325 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 20:03:45.680 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 20:03:50.798 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:03:52.557 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:03:53.673 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:03:55.017 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:03:56.223 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:03:57.220 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:03:58.496 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:04:00.386 BaseTest:294 - Old Password is 
+[logs_null INFO ] 2021-10-05 20:04:01.964 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:04:03.179 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:04:03.794 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:04:06.036 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-05 20:04:10.054 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 20:04:10.796 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:04:12.195 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:04:17.248 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:04:19.034 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:04:20.157 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:04:21.734 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:04:22.897 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:04:23.900 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:04:25.141 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:04:26.958 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:04:28.248 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:04:29.442 BaseTest:294 - Confirm Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:04:30.063 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:04:32.274 Log:10 - blankNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:04:38.375 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\blankNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:04:39.138 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:04:40.496 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:04:45.611 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:04:47.358 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:04:48.486 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:04:49.794 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:04:50.972 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:04:51.964 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:04:53.198 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:04:55.033 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:04:56.337 BaseTest:294 - New Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:04:57.542 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:04:58.156 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:05:00.380 Log:10 - invalidNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:05:04.497 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\invalidNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:05:05.242 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:05:06.602 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:05:11.640 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:05:13.385 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:05:14.495 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:05:15.820 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:05:17.002 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:05:17.982 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:05:19.210 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:05:21.070 BaseTest:294 - Old Password is Ankitafg@1234
+[logs_null INFO ] 2021-10-05 20:05:22.366 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:05:23.558 BaseTest:294 - Confirm Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:05:24.177 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:05:27.086 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:05:31.129 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:05:31.884 ChangePassword:50 - 
+****** starting test:mismatchPassword******
+
+[logs_null INFO ] 2021-10-05 20:05:33.210 Log:10 - mismatchPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:05:38.233 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:05:39.986 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:05:41.099 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:05:42.396 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:05:43.557 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:05:44.568 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:05:45.784 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:05:47.619 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 20:05:48.908 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:05:50.100 BaseTest:294 - Confirm Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:05:51.058 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:05:53.256 Log:10 - mismatchPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:05:57.953 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\mismatchPassword.mp4
+[logs_null INFO ] 2021-10-05 20:05:59.315 ChangePassword:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:06:00.640 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:06:05.712 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:06:07.460 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:06:08.560 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:06:09.696 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:06:11.562 BaseTest:122 - video path: videos\null_null\2021-10-05-20-03-06\ChangePassword\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:06:11.936 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:06:12.147 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:07:04.732 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:07:04.743 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:07:04.744 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:07:13.499 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:07:15.564 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 20:07:16.991 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:07:22.096 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:07:23.892 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:07:25.029 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:07:26.520 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:07:27.753 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:07:28.586 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:07:29.900 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:07:31.818 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:07:33.203 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:07:34.447 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:07:35.095 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:07:37.359 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:07:41.580 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 20:07:42.489 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 20:07:43.923 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 20:07:48.999 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:07:50.783 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:07:51.903 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:07:53.274 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:07:54.466 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:07:55.433 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:07:56.694 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:07:58.553 BaseTest:294 - Old Password is 
+[logs_null INFO ] 2021-10-05 20:07:59.889 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:08:01.078 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:08:01.960 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:08:04.196 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-05 20:08:08.149 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 20:08:08.902 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:08:10.167 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:08:15.264 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:08:17.004 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:08:18.125 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:08:19.404 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:08:20.588 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:08:21.603 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:08:22.847 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:08:24.708 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:08:25.999 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:08:27.194 BaseTest:294 - Confirm Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:08:27.816 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:08:30.044 Log:10 - blankNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:08:34.009 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\blankNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:08:34.767 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:08:36.107 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:08:41.174 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:08:42.933 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:08:44.186 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:08:45.510 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:08:46.691 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:08:47.691 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:08:48.918 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:08:50.759 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:08:52.031 BaseTest:294 - New Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:08:53.223 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:08:53.839 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:08:56.283 Log:10 - invalidNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:09:00.834 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\invalidNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:09:01.645 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:09:03.006 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:09:08.044 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:09:09.797 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:09:11.370 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:09:12.668 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:09:13.823 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:09:14.823 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:09:16.054 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:09:17.876 BaseTest:294 - Old Password is Ankitafg@1234
+[logs_null INFO ] 2021-10-05 20:09:19.169 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:09:20.380 BaseTest:294 - Confirm Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:09:20.991 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:09:24.013 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:09:28.063 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:09:28.937 ChangePassword:50 - 
+****** starting test:mismatchPassword******
+
+[logs_null INFO ] 2021-10-05 20:09:30.324 Log:10 - mismatchPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:09:35.434 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:09:37.181 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:09:38.302 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:09:39.561 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:09:40.735 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:09:41.755 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:09:42.963 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:09:44.760 BaseTest:294 - Old Password is Ankita@12345
+[logs_null INFO ] 2021-10-05 20:09:46.041 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:09:47.253 BaseTest:294 - Confirm Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:09:47.873 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:09:50.093 Log:10 - mismatchPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:09:53.916 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\mismatchPassword.mp4
+[logs_null INFO ] 2021-10-05 20:09:54.719 ChangePassword:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:09:56.020 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:10:01.094 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:10:03.036 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:10:04.150 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:10:05.505 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:10:06.668 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:10:07.676 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:10:08.875 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:10:10.712 BaseTest:294 - Old Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:10:11.995 BaseTest:294 - New Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:10:13.198 BaseTest:294 - Confirm Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:10:13.798 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:10:17.140 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:10:21.218 BaseTest:122 - video path: videos\null_null\2021-10-05-20-07-04\ChangePassword\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:10:21.588 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:10:21.801 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:17:58.387 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:17:58.398 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:17:58.399 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:18:05.958 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:18:08.074 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 20:18:10.076 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:18:15.184 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:18:16.968 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:18:18.109 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:18:30.279 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:18:32.996 BaseTest:122 - video path: videos\null_null\2021-10-05-20-17-58\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 20:18:33.756 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 20:18:35.179 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 20:18:40.774 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:18:42.586 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:18:50.836 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:18:50.847 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:18:50.848 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:19:00.112 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:19:13.132 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 20:19:14.742 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:19:19.880 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:19:21.638 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:19:22.767 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:21:44.948 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:21:44.959 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:21:44.960 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:21:53.504 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:22:06.150 ChangePassword:50 - 
+****** starting test:blankConfirmPassword******
+
+[logs_null INFO ] 2021-10-05 20:22:07.643 Log:10 - blankConfirmPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:22:12.766 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:22:14.562 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:22:15.708 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:22:17.216 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:22:18.419 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:22:19.375 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:22:20.685 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:22:22.588 BaseTest:294 - Old Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:22:23.914 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:22:25.125 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:22:25.750 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:22:28.005 Log:10 - blankConfirmPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:22:32.137 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\blankConfirmPassword.mp4
+[logs_null INFO ] 2021-10-05 20:22:32.622 ChangePassword:50 - 
+****** starting test:blankData******
+
+[logs_null INFO ] 2021-10-05 20:22:34.040 Log:10 - blankData test is starting.
+[logs_null INFO ] 2021-10-05 20:22:39.112 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:22:40.898 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:22:42.012 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:22:43.420 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:22:44.585 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:22:45.569 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:22:46.829 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:22:48.723 BaseTest:294 - Old Password is 
+[logs_null INFO ] 2021-10-05 20:22:50.037 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:22:51.233 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:22:51.852 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:22:54.089 Log:10 - blankData test is succeed.
+[logs_null INFO ] 2021-10-05 20:22:58.379 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\blankData.mp4
+[logs_null INFO ] 2021-10-05 20:22:59.126 ChangePassword:50 - 
+****** starting test:blankNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:23:00.457 Log:10 - blankNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:23:05.525 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:23:07.283 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:23:08.414 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:23:09.745 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:23:10.946 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:23:12.269 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:23:13.540 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:23:15.392 BaseTest:294 - Old Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:23:16.693 BaseTest:294 - New Password is 
+[logs_null INFO ] 2021-10-05 20:23:17.899 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:23:18.523 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:23:20.784 Log:10 - blankNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:23:24.947 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\blankNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:23:25.758 ChangePassword:50 - 
+****** starting test:invalidNewPassword******
+
+[logs_null INFO ] 2021-10-05 20:23:27.168 Log:10 - invalidNewPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:23:32.257 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:23:34.018 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:23:35.126 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:23:36.467 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:23:37.664 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:23:38.609 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:23:39.836 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:23:41.694 BaseTest:294 - Old Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:23:42.983 BaseTest:294 - New Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:23:44.179 BaseTest:294 - Confirm Password is 
+[logs_null INFO ] 2021-10-05 20:23:44.795 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:23:47.028 Log:10 - invalidNewPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:23:51.042 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\invalidNewPassword.mp4
+[logs_null INFO ] 2021-10-05 20:23:51.800 ChangePassword:50 - 
+****** starting test:invalidOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:23:53.206 Log:10 - invalidOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:23:58.201 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:23:59.939 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:24:01.063 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:24:02.365 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:24:03.551 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:24:04.544 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:24:05.761 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:24:07.597 BaseTest:294 - Old Password is Ankitafg@123456
+[logs_null INFO ] 2021-10-05 20:24:08.875 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:24:10.066 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:24:10.680 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:24:13.610 Log:10 - invalidOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:24:17.720 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\invalidOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:24:18.495 ChangePassword:50 - 
+****** starting test:mismatchPassword******
+
+[logs_null INFO ] 2021-10-05 20:24:19.882 Log:10 - mismatchPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:24:24.951 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:24:26.686 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:24:27.797 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:24:29.120 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:24:30.290 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:24:31.280 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:24:32.504 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:24:34.313 BaseTest:294 - Old Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:24:35.604 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:24:36.803 BaseTest:294 - Confirm Password is Ankitafkkfkfkdkfmdkf@1234
+[logs_null INFO ] 2021-10-05 20:24:37.413 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:24:39.636 Log:10 - mismatchPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:24:43.918 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\mismatchPassword.mp4
+[logs_null INFO ] 2021-10-05 20:24:44.712 ChangePassword:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:24:46.066 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:24:51.154 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:24:52.923 BaseTest:294 - Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:24:54.480 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:24:55.844 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:24:57.025 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:24:57.982 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:24:59.205 BaseTest:274 - Clicking on Change Button 
+[logs_null INFO ] 2021-10-05 20:25:00.984 BaseTest:294 - Old Password is Ankita@123456
+[logs_null INFO ] 2021-10-05 20:25:02.508 BaseTest:294 - New Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:25:03.707 BaseTest:294 - Confirm Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:25:04.314 BaseTest:274 - Clicking on Save Button 
+[logs_null INFO ] 2021-10-05 20:25:07.687 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:25:12.147 BaseTest:122 - video path: videos\null_null\2021-10-05-20-21-44\ChangePassword\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:25:12.535 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:25:12.791 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:49:02.009 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:49:02.022 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:49:02.023 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:49:11.181 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:49:13.661 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:49:15.233 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:49:15.337 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:49:17.424 BaseTest:122 - video path: videos\null_null\2021-10-05-20-49-02\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:49:17.819 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:49:18.042 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:49:58.104 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:49:58.116 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:49:58.117 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:50:05.784 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:50:07.980 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:50:09.515 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:50:09.627 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:50:11.732 BaseTest:122 - video path: videos\null_null\2021-10-05-20-49-58\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:50:12.158 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:50:12.395 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:50:33.202 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:50:33.213 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:50:33.214 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:50:40.721 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:50:42.938 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:50:44.611 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:50:49.705 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:50:51.496 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:50:52.631 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:50:54.120 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:50:55.327 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:50:56.669 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:50:57.935 BaseTest:274 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-05 20:50:59.804 BaseTest:294 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-05 20:51:01.030 BaseTest:274 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-05 20:52:08.521 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:52:08.623 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:52:08.624 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:52:17.204 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:52:30.042 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:52:31.877 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:52:36.989 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:52:38.785 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:52:39.979 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:52:41.478 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:52:42.678 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:52:43.523 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:52:44.823 BaseTest:274 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-05 20:52:46.724 BaseTest:294 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-05 20:52:47.940 BaseTest:274 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-05 20:53:01.407 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:53:06.145 BaseTest:122 - video path: videos\null_null\2021-10-05-20-52-08\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:53:06.645 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:53:06.907 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:53:09.197 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:53:09.213 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:53:09.214 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:53:17.611 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:53:20.021 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:53:21.561 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:53:26.675 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:53:28.461 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:53:29.098 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:53:30.594 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:53:31.797 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:53:33.073 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:53:34.365 BaseTest:274 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-05 20:53:36.242 BaseTest:294 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-05 20:53:37.462 BaseTest:274 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-05 20:53:50.799 Log:10 - validOldPassword test is succeed.
+[logs_null INFO ] 2021-10-05 20:53:55.134 BaseTest:122 - video path: videos\null_null\2021-10-05-20-53-09\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:53:55.503 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:53:55.741 BaseTest:151 - Appium server stopped
+[logs_null INFO ] 2021-10-05 20:54:16.396 BaseTest:193 - log path: logs\_null
+[logs_null INFO ] 2021-10-05 20:54:16.408 BaseTest:200 - load config.properties
+[logs_null INFO ] 2021-10-05 20:54:16.409 BaseTest:205 - load strings/strings.xml
+[logs_null INFO ] 2021-10-05 20:54:23.901 BaseTest:228 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-05 20:54:26.270 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-05 20:54:27.853 Log:10 - validOldPassword test is starting.
+[logs_null INFO ] 2021-10-05 20:54:33.077 BaseTest:294 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-05 20:54:34.853 BaseTest:294 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-05 20:54:36.125 BaseTest:274 - Clicking on Login Button
+[logs_null INFO ] 2021-10-05 20:54:37.659 BaseTest:274 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-05 20:54:38.866 BaseTest:274 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-05 20:54:39.709 BaseTest:274 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-05 20:54:41.009 BaseTest:274 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-05 20:54:43.327 BaseTest:294 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-05 20:54:44.556 BaseTest:274 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-05 20:54:48.172 BaseTest:294 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-05 20:54:50.172 BaseTest:294 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-05 20:54:52.170 BaseTest:294 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-05 20:54:54.164 BaseTest:294 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-05 20:54:55.192 BaseTest:274 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-05 20:54:57.419 Log:10 - validOldPassword test is failed.
+[logs_null INFO ] 2021-10-05 20:55:03.280 BaseTest:122 - video path: videos\null_null\2021-10-05-20-54-16\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-05 20:55:03.774 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-05 20:55:04.005 BaseTest:151 - Appium server stopped

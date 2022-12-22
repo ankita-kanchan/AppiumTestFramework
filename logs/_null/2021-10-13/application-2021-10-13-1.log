@@ -1,0 +1,353 @@
+[logs_null INFO ] 2021-10-13 12:44:54.236 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 12:44:54.434 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 12:44:54.451 BaseTest:206 - load strings/strings.xml
+[logs_null FATAL] 2021-10-13 12:44:56.938 BaseTest:231 - driver initialization failure. ABORT!!!
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GIJQBVN', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: AndroidDriver
+[logs_null INFO ] 2021-10-13 13:19:57.768 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:19:57.821 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:19:57.823 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:20:26.764 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:20:29.926 ChangePhoneTests:50 - 
+****** starting test:validOldPassword******
+
+[logs_null INFO ] 2021-10-13 13:20:36.873 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:20:38.685 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:20:39.827 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:20:41.438 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:20:42.673 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:20:43.599 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:20:45.040 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:20:47.538 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-13 13:20:48.737 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:20:54.397 BaseTest:296 - OTP Digit 1 is 7
+[logs_null INFO ] 2021-10-13 13:20:56.431 BaseTest:296 - OTP Digit 2 is 7
+[logs_null INFO ] 2021-10-13 13:20:58.382 BaseTest:296 - OTP Digit 3 is 5
+[logs_null INFO ] 2021-10-13 13:21:00.383 BaseTest:296 - OTP Digit 4 is 7
+[logs_null INFO ] 2021-10-13 13:21:01.875 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:21:14.799 BaseTest:123 - video path: videos\null_null\2021-10-13-13-19-56\ChangePhoneTests\validOldPassword.mp4
+[logs_null INFO ] 2021-10-13 13:21:15.666 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-13 13:29:22.836 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:29:22.861 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:29:22.865 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:29:34.848 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:29:37.271 ChangePhoneTests:50 - 
+****** starting test:existingPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:29:46.182 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:29:48.012 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:29:49.180 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:29:50.862 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:29:52.144 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:29:53.026 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:29:54.563 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:29:56.727 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-13 13:29:57.929 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:30:08.510 BaseTest:123 - video path: videos\null_null\2021-10-13-13-29-22\ChangePhoneTests\existingPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:30:09.709 ChangePhoneTests:50 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-13 13:30:16.943 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:30:18.836 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:30:20.156 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:30:21.814 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:30:23.085 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:30:23.947 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:30:25.397 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:30:27.461 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-13 13:30:28.643 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:31:24.238 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:31:24.261 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:31:24.262 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:31:36.956 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:31:50.706 ChangePhoneTests:50 - 
+****** starting test:existingPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:31:57.853 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:31:59.684 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:32:00.839 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:32:02.461 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:32:03.697 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:32:04.590 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:32:06.117 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:32:09.634 BaseTest:296 - New Phone No. is 7387776659
+[logs_null INFO ] 2021-10-13 13:32:10.815 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:32:21.050 BaseTest:123 - video path: videos\null_null\2021-10-13-13-31-23\ChangePhoneTests\existingPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:32:22.404 ChangePhoneTests:50 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-13 13:32:29.424 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:32:31.237 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:32:32.379 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:32:33.840 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:32:35.076 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:32:35.923 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:32:37.337 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:32:39.341 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:32:40.567 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:32:44.448 BaseTest:296 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-13 13:32:47.381 BaseTest:296 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-13 13:32:49.338 BaseTest:296 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-13 13:32:51.348 BaseTest:296 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-13 13:32:52.776 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:33:05.121 BaseTest:123 - video path: videos\null_null\2021-10-13-13-31-23\ChangePhoneTests\invalidOtp.mp4
+[logs_null INFO ] 2021-10-13 13:33:06.544 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:33:13.339 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:33:15.166 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:33:16.441 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:33:17.923 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:33:19.144 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:33:20.009 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:33:21.414 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:33:23.481 BaseTest:296 - New Phone No. is 
+[logs_null INFO ] 2021-10-13 13:33:24.667 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:33:31.980 BaseTest:123 - video path: videos\null_null\2021-10-13-13-31-23\ChangePhoneTests\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:33:33.027 ChangePhoneTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-13 13:33:39.772 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:33:41.573 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:33:42.710 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:33:44.153 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:33:45.428 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:33:46.334 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:33:47.744 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:33:49.746 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:33:50.962 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:33:54.748 BaseTest:296 - OTP Digit 1 is 4
+[logs_null INFO ] 2021-10-13 13:33:57.638 BaseTest:296 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-13 13:33:59.632 BaseTest:296 - OTP Digit 3 is 4
+[logs_null INFO ] 2021-10-13 13:34:02.637 BaseTest:296 - OTP Digit 4 is 6
+[logs_null INFO ] 2021-10-13 13:34:03.670 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:34:15.220 BaseTest:123 - video path: videos\null_null\2021-10-13-13-31-23\ChangePhoneTests\validData.mp4
+[logs_null INFO ] 2021-10-13 13:34:15.779 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-13 13:37:56.650 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:37:56.662 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:37:56.663 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:38:07.766 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:38:10.260 ChangePhoneTests:50 - 
+****** starting test:existingPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:38:12.119 Log:10 - existingPhoneNo test is starting.
+[logs_null INFO ] 2021-10-13 13:38:17.246 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:38:19.059 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:38:20.207 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:38:21.782 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:38:23.053 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:38:24.063 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:38:25.522 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:38:27.669 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:38:28.879 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:38:31.347 Log:10 - existingPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-13 13:38:39.885 BaseTest:123 - video path: videos\null_null\2021-10-13-13-37-56\ChangePhoneTests\existingPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:38:40.980 ChangePhoneTests:50 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-13 13:38:42.536 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-13 13:38:47.636 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:38:49.492 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:38:50.668 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:38:52.130 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:38:53.369 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:38:54.228 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:38:55.634 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:38:57.681 BaseTest:296 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-13 13:38:58.894 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:39:03.486 BaseTest:296 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-13 13:39:05.478 BaseTest:296 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-13 13:39:07.465 BaseTest:296 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-13 13:39:09.459 BaseTest:296 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-13 13:39:10.542 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:39:13.042 Log:10 - invalidOtp test is failed.
+[logs_null INFO ] 2021-10-13 13:39:20.349 BaseTest:123 - video path: videos\null_null\2021-10-13-13-37-56\ChangePhoneTests\invalidOtp.mp4
+[logs_null INFO ] 2021-10-13 13:39:21.741 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-13 13:39:23.373 Log:10 - invalidPhoneDigitCount test is starting.
+[logs_null INFO ] 2021-10-13 13:39:28.486 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:39:30.318 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:39:31.473 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:39:32.975 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:39:34.213 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:39:35.058 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:39:36.424 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:39:38.479 BaseTest:296 - New Phone No. is 73
+[logs_null INFO ] 2021-10-13 13:39:39.656 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:39:41.943 Log:10 - invalidPhoneDigitCount test is failed.
+[logs_null INFO ] 2021-10-13 13:39:47.419 BaseTest:123 - video path: videos\null_null\2021-10-13-13-37-56\ChangePhoneTests\invalidPhoneDigitCount.mp4
+[logs_null INFO ] 2021-10-13 13:39:48.309 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:39:49.825 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-13 13:39:54.955 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:39:56.761 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:39:57.887 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:39:59.311 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:40:00.558 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:40:01.983 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:40:03.446 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:40:05.476 BaseTest:296 - New Phone No. is 
+[logs_null INFO ] 2021-10-13 13:40:06.657 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:40:09.001 Log:10 - invalidPhoneNo test is failed.
+[logs_null INFO ] 2021-10-13 13:40:14.193 BaseTest:123 - video path: videos\null_null\2021-10-13-13-37-56\ChangePhoneTests\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:40:15.032 ChangePhoneTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-13 13:40:16.901 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-13 13:40:22.018 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:40:23.866 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:40:25.034 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:40:26.484 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:40:27.719 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:40:29.147 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:40:30.534 BaseTest:275 - Clicking on Verfify Phone
+[logs_null INFO ] 2021-10-13 13:40:32.527 BaseTest:296 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-13 13:40:33.748 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:40:37.500 BaseTest:296 - OTP Digit 1 is 9
+[logs_null INFO ] 2021-10-13 13:40:39.230 BaseTest:296 - OTP Digit 2 is 3
+[logs_null INFO ] 2021-10-13 13:40:41.235 BaseTest:296 - OTP Digit 3 is 2
+[logs_null INFO ] 2021-10-13 13:40:43.213 BaseTest:296 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-13 13:40:44.281 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:40:47.964 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-13 13:40:55.569 BaseTest:123 - video path: videos\null_null\2021-10-13-13-37-56\ChangePhoneTests\validData.mp4
+[logs_null INFO ] 2021-10-13 13:40:56.311 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-13 13:40:58.529 BaseTest:152 - Appium server stopped
+[logs_null INFO ] 2021-10-13 13:49:38.499 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:49:38.532 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:49:38.532 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:49:48.455 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:49:51.105 ChangePhoneTests:50 - 
+****** starting test:existingPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:49:52.779 Log:10 - existingPhoneNo test is starting.
+[logs_null INFO ] 2021-10-13 13:49:57.918 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:49:59.880 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:50:01.047 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:50:02.731 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:50:04.014 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:50:04.894 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:50:06.443 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:50:08.660 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:50:09.832 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:50:12.306 Log:10 - existingPhoneNo test is failed.
+[logs_null INFO ] 2021-10-13 13:50:19.447 BaseTest:123 - video path: videos\null_null\2021-10-13-13-49-38\ChangePhoneTests\existingPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:50:20.536 ChangePhoneTests:50 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-13 13:50:22.088 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-13 13:50:27.491 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:50:29.341 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:50:30.472 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:50:31.944 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:50:33.205 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:50:34.064 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:50:35.489 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:50:37.484 BaseTest:296 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-13 13:50:38.708 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:50:52.825 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-13 13:51:00.490 BaseTest:123 - video path: videos\null_null\2021-10-13-13-49-38\ChangePhoneTests\invalidOtp.mp4
+[logs_null INFO ] 2021-10-13 13:51:01.591 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-13 13:51:03.451 Log:10 - invalidPhoneDigitCount test is starting.
+[logs_null INFO ] 2021-10-13 13:51:08.592 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:51:10.455 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:51:11.604 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:51:13.118 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:51:14.381 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:51:15.288 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:52:27.946 BaseTest:194 - log path: logs\_null
+[logs_null INFO ] 2021-10-13 13:52:27.958 BaseTest:201 - load config.properties
+[logs_null INFO ] 2021-10-13 13:52:27.958 BaseTest:206 - load strings/strings.xml
+[logs_null INFO ] 2021-10-13 13:52:37.592 BaseTest:229 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, appActivity=.activity.SplashScreenActivity, appPackage=com.avercast.fanbuku_app, automationName=UiAutomator2, deviceName=Redmi Note 10S, udid=WOBUKBZL4D6T9PSO}, deviceApiLevel=30, deviceManufacturer=Xiaomi, deviceModel=M2101K7BI, deviceName=WOBUKBZL4D6T9PSO, deviceScreenDensity=440, deviceScreenSize=1080x2400, deviceUDID=WOBUKBZL4D6T9PSO, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=93, takesScreenshot=true, udid=WOBUKBZL4D6T9PSO, viewportRect={left=0, top=93, width=1080, height=2170}, warnings={}, webStorageEnabled=false}
+[logs_null INFO ] 2021-10-13 13:52:39.963 ChangePhoneTests:50 - 
+****** starting test:existingPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:52:41.501 Log:10 - existingPhoneNo test is starting.
+[logs_null INFO ] 2021-10-13 13:52:47.218 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:52:49.015 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:52:49.673 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:52:51.203 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:52:52.421 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:52:53.295 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:52:54.794 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:52:56.902 BaseTest:296 - New Phone No. is 7798210418
+[logs_null INFO ] 2021-10-13 13:52:58.110 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:53:00.609 Log:10 - existingPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-13 13:53:05.548 BaseTest:123 - video path: videos\null_null\2021-10-13-13-52-27\ChangePhoneTests\existingPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:53:06.427 ChangePhoneTests:50 - 
+****** starting test:invalidOtp******
+
+[logs_null INFO ] 2021-10-13 13:53:08.038 Log:10 - invalidOtp test is starting.
+[logs_null INFO ] 2021-10-13 13:53:13.149 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:53:15.025 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:53:16.180 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:53:17.623 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:53:18.823 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:53:19.753 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:53:21.161 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:53:23.206 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:53:24.420 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:53:27.846 BaseTest:296 - OTP Digit 1 is 1
+[logs_null INFO ] 2021-10-13 13:53:30.887 BaseTest:296 - OTP Digit 2 is 2
+[logs_null INFO ] 2021-10-13 13:53:32.747 BaseTest:296 - OTP Digit 3 is 3
+[logs_null INFO ] 2021-10-13 13:53:34.756 BaseTest:296 - OTP Digit 4 is 4
+[logs_null INFO ] 2021-10-13 13:53:36.791 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:53:40.064 Log:10 - invalidOtp test is succeed.
+[logs_null INFO ] 2021-10-13 13:53:46.247 BaseTest:123 - video path: videos\null_null\2021-10-13-13-52-27\ChangePhoneTests\invalidOtp.mp4
+[logs_null INFO ] 2021-10-13 13:53:47.761 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneDigitCount******
+
+[logs_null INFO ] 2021-10-13 13:53:49.328 Log:10 - invalidPhoneDigitCount test is starting.
+[logs_null INFO ] 2021-10-13 13:53:54.388 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:53:56.241 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:53:57.407 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:53:59.143 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:54:00.373 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:54:01.835 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:54:03.250 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:54:05.298 BaseTest:296 - New Phone No. is 73
+[logs_null INFO ] 2021-10-13 13:54:06.476 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:54:08.742 Log:10 - invalidPhoneDigitCount test is succeed.
+[logs_null INFO ] 2021-10-13 13:54:13.129 BaseTest:123 - video path: videos\null_null\2021-10-13-13-52-27\ChangePhoneTests\invalidPhoneDigitCount.mp4
+[logs_null INFO ] 2021-10-13 13:54:14.649 ChangePhoneTests:50 - 
+****** starting test:invalidPhoneNo******
+
+[logs_null INFO ] 2021-10-13 13:54:16.373 Log:10 - invalidPhoneNo test is starting.
+[logs_null INFO ] 2021-10-13 13:54:21.456 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:54:23.415 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:54:24.553 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:54:25.949 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:54:27.164 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:54:28.146 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:54:29.519 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:54:31.498 BaseTest:296 - New Phone No. is 
+[logs_null INFO ] 2021-10-13 13:54:32.713 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:54:34.996 Log:10 - invalidPhoneNo test is succeed.
+[logs_null INFO ] 2021-10-13 13:54:39.965 BaseTest:123 - video path: videos\null_null\2021-10-13-13-52-27\ChangePhoneTests\invalidPhoneNo.mp4
+[logs_null INFO ] 2021-10-13 13:54:40.858 ChangePhoneTests:50 - 
+****** starting test:validData******
+
+[logs_null INFO ] 2021-10-13 13:54:42.468 Log:10 - validData test is starting.
+[logs_null INFO ] 2021-10-13 13:54:47.544 BaseTest:296 - Email is ankita.kanchan@pi-sy.com
+[logs_null INFO ] 2021-10-13 13:54:49.352 BaseTest:296 - Password is Ankita@1234
+[logs_null INFO ] 2021-10-13 13:54:50.473 BaseTest:275 - Clicking on Login Button
+[logs_null INFO ] 2021-10-13 13:54:51.873 BaseTest:275 - Clicking on Skip Button
+[logs_null INFO ] 2021-10-13 13:54:53.087 BaseTest:275 - Clicking on Menu Button
+[logs_null INFO ] 2021-10-13 13:54:54.053 BaseTest:275 - Clicking on Profile Settings
+[logs_null INFO ] 2021-10-13 13:54:55.407 BaseTest:275 - Clicking on Change Phone
+[logs_null INFO ] 2021-10-13 13:54:57.375 BaseTest:296 - New Phone No. is 9604460059
+[logs_null INFO ] 2021-10-13 13:54:58.590 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:55:04.505 BaseTest:296 - OTP Digit 1 is 3
+[logs_null INFO ] 2021-10-13 13:55:06.438 BaseTest:296 - OTP Digit 2 is 0
+[logs_null INFO ] 2021-10-13 13:55:09.835 BaseTest:296 - OTP Digit 3 is 8
+[logs_null INFO ] 2021-10-13 13:55:12.437 BaseTest:296 - OTP Digit 4 is 8
+[logs_null INFO ] 2021-10-13 13:55:13.475 BaseTest:275 - Clicking on Submit Button 
+[logs_null INFO ] 2021-10-13 13:55:15.863 Log:10 - validData test is succeed.
+[logs_null INFO ] 2021-10-13 13:55:22.450 BaseTest:123 - video path: videos\null_null\2021-10-13-13-52-27\ChangePhoneTests\validData.mp4
+[logs_null INFO ] 2021-10-13 13:55:22.957 Log:10 - I am in onFinish method LoginTests
+[logs_null INFO ] 2021-10-13 13:55:23.216 BaseTest:152 - Appium server stopped
